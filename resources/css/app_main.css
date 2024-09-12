@@ -1,0 +1,109 @@
+
+
+ /* Questions_main  */
+
+ input[type=checkbox]:checked {
+     background-color: #73E77C;
+     border: none;
+ }
+
+ .close_btn {
+     display: flex;
+     justify-content: space-between;
+
+ }
+
+ .btn_save_div {
+     display: block;
+     justify-content: space-around;
+
+
+ }
+
+ .btn_save {
+     margin: 0 1px 0 5px;
+     padding: 3px 45px 5px 45px;
+ }
+
+ .btn_save_div_update_answers {
+
+     margin: 0px 30% 0px 0px;
+
+ }
+
+ .btn_save_update_answers {
+
+     margin: 0px 0px 0px 0px;
+     padding: 3px 45px 5px 45px;
+ }
+
+ .table_top {
+     height: 50%;
+     width: 90%;
+     overflow-x: hidden;
+     overflow-y: auto;
+ }
+
+ table td,
+ table th {
+     text-overflow: ellipsis;
+     white-space: nowrap;
+     overflow-x: auto;
+     overflow-y: auto
+ }
+
+
+ .card {
+     border-radius: .5rem;
+ }
+
+ .mask-custom {
+     background: rgba(24, 24, 16, .2);
+     border-radius: 2em;
+     backdrop-filter: blur(25px);
+     border: 2px solid rgba(255, 255, 255, 0.05);
+     background-clip: padding-box;
+     box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+ }
+
+ @media screen and (max-width:600px) {
+     .btn_save_div_update_answers {
+
+         margin: 0px 30% 0px 0px;
+
+     }
+
+     .btn_save_update_answers {
+
+         margin: 0px 0px 0px 0px;
+         padding: 3px 25px 5px 25px;
+     }
+
+     .table_top {
+         height: 50%;
+         width: 100%;
+         overflow-x: hidden;
+         overflow-y: auto;
+     }
+
+     table td,
+     table th {
+         text-overflow: ellipsis;
+         white-space: nowrap;
+
+         overflow-y: hidden;
+     }
+
+     .card {
+         border-radius: .5rem;
+     }
+
+     .mask-custom {
+         background: rgba(24, 24, 16, .2);
+         border-radius: 2em;
+         backdrop-filter: blur(25px);
+         border: 2px solid rgba(255, 255, 255, 0.05);
+         background-clip: padding-box;
+         box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+     }
+}

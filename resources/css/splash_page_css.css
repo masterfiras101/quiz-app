@@ -1,0 +1,437 @@
+
+
+/* Color of the links BEFORE scroll */
+
+.main_splash {
+    font-weight: 400;
+    background-color:hsl(0, 0%, 7%);
+    color:hsl(0, 0%, 99%);
+    padding: 0 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    color: hsl(0, 0%, 60%);
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 9999;
+} */
+
+.menu:hover {
+    color: hsl(0, 0%, 99%);
+    cursor: pointer;
+}
+
+
+.sitename {
+    color: hsl(155, 100%, 65%);
+
+        font-size: 1rem;
+            font-weight: 700;
+
+}
+
+.grid {
+    position: absolute;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    z-index: -1;
+}
+
+.grid-svg {
+    height: 80%;
+    width: 80%;
+    position: relative;
+    z-index: 1;
+}
+
+.blur {
+    height: 12rem;
+    width: 12rem;
+    background-color: hsl(155, 100%, 65%);
+    filter: blur(100px);
+    border-radius: 100px;
+    z-index: 0;
+    position: absolute;
+}
+
+.title {
+    font-size: 7rem;
+    font-weight: 700;
+    letter-spacing: -0.8rem;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    justify-content: center;
+    align-self: center;
+    height: 100%;
+    z-index: 1000;
+}
+
+/* question main page */
+
+.title-all-questions{
+    font-size: 3rem;
+        font-weight: 700;
+        letter-spacing: -0.2rem;
+        display: flex;
+        flex-direction: column;
+        color: hsl(0, 0%, 99%);
+        justify-content: center;
+        align-self: center;
+        height: 20%;
+        z-index: 1000;
+}
+
+/* end questions main */
+
+.title>p {
+    margin: 0;
+    line-height: 10rem;
+    width: auto;
+}
+
+.title>p:nth-child(1) {
+    align-self: flex-end;
+}
+
+.title>p:nth-child(2) {
+    color: hsl(155, 100%, 65%);
+    align-self: flex-start;
+}
+
+.title>p:nth-child(3) {
+    align-self: flex-start;
+}
+
+
+
+
+.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    height: 50px;
+    width: 160px;
+    z-index: 9999;
+}
+
+button {
+    height: 50px;
+    width: 160px;
+    clip-path: path("M 0 25 C 0 -5, -5 0, 80 0 S 160 -5, 160 25, 165 50 80 50, 0 55, 0 25");
+    border: none;
+    border-radius: 13px;
+    background-color: hsla(155, 100%, 65%, 1%);
+    box-shadow: 0px -3px 15px 0px hsla(155, 100%, 75%, 25%) inset;
+    color: hsl(155, 100%, 85%);
+            font-weight: 700;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    transform: translateY(0px);
+    transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+}
+
+span {
+    width: 100px;
+    height: 60px;
+    background-color:hsla(155, 100%, 75%, 25%);
+    border-radius: 100%;
+    filter: blur(20px);
+    position: absolute;
+    bottom: -50%;
+    transition: all 0.2s ease;
+}
+
+
+
+.button:hover>span {
+    opacity: 60%;
+}
+
+.button:hover>button {
+    transform: translateY(5px);
+}
+
+.button.first {
+    bottom: 60%;
+    right: 6%;
+}
+.button.new {
+    bottom: 75%;
+    right: 6%;
+
+}
+
+.button.sec {
+    bottom: 45%;
+    right: 6%;
+}
+
+.button.finish{
+
+
+    bottom: 27%;
+        left: 39%;
+}
+.button.continue {
+    bottom: 27%;
+    left: 50%;
+}
+
+.button.third {
+    bottom: 35%;
+    right: 6%;
+}
+
+.button.third>button {
+    background-color: hsla(156, 51%, 14%, 5%);
+    box-shadow: 0px -3px 15px 0px hsl(156, 51%, 14%) inset;
+
+}
+
+.button.third>span {
+    background-color:hsla(156, 51%, 30%, 50%);
+}
+
+
+.top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 50%;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 50%;
+}
+
+
+@media screen and  (min-width: 360px)
+{
+
+.button:hover>span {
+        opacity: 60%;
+    }
+
+    .button:hover>button {
+        transform: translateY(5px);
+
+
+    .button.first {
+        bottom: 0%;
+        right: 6%;
+    }
+
+    .button.sec {
+        bottom: 0%;
+        right: 6%;
+    }
+
+
+
+
+
+    .button.third {
+        bottom: 0%;
+        right: 6%;
+    }
+
+    .button.third>button {
+        background-color: hsla(156, 51%, 14%, 5%);
+        box-shadow: 0px -3px 15px 0px hsl(156, 51%, 14%) inset;
+        color: hsl(155, 100%, 65%);
+    }
+
+    .button.third>span {
+        background-color: hsla(156, 51%, 30%, 50%);
+         color: hsl(155, 100%, 65%);
+    }
+}
+}
+@media screen and (max-width: 960px) {
+
+    /* splash page */
+
+        .title>p:nth-child(2) {
+        color: hsl(155, 100%, 65%);
+        align-self: flex-end;
+        font-size: 3rem;
+    }
+
+    /* end splash page */
+    /* question main page */
+    
+        .title-all-questions {
+            font-size: 2rem;
+            font-weight: 700;
+            letter-spacing: -0.2rem;
+            display: flex;
+            flex-direction: column;
+            color: hsl(0, 0%, 99%);
+            justify-content: center;
+            align-self: center;
+            height: 20%;
+            z-index: 1000;
+        }
+    
+        /* end questions main */
+    .button {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            text-decoration: none;
+            color: inherit;
+            cursor: pointer;
+            height: 30px;
+            width: 105px;
+            z-index: 999;
+        }
+
+        button {
+            height: 50px;
+            width: 115px;
+            clip-path: path("M 0 25 C 0 -5, -5 0, 80 0 S 160 -5, 160 25, 165 50 80 50, 0 55, 0 25");
+            border: none;
+            border-radius: 13px;
+            background-color: hsla(155, 100%, 65%, 1%);
+            box-shadow: 0px -3px 15px 0px hsla(155, 100%, 75%, 25%) inset;
+            color: hsl(155, 100%,   85%);
+
+            font-weight: 700;
+            font-size: 1rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            transform: translateY(0px);
+            transition: all 0.2s ease;
+            -webkit-transition: all 0.2s ease;
+            -moz-transition: all 0.2s ease;
+            -ms-transition: all 0.2s ease;
+            -o-transition: all 0.2s ease;
+        }
+
+        span {
+            width: 80px;
+            height: 40px;
+            background-color: hsla(155, 100%, 75%, 25%);
+            border-radius: 100%;
+            filter: blur(20px);
+            position: absolute;
+            bottom: -50%;
+            transition: all 0.2s ease;
+        }
+
+.button.new {
+        bottom: 28%;
+        right: 35%;
+
+    }
+.title>p {
+        margin: 14px;
+        line-height: 8rem;
+        width: auto;
+    }
+    .title {
+            font-size: 4rem;
+            font-weight: 700;
+            letter-spacing: -0.8rem;
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+            justify-content: center;
+            align-self: center;
+            height: 100%;
+            z-index: 100;
+        }
+.button:hover>span {
+    opacity: 60%;
+}
+
+.button:hover>button {
+    transform: translateY(5px);
+    -webkit-transform: translateY(5px);
+    -moz-transform: translateY(5px);
+    -ms-transform: translateY(5px);
+    -o-transform: translateY(5px);
+}
+
+.button.first {
+    bottom:5%;
+    left: 2%;
+}
+
+.button.sec {
+    bottom: 5%;
+    right: 2%;
+}
+
+
+
+
+
+.button.third {
+    bottom: 5%;
+    right: 35%;
+}
+
+.button.third>button {
+    background-color: hsla(156, 51%, 14%, 5%);
+    box-shadow: 0px -3px 15px 0px hsl(156, 51%, 14%) inset;
+}
+
+.button.third>span {
+    background-color:hsla(156, 51%, 30%, 50%);
+}
+
+    .title {
+        font-size: 4rem;
+
+    }
+
+    .title>p {
+        line-height: 5rem;
+        letter-spacing: -0.3rem;
+    }
+
+
+    nav {
+        justify-content: center;
+    }
+
+
+
+}
