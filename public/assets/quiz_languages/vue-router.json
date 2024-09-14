@@ -1,0 +1,315 @@
+[
+    {
+      "title": "What is Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of vehicle for transportation",
+        "b": "The official router for Vue.js applications",
+        "c": "A type of hiking trail",
+        "d": "A way to route destinations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main purpose of Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Routing phone calls",
+        "b": "Managing navigation and routing in Vue.js applications",
+        "c": "A type of main purpose in outdoor activities",
+        "d": "Routing people to their destinations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Route' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A route for hiking",
+        "b": "A configuration object that defines how the application's UI should be displayed",
+        "c": "A type of route for transportation",
+        "d": "A route for navigation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Router View' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A view of a hiking route",
+        "b": "A component that displays the matched route's component",
+        "c": "A type of view in transportation",
+        "d": "A view of a navigation route"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Nested Routes' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Routes within a route",
+        "b": "Routes that are children of other routes",
+        "c": "A type of nested route in outdoor activities",
+        "d": "Routes that are part of a navigation system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Navigation Guard' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A guard for outdoor navigation",
+        "b": "A way to guard and control navigation behavior",
+        "c": "A type of guard in transportation",
+        "d": "A guard for navigating to destinations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route Param' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A parameter for routes in hiking",
+        "b": "Dynamic segments in a route's path",
+        "c": "A type of parameter for transportation routes",
+        "d": "A parameter for navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Dynamic Route Matching' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Dynamic matching of hiking routes",
+        "b": "Matching routes based on dynamic values in the route's path",
+        "c": "A type of dynamic matching in transportation routes",
+        "d": "Matching navigation routes dynamically"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Named Routes' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Named routes for outdoor activities",
+        "b": "Assigning names to routes for easier programmatic navigation",
+        "c": "A type of naming in transportation routes",
+        "d": "Naming navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Programmatic Navigation' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Programmatic navigation of hiking routes",
+        "b": "Changing routes in response to user events or in the application's code",
+        "c": "A type of programmatic navigation in transportation",
+        "d": "Programmatically navigating to destinations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'History Mode' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A mode for historical information",
+        "b": "A mode that uses the HTML5 History API for clean URLs",
+        "c": "A type of mode in transportation history",
+        "d": "A mode for historical navigation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Hash Mode' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A mode for using hashtags",
+        "b": "A mode that uses the URL hash to simulate a full URL",
+        "c": "A type of mode in transportation using hashes",
+        "d": "A mode for navigating with hashtags"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Abstract Mode' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An abstract mode for abstract ideas",
+        "b": "A mode that doesn't require a DOM and is used in non-browser environments",
+        "c": "A type of abstract mode in transportation",
+        "d": "An abstract mode for abstract navigation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Scroll Behavior' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Scrolling in hiking routes",
+        "b": "A way to control how the page scrolls when navigating to a new route",
+        "c": "A type of scroll behavior in transportation",
+        "d": "Scrolling in navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Navigation Duplicates' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Duplicate navigation routes",
+        "b": "A way to handle duplicate navigations to the same route",
+        "c": "A type of duplication in transportation routes",
+        "d": "Duplicates in navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route Matching' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Matching routes in hiking",
+        "b": "Determining which route to display based on the URL",
+        "c": "A type of matching in transportation routes",
+        "d": "Matching navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route Configuration' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Configuring routes for outdoor activities",
+        "b": "Defining the available routes and their components",
+        "c": "A type of configuration in transportation routes",
+        "d": "Configuring navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route Transition' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Transitioning between hiking routes",
+        "b": "A way to animate transitions between routes",
+        "c": "A type of transition in transportation routes",
+        "d": "Transitioning between navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Navigation Error' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An error while navigating in outdoor activities",
+        "b": "Handling errors that occur during navigation",
+        "c": "A type of error in transportation navigation",
+        "d": "Errors during navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Router Middleware' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Middleware for hiking routes",
+        "b": "A way to add functions that are executed before navigation",
+        "c": "A type of middleware in transportation",
+        "d": "Middleware for navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route Meta' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Meta information about hiking routes",
+        "b": "Additional data associated with a route",
+        "c": "A type of meta information in transportation routes",
+        "d": "Meta information about navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route Redirect' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Redirecting to new hiking routes",
+        "b": "A way to redirect one route to another",
+        "c": "A type of redirect in transportation routes",
+        "d": "Redirecting to new navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route Aliases' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Aliasing hiking routes",
+        "b": "Assigning aliases to routes for easier navigation",
+        "c": "A type of alias in transportation routes",
+        "d": "Aliasing navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Route History' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "History of hiking routes",
+        "b": "A way to keep track of the user's navigation history",
+        "c": "A type of history in transportation routes",
+        "d": "History of navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Named Views' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Named views of hiking routes",
+        "b": "Defining named views for complex layouts",
+        "c": "A type of naming in transportation views",
+        "d": "Named views of navigation routes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Redirecting Programmatically' in Vue Router?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Programmatically redirecting hikers",
+        "b": "A way to redirect to another route programmatically",
+        "c": "A type of redirection in transportation",
+        "d": "Programmatically redirecting to new navigation routes"
+      },
+      "correct": "B"
+    }
+  ]
+  

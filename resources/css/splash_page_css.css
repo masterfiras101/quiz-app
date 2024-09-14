@@ -69,7 +69,7 @@
 .title {
     font-size: 7rem;
     font-weight: 700;
-    letter-spacing: -0.8rem;
+    letter-spacing: -0.4rem;
     display: flex;
     flex-direction: column;
     position: absolute;
@@ -195,11 +195,12 @@ span {
 .button.finish{
 
 
-    bottom: 27%;
+    bottom: 24%;
         left: 39%;
 }
 .button.continue {
-    bottom: 27%;
+    margin-left: 2px;
+    bottom: 24%;
     left: 50%;
 }
 
@@ -258,8 +259,7 @@ span {
     }
 
 
-
-
+   
 
     .button.third {
         bottom: 0%;
@@ -279,6 +279,20 @@ span {
 }
 }
 @media screen and (max-width: 960px) {
+
+
+    .button.finish {
+    
+    
+            bottom: 24%;
+            left: 19%;
+        }
+    
+        .button.continue {
+            margin-left: 2px;
+            bottom: 24%;
+            left: 60%;
+        }
 
     /* splash page */
 

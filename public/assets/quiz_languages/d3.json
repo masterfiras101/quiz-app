@@ -1,0 +1,303 @@
+[
+    {
+      "title": "What is 'D3.js'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of bicycle",
+        "b": "A JavaScript library for manipulating documents based on data",
+        "c": "A type of document format",
+        "d": "A software for 3D modeling"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary use of D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating 3D games",
+        "b": "Data visualization and manipulation in web applications",
+        "c": "Generating music",
+        "d": "Designing 3D models"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'D3' stand for in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Data-Driven Documents",
+        "b": "Dynamic Data Design",
+        "c": "Digital Design Documents",
+        "d": "Distributed Data Development"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the core concept of D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "3D graphics rendering",
+        "b": "Data binding and manipulation",
+        "c": "Creating interactive videos",
+        "d": "Designing 3D user interfaces"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'selection' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A choice of 3D models",
+        "b": "A way to select and manipulate elements in the DOM",
+        "c": "A method for selecting fonts",
+        "d": "A selection of colors"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'enter', 'update', and 'exit' represent in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Three different animation modes",
+        "b": "The three phases of data binding",
+        "c": "Three types of 3D shapes",
+        "d": "Three display modes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'scale' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To weigh objects in 3D space",
+        "b": "To create a mapping between data values and visual representation",
+        "c": "To measure angles in 3D models",
+        "d": "To adjust volume in audio playback"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'domain' in the context of D3.js scales?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A set of input data values",
+        "b": "A set of 3D coordinates",
+        "c": "A set of geometric shapes",
+        "d": "A set of animation frames"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'range' in the context of D3.js scales?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A range of 3D objects",
+        "b": "A set of output values for visual representation",
+        "c": "A range of colors",
+        "d": "A range of sound frequencies"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'axis' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To control the rotation of 3D objects",
+        "b": "To create reference lines and labels for visualizing data on charts",
+        "c": "To generate 3D paths",
+        "d": "To define the axis of a 3D space"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'interpolation' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to blend colors in 3D graphics",
+        "b": "A method for calculating values between known data points",
+        "c": "A 3D modeling technique",
+        "d": "A way to animate 3D objects"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'transition' represent in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A change of 3D perspective",
+        "b": "A method for animating changes to selected elements over time",
+        "c": "A 3D transformation operation",
+        "d": "A switch between different 3D models"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'force layout' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create force fields in 3D simulations",
+        "b": "To simulate physical forces between nodes in a network graph",
+        "c": "To generate random forces in 3D objects",
+        "d": "To layout text in 3D space"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'hierarchical layout' refer to in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A layout for organizing 3D objects hierarchically",
+        "b": "A method for arranging elements in a tree-like structure",
+        "c": "A 3D modeling technique",
+        "d": "A way to create hierarchical menus in 3D applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'geo projection' used for in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To project 3D maps onto 2D surfaces",
+        "b": "To create map projections in cartography",
+        "c": "To project 3D images onto screens",
+        "d": "To project geometric shapes in 3D modeling"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'geo path' do in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A path in a 3D environment",
+        "b": "A utility for rendering GeoJSON data as SVG paths",
+        "c": "A path for walking in 3D games",
+        "d": "A path for 3D printing"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'drag behavior' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create draggable 3D objects",
+        "b": "To add interactivity to elements by allowing them to be dragged by the user",
+        "c": "To simulate the motion of 3D objects",
+        "d": "To control the dragging of elements in a 3D space"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'brush behavior' used for in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To paint 3D objects",
+        "b": "To create interactive brushing and linking for selecting data points",
+        "c": "To add brush strokes to 3D images",
+        "d": "To simulate the motion of a brush in 3D space"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'geospatial scale' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A scale for measuring distances in 3D space",
+        "b": "A scale for mapping geospatial data to screen coordinates",
+        "c": "A scale for adjusting the size of geographic features",
+        "d": "A scale for measuring volumes in 3D objects"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'd3.geoZoom' used for in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To zoom in on 3D models",
+        "b": "A plugin for zooming and panning geospatial data",
+        "c": "To create a zoom effect in 3D animations",
+        "d": "To zoom in on maps"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'd3-sankey' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of 3D camera",
+        "b": "A plugin for creating Sankey diagrams in D3.js",
+        "c": "A 3D modeling tool",
+        "d": "A type of 3D lighting"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'd3-quadtree' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of 3D tree",
+        "b": "A data structure for efficiently searching and managing 2D data",
+        "c": "A 3D navigation system",
+        "d": "A type of 3D treehouse"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'd3-tile' provide in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Tiles for a 3D mosaic",
+        "b": "A method for tiling geographic data into a grid of image tiles",
+        "c": "A type of 3D floor tile",
+        "d": "A method for tiling 3D textures"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'd3-contour' used for in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A contour on a 3D map",
+        "b": "A tool for generating contour plots from 2D data",
+        "c": "A type of 3D contour line",
+        "d": "A tool for creating contour maps"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'd3-chord' in D3.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A musical chord in 3D space",
+        "b": "A plugin for creating chord diagrams in D3.js",
+        "c": "A type of 3D chord progression",
+        "d": "A type of 3D string"
+      },
+      "correct": "B"
+    }
+  ]
+  

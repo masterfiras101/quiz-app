@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What is Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A programming language",
+        "b": "A JavaScript framework for building web applications",
+        "c": "A database management system",
+        "d": "A content management system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Who developed Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Facebook",
+        "b": "Google",
+        "c": "Twitter",
+        "d": "Microsoft"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which version of Angular introduced the component-based architecture?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "AngularJS",
+        "b": "Angular 1",
+        "c": "Angular 2",
+        "d": "Angular 5"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of Angular CLI?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A code editor for Angular",
+        "b": "A package manager for Angular",
+        "c": "A command-line tool for creating, building, and testing Angular applications",
+        "d": "A database for storing Angular components"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which programming language is primarily used for Angular development?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Java",
+        "b": "Python",
+        "c": "JavaScript/TypeScript",
+        "d": "PHP"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of Angular modules?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define a class in Angular",
+        "b": "To organize the application into cohesive blocks of functionality",
+        "c": "To create animations in Angular",
+        "d": "To define routes in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Angular, what is the primary building block for creating user interfaces?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Components",
+        "b": "Modules",
+        "c": "Services",
+        "d": "Directives"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which tool is commonly used for state management in Angular applications?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Angular CLI",
+        "b": "RxJS",
+        "c": "Webpack",
+        "d": "Jasmine"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of Angular templates?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To write server-side code in Angular",
+        "b": "To create and define the UI of an Angular component",
+        "c": "To manage database connections in Angular",
+        "d": "To define component lifecycle hooks in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Angular, what is a service?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A component that represents user interfaces",
+        "b": "A module that organizes application functionality",
+        "c": "A class that can be used to share data or logic across different parts of an application",
+        "d": "A directive that adds behavior to elements in the DOM"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of Angular pipes?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To route network requests in Angular",
+        "b": "To transform data in templates and view components",
+        "c": "To create animations in Angular",
+        "d": "To configure routing in Angular applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the Angular CLI command to generate a new component?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "ng generate component my-component",
+        "b": "ng new my-component",
+        "c": "ng create my-component",
+        "d": "ng component my-component"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which tool is used for end-to-end testing of Angular applications?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Jasmine",
+        "b": "Karma",
+        "c": "Protractor",
+        "d": "Mocha"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'ngFor' directive in Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create an HTTP request in Angular",
+        "b": "To generate a for loop in Angular templates",
+        "c": "To define routes in Angular applications",
+        "d": "To create animations in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the Angular command to start a development server?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "ng run",
+        "b": "ng serve",
+        "c": "ng start",
+        "d": "ng build"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the Angular command to build a production-ready application?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "ng make",
+        "b": "ng build",
+        "c": "ng deploy",
+        "d": "ng package"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'Router' module in Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create animations in Angular",
+        "b": "To define routes and navigate between views in an Angular application",
+        "c": "To manage state in Angular applications",
+        "d": "To generate server-side code in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which file is commonly used for defining routes in an Angular application?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "app.module.ts",
+        "b": "app.routing.ts",
+        "c": "app.component.ts",
+        "d": "app.service.ts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'HttpClient' module in Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a database in Angular",
+        "b": "To handle HTTP requests and responses in Angular",
+        "c": "To manage application state in Angular",
+        "d": "To define a new component in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Angular, what is the purpose of 'ngIf'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a navigation bar",
+        "b": "To conditionally render content in the DOM",
+        "c": "To style elements with conditional classes",
+        "d": "To create animations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the Angular command to add a new package to an Angular application?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "ng add",
+        "b": "ng install",
+        "c": "ng package",
+        "d": "ng get"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'ngClass' directive in Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define a new component in Angular",
+        "b": "To create animations in Angular",
+        "c": "To conditionally apply CSS classes to elements",
+        "d": "To handle HTTP requests in Angular"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the Angular command to generate a new module?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "ng create module my-module",
+        "b": "ng new my-module",
+        "c": "ng generate module my-module",
+        "d": "ng module my-module"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of 'ngSubmit' in Angular forms?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a new form element",
+        "b": "To submit a form and trigger a function when the form is submitted",
+        "c": "To create a form field",
+        "d": "To style forms in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Angular feature is used for creating dynamic forms?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "ngModel",
+        "b": "ngForm",
+        "c": "DynamicFormBuilder",
+        "d": "ReactiveForms"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of 'Angular Universal'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create universal themes for Angular applications",
+        "b": "To enable server-side rendering of Angular applications",
+        "c": "To handle user authentication in Angular",
+        "d": "To manage Angular components"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'ngZone' in Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a zone of exclusion in Angular applications",
+        "b": "To handle asynchronous operations and change detection in Angular",
+        "c": "To define a new component in Angular",
+        "d": "To create a zone of interaction for user input"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the Angular command to run unit tests?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "ng test",
+        "b": "ng run tests",
+        "c": "ng unit",
+        "d": "ng check"
+      },
+      "correct": "A"
+    }
+  ]
+  

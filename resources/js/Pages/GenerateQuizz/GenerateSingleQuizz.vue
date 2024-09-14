@@ -1,6 +1,56 @@
 <script setup>
 import {Link, router} from '@inertiajs/vue3'
+import { computed, ref } from 'vue';
 
+
+const props=defineProps({
+    questions: Object,
+});
+
+const current_index = ref(0)
+const current_question = computed(()=>{
+    return props.questions[current_index.value]
+});
+
+const totalQuestions = computed(()=>props.questions.length)
+
+const current_answers = computed(()=>{
+    return props.questions[current_index.value].answers
+});
+
+
+const isLastQuestion = computed(()=>current_index.value===props.questions.length-1)
+const selected_answer = ref(null)
+const result_answer = ref(0)
+function selectedOption(index){
+    selected_answer.value =index;
+    // alert(selected_answer.value);
+}
+
+function nextQuestion(){
+    if(selected_answer.value !== null){
+
+        if(props.questions[current_index.value].answers[selected_answer.value].correct_answer==1){
+            result_answer.value++;
+        }
+        current_index.value++;
+        selected_answer.value=null;
+    }
+}
+
+ function calculateResult(){
+    if(props.questions[current_index.value].answers[selected_answer.value].correct_answer==1){
+            result_answer.value++;
+        }
+        router.post('/GenerateQuizz/GenerateSingleQuizzResult',[
+            {
+                results:{
+                    'score':result_answer.value,
+                    'totalQuestions':totalQuestions.value
+                }
+            }
+        ])
+ }
 </script>
 
 <template>
@@ -24,118 +74,51 @@ import {Link, router} from '@inertiajs/vue3'
   <div class="blur"></div>
 </div>
 
-<div class="title-all-questions ">
+<div class="title-all-questions">
   <p>قم بتوليد سؤال</p>
 
 </div>
 
-<div class="container">
+<div class="container mt-2">
     <div class="quizz-answer">
 
     <div class="">
         <question_text>
-            Laravel Created by Tylor Otwel ?
+            {{current_question.question}}?
         </question_text>
     </div>
     <div class=" mt-5 mb-5 ">
 
-    <div class="option">
-        <input type="radio" name="card" id="silver" value="silver">
-        <label for="silver" aria-label="Silver">
+    <div @click="selectedOption(index)" v-for="(answer,index) in current_answers"  class="option">
+        <input type="radio" :class="{'selected':index === selected_answer}"   for="silver"   name="card" id="silver" value="silver">
+        <label  aria-label="Silver">
         <span></span>
-        
-        masterfiras101
-        
-        <div class="card card--white card--sm">
-            <div class="card__chip"></div>
-            <div class="card__content">
-            <div class="card__text">
-                <div class="text__row">
-                <div class="text__loader"></div>
-                <div class="text__loader"></div>
-                </div>
-                <div class="text__row">
-                <div class="text__loader"></div>
-                <div class="text__loader"></div>
-                </div>
-            </div>
-            <div class="card__symbol">
-                <span></span>
-                <span></span>
-            </div>
-            </div>
-        </div>
-        </label>
-    </div>
-    
-    <div class="option">
-        <input type="radio" name="card" id="royal" value="royal">
-        <label for="royal" aria-label="Royal blue">
         <span></span>
-        
-        Firas
-        
-        <div class="card card--blue card--sm">
-            <div class="card__chip"></div>
-            <div class="card__content">
-            <div class="card__text">
-                <div class="text__row">
-                <div class="text__loader"></div>
-                <div class="text__loader"></div>
-                </div>
-                <div class="text__row">
-                <div class="text__loader"></div>
-                <div class="text__loader"></div>
-                </div>
-            </div>
-            <div class="card__symbol">
-                <span></span>
-                <span></span>
-            </div>
-            </div>
-        </div>
-        </label>
-    </div>
-    
-    <div class="option">
-        <input type="radio" name="card" id="dark" value="dark">
-        <label for="dark" aria-label="Dark grey">
-        <span></span>
-        
-        Ghasan
-        
-        <div class="card card--dark card--sm">
-            <div class="card__chip"></div>
-            <div class="card__content">
-            <div class="card__text">
-                <div class="text__row">
-                <div class="text__loader"></div>
-                <div class="text__loader"></div>
-                </div>
-                <div class="text__row">
-                <div class="text__loader"></div>
-                <div class="text__loader"></div>
-                </div>
-            </div>
-            <div class="card__symbol">
-                <span></span>
-                <span></span>
-            </div>
-            </div>
-        </div>
+
+        {{answer.answer}}
+
         </label>
     </div>
 
-    
+
+
+
     <div class="d-flex justify-content-between mt-5">
-        <Link   Link href="#" target="_blank" class="button finish btn btn-danger"><button>انهاء</button>
-    
-            <span>
-            </span></Link>
-        <Link href="#" target="_blank" class="button continue"><button>التالي</button><span></span></Link>
+        <button  @click="calculateResult" v-if="isLastQuestion"    class="button finish btn btn-danger">
+            <button>انهاء</button>
+            <span> </span>
+        </button>
+        <button v-if="!isLastQuestion" @click="nextQuestion"  class="button continue">
+            <button>التالي</button>
+            <span></span>
+        </button>
     </div>
     </div>
-
+<div class="d-flex justify-content-center">
+    <b class="gap-x-2">من ( {{totalQuestions}} )
+    </b>
+      ( {{ current_index+1}} )
+</div>
     </div>
 
 </div>
@@ -144,25 +127,10 @@ import {Link, router} from '@inertiajs/vue3'
     <button>رجوع</button><span></span>
 </Link>
 
-<Link href="/single-quizz" target="_blank" class="button sec"><button>توليد سؤال</button><span></span></Link>
+<Link href="/generate-single-quizz" target="_blank" class="button sec"><button>توليد اسئلة</button><span></span></Link>
 
-<Link href="/questions" target="_blank" class="button third"><button> توليد اسئلة</button><span></span></Link>
+<Link href="/generate-exam-choose-language" target="_blank" class="button third"><button> توليد اختبار</button><span></span></Link>
 
-<svg class="top-right" width="219" height="147" viewBox="0 0 219 147" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect opacity="0.18" x="10.4252" y="75.8326" width="7.50168" height="7.50168" transform="rotate(110.283 10.4252 75.8326)" fill="#686868" stroke="white" stroke-width="1.22683" />
-  <rect opacity="0.18" x="180.869" y="138.825" width="7.50168" height="7.50168" transform="rotate(110.283 180.869 138.825)" fill="#686868" stroke="white" stroke-width="1.22683" />
-  <rect x="69.4713" y="-91.84" width="180.485" height="180.485" transform="rotate(20.2832 69.4713 -91.84)" stroke="white" stroke-opacity="0.1" stroke-width="1.22683" />
-</svg>
-
-<svg class="bottom-left" width="232" height="191" viewBox="0 0 232 191" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50.5685" cy="172.432" r="112.068" stroke="white" stroke-opacity="0.09" />
-  <g opacity="0.1">
-    <path d="M26.4932 5.20547L228.856 172.432" stroke="#D9D9D9" />
-    <rect x="22.4384" y="0.5" width="6.15753" height="6.15753" fill="#686868" stroke="white" />
-    <rect x="224.801" y="169.027" width="6.15753" height="6.15753" fill="#686868" stroke="white" />
-    <circle cx="121.819" cy="83.613" r="1.7774" fill="#323232" stroke="white" />
-  </g>
-</svg>
 </div>
 
 </template>
@@ -172,6 +140,7 @@ import {Link, router} from '@inertiajs/vue3'
 <style>
 .quizz-answer{
     background-color: #0000003A;
-
+    padding: 20px;
 }
+
 </style>

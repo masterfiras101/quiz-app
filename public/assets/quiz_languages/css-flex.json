@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What does 'CSS Flex' stand for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Computer System Software Flexibility",
+        "b": "Cascading Style Sheets for Flexboxes",
+        "c": "Cascading Style Sheets Flexible Box Layout",
+        "d": "Creative Style Sheets for Flexibility"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the primary purpose of CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create fancy animations",
+        "b": "To provide a layout model for arranging and aligning elements within a container",
+        "c": "To add color and style to web pages",
+        "d": "To create 3D graphics"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'flex container' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A container for transporting goods",
+        "b": "An element that holds and arranges flex items",
+        "c": "A container for holding liquid",
+        "d": "A type of food container"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'flex item' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An item in a shopping list",
+        "b": "An element within a flex container that is being laid out according to the flex layout model",
+        "c": "An item on a restaurant menu",
+        "d": "An item in a game"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'main axis' and 'cross axis' refer to in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The two main colors used in a design",
+        "b": "The primary and secondary navigation menus of a website",
+        "c": "The two axes used to arrange and align flex items within a flex container",
+        "d": "The axes of a car"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the default value of 'flex-direction' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "row",
+        "b": "column",
+        "c": "column-reverse",
+        "d": "row-reverse"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What does 'justify-content' control in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The content of a web page",
+        "b": "The alignment of flex items along the main axis",
+        "c": "The order of elements on a page",
+        "d": "The position of the flex container"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'align-items' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align images in a gallery",
+        "b": "To control the alignment of flex items along the cross axis",
+        "c": "To align text within a paragraph",
+        "d": "To align text in a navigation menu"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'align-self' used for in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align elements with their parents",
+        "b": "To control the alignment of a specific flex item along the cross axis",
+        "c": "To align elements with the center of the page",
+        "d": "To align elements with other elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'flex-grow' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of plant growth",
+        "b": "A property that specifies how much a flex item should grow relative to other flex items",
+        "c": "A property for animating images",
+        "d": "A property for changing text size"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'flex-shrink' control in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The shrinkage of fabric",
+        "b": "A property that specifies how much a flex item should shrink relative to other flex items",
+        "c": "The shrinkage of images",
+        "d": "The shrinkage of text"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'flex-basis' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of flexible foundation",
+        "b": "A property that specifies the initial size of a flex item before it is placed into a flex container",
+        "c": "A property for setting the basis of web design",
+        "d": "A property for setting the basis of a book"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'flex' shorthand for in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of flexible candy",
+        "b": "A shorthand property for setting 'flex-grow', 'flex-shrink', and 'flex-basis' in one declaration",
+        "c": "A type of flexible material",
+        "d": "A shorthand for flexible shoes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'order' used for in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To rearrange the elements of a website",
+        "b": "To control the order in which flex items appear within a flex container",
+        "c": "To order food online",
+        "d": "To order office supplies"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'flex-wrap' control in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The wrapping of gifts",
+        "b": "A property that specifies whether flex items should wrap onto a new line when they overflow the container",
+        "c": "The wrapping of text",
+        "d": "The wrapping of clothing"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'align-content' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align a website with a grid",
+        "b": "To align multiple lines of flex items when there is extra space in the cross axis",
+        "c": "To align images with text",
+        "d": "To align text with images"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'flexbox' layout model also known as?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The 'float' layout model",
+        "b": "The 'grid' layout model",
+        "c": "The 'block' layout model",
+        "d": "The 'box' layout model"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is a 'flex basis' value of 'auto' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It means the item has no basis",
+        "b": "It means the item should take up all available space",
+        "c": "It means the item's basis is automatically determined based on its content",
+        "d": "It means the item has a fixed basis"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What does 'flex-flow' shorthand property do in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It controls the flow of water in a website design",
+        "b": "It combines 'flex-direction' and 'flex-wrap' properties in one declaration",
+        "c": "It controls the flow of air in a room",
+        "d": "It controls the flow of electricity in a circuit"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'align-self' used for in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align the self with others",
+        "b": "To control the alignment of a specific flex item within a flex container",
+        "c": "To align the self with the world",
+        "d": "To align the self with the universe"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'flex-wrap' shorthand property in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for wrapping gifts",
+        "b": "A shorthand property that combines 'flex-wrap' and 'flex-direction'",
+        "c": "A property for wrapping text",
+        "d": "A property for wrapping objects"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'flex-grow' shorthand property in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for growing plants",
+        "b": "A shorthand property that combines 'flex-grow' and 'flex-shrink'",
+        "c": "A property for growing businesses",
+        "d": "A property for growing animals"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'flex' shorthand property used for in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A shorthand for flexible clothing",
+        "b": "A shorthand property for setting 'flex-grow', 'flex-shrink', and 'flex-basis' in one declaration",
+        "c": "A shorthand for flexible art",
+        "d": "A shorthand for flexible buildings"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'order' shorthand property in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for reordering a website",
+        "b": "A shorthand property for controlling the order of flex items",
+        "c": "A property for ordering food online",
+        "d": "A property for ordering books"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'align-content' shorthand property in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align the content of a website with a grid",
+        "b": "A shorthand property for aligning multiple lines of flex items when there is extra space in the cross axis",
+        "c": "To align content with a specific font",
+        "d": "To align content with images"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the default value of 'flex-wrap' in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "nowrap",
+        "b": "wrap",
+        "c": "wrap-reverse",
+        "d": "no-wrap"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What does 'flex-flow' shorthand property combine in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It combines water and air flow",
+        "b": "It combines 'flex-direction' and 'flex-wrap' properties",
+        "c": "It combines different flow patterns in a design",
+        "d": "It combines different flow styles in a room"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'align-self' shorthand property used for in CSS Flex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align the self with the future",
+        "b": "A shorthand property for controlling the alignment of a specific flex item within a flex container",
+        "c": "To align the self with a specific element",
+        "d": "To align the self with a mirror"
+      },
+      "correct": "B"
+    }
+  ]
+  

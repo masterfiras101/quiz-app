@@ -1,0 +1,351 @@
+[
+    {
+      "title": "What is Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of French cuisine",
+        "b": "A Material Design component framework for Vue.js",
+        "c": "A form of art",
+        "d": "A way to beautify web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating beautiful UI designs",
+        "b": "Providing pre-designed Material Design components for Vue.js",
+        "c": "A type of primary purpose in artistic endeavors",
+        "d": "Beautifying user interfaces"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Vuetify Component'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A component used in French cuisine",
+        "b": "A pre-designed Vue.js component following Material Design guidelines",
+        "c": "A type of component in art",
+        "d": "A component for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Material Design' in the context of Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A design inspired by materials used in art",
+        "b": "A design language developed by Google for a unified user experience",
+        "c": "A type of design in artistic fields",
+        "d": "A design for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Grid System' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A system for laying out dishes in French cuisine",
+        "b": "A layout system for creating responsive web designs",
+        "c": "A type of grid system used in art",
+        "d": "A system for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Typography' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The study of artistic typefaces",
+        "b": "A set of pre-defined text styles and fonts",
+        "c": "A type of artistic typography",
+        "d": "Typography for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Responsive Design' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Designing dishes that respond to taste preferences",
+        "b": "Designing web applications that adapt to different screen sizes and devices",
+        "c": "A type of responsive design in art",
+        "d": "Designing for a responsive user interface"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Themes' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to theme French cuisine",
+        "b": "A system for customizing the appearance of Vuetify components",
+        "c": "A type of theme in artistic expression",
+        "d": "Themes for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Icons' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Symbols used in artistic designs",
+        "b": "A set of pre-defined icons for use in web applications",
+        "c": "A type of iconography in art",
+        "d": "Icons for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Buttons' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Buttons used to order French cuisine",
+        "b": "Interactive elements for user actions in web applications",
+        "c": "A type of button in artistic design",
+        "d": "Buttons for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Forms' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Forms used in artistic expressions",
+        "b": "Components for creating user input forms",
+        "c": "A type of form in art",
+        "d": "Forms for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Data Tables' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Tables for serving French cuisine",
+        "b": "Components for displaying and sorting tabular data",
+        "c": "A type of table in artistic design",
+        "d": "Data tables for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Navigation Drawer' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A drawer for kitchen utensils in French cuisine",
+        "b": "A side menu for navigating in web applications",
+        "c": "A type of drawer in art",
+        "d": "Navigation drawers for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Dialogs' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Dialogs for ordering in French cuisine",
+        "b": "Modal and popup dialogs for user interaction",
+        "c": "A type of dialog in artistic expression",
+        "d": "Dialogs for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Snackbar' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A snack for French cuisine",
+        "b": "A component for displaying notifications at the bottom of the screen",
+        "c": "A type of snack in artistic design",
+        "d": "Snackbar for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Tooltips' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Tooltips for chefs in French cuisine",
+        "b": "Small pop-up information boxes that appear when hovering over an element",
+        "c": "A type of tooltip in artistic design",
+        "d": "Tooltips for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Lists' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Lists of ingredients for French cuisine",
+        "b": "Components for displaying lists of items",
+        "c": "A type of list in artistic expression",
+        "d": "Lists for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Avatars' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Avatars of French cuisine chefs",
+        "b": "User profile images and icons",
+        "c": "A type of avatar in artistic design",
+        "d": "Avatars for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Images' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Images of French cuisine dishes",
+        "b": "Components for displaying images and media",
+        "c": "A type of image in artistic design",
+        "d": "Images for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Cards' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Cards for playing games",
+        "b": "Containers for organizing content with a material design look",
+        "c": "A type of card in artistic expression",
+        "d": "Cards for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Carousels' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Carousels for amusement rides",
+        "b": "Components for cycling through a series of content",
+        "c": "A type of carousel in artistic design",
+        "d": "Carousels for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Chips' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Chips for snacking in French cuisine",
+        "b": "A component for entering and displaying small pieces of information",
+        "c": "A type of chip in artistic design",
+        "d": "Chips for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Calendars' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Calendars for scheduling meals in French cuisine",
+        "b": "Components for displaying date and event information",
+        "c": "A type of calendar in artistic expression",
+        "d": "Calendars for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Date Pickers' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Pickers for selecting dates in French cuisine",
+        "b": "Components for selecting dates in forms and inputs",
+        "c": "A type of date picker in artistic design",
+        "d": "Date pickers for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Time Pickers' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Pickers for selecting cooking times in French cuisine",
+        "b": "Components for selecting times in forms and inputs",
+        "c": "A type of time picker in artistic design",
+        "d": "Time pickers for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Progress' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Progress in culinary skills",
+        "b": "Components for showing progress and loading indicators",
+        "c": "A type of progress in artistic expression",
+        "d": "Progress for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Data Iteration' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Iterating over data in French cuisine",
+        "b": "Components for iterating and displaying data in lists and tables",
+        "c": "A type of data iteration in artistic design",
+        "d": "Data iteration for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Accessibility' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Accessibility to French cuisine dishes",
+        "b": "Providing accessible and inclusive components and features",
+        "c": "A type of accessibility in artistic expression",
+        "d": "Accessibility for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Internationalization' in Vuetify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Internationalization of French cuisine",
+        "b": "Supporting multiple languages and cultures in applications",
+        "c": "A type of internationalization in artistic expression",
+        "d": "Internationalization for beautifying web applications"
+      },
+      "correct": "B"
+    }
+  ]
+  

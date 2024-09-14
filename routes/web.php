@@ -1,7 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\QuestionController;
 use App\Http\Controllers\AnswerController;
 
 
@@ -16,23 +15,35 @@ Route::get('/', function () {
     return Inertia('Splashscreen');
 });
 
-Route::get('/questions-main-page',[QuestionController::class,'index']);
-Route::post('/questions-main-page',[QuestionController::class,'store']);
-Route::put('/answers-main-page', [AnswerController::class,'update']);
+Route::controller(App\Http\Controllers\QuestionController::class)->group(function () {
+        Route::get('/questions-main-page','index');
+        Route::post('/questions-main-page','store');
+        Route::put('/questions-main-page','update');
+        Route::delete('/questions-main-page/{question_id}','destroy');
 
-Route::get('/single-quizz',[QuestionController::class,'generate_single_quizz']);
+});
+
+Route::controller(App\Http\Controllers\Quizz\GenerateSingleQuizzController::class)->group(function () {
+    Route::get('/generate-single-quizz','index');
+    // Route::get('/GenerateQuizz/GenerateSingleQuizzResult','index_result');
+    // Route::get('/generate-single-quizz','choose_language');
+
+    Route::get('/generate-exam-choose-language','choose_language');
+
+    Route::get('/generate-exam-choose-language/{language}','start_language_exam');
+
+
+    Route::post('/GenerateQuizz/GenerateSingleQuizzResult','results');
+
+
+});
+Route::controller(App\Http\Controllers\AnswerController::class)->group(function () {
+    Route::put('/answers-main-page', 'update');
+});
 
 
 
 
-
-// Route::get('/single-question', function () {
-//     return Inertia('');
-// });
-
-// Route::get('/questions-main-page', function () {
-//     return Inertia('Questions/Questions_main');
-// });
 
 
 

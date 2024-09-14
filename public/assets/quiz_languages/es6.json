@@ -1,0 +1,314 @@
+[
+    {
+        "title": "What does ES6 stand for?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "EasyScript 6",
+            "b": "ElasticSearch 6",
+            "c": "ECMAScript 6",
+            "d": "ExtendedScript 6"
+        },
+        "correct": "C"
+    },
+    {
+        "title": "What is the main purpose of ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "To make coffee",
+            "b": "To enhance the performance of web applications",
+            "c": "To define the syntax and semantics of JavaScript",
+            "d": "To replace all previous versions of JavaScript"
+        },
+        "correct": "C"
+    },
+    {
+        "title": "What is the 'let' keyword used for in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Declaring global variables",
+            "b": "Declaring function-scoped variables",
+            "c": "Declaring block-scoped variables",
+            "d": "Declaring constants"
+        },
+        "correct": "C"
+    },
+    {
+        "title": "What is the 'const' keyword used for in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Declaring variables that cannot be reassigned",
+            "b": "Declaring variables that are globally accessible",
+            "c": "Declaring variables with function scope",
+            "d": "Declaring variables that are only used once"
+        },
+        "correct": "A"
+    },
+    {
+        "title": "What is a 'template literal' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A string surrounded by double quotes",
+            "b": "A way to define multi-line strings using backticks",
+            "c": "A type of data structure in ES6",
+            "d": "A way to create HTML templates"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What does the '...rest' operator do in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "It creates a restful API",
+            "b": "It spreads an array into separate elements",
+            "c": "It joins two arrays together",
+            "d": "It defines a new variable in a function"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is an 'arrow function' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A function that draws arrows on the screen",
+            "b": "A way to define functions using '=>'",
+            "c": "A type of function in ES6 with special arrow syntax",
+            "d": "A function that only returns arrow-shaped values"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What does the 'class' keyword introduce in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A category of objects in JavaScript",
+            "b": "A new way to define functions",
+            "c": "A blueprint for creating objects with methods and properties",
+            "d": "A type of object in JavaScript"
+        },
+        "correct": "C"
+    },
+    {
+        "title": "What is a 'default parameter' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A parameter that is set to the default value of 1",
+            "b": "A parameter with no value assigned",
+            "c": "A parameter with a default value in case it's not provided",
+            "d": "A parameter that is used by default in every function"
+        },
+        "correct": "C"
+    },
+    {
+        "title": "What is a 'generator function' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A function that generates random numbers",
+            "b": "A function that generates arrays",
+            "c": "A special type of function that can be paused and resumed",
+            "d": "A function that generates HTML templates"
+        },
+        "correct": "C"
+    },
+    {
+        "title": "What is the 'import' keyword used for in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Importing coffee from other modules",
+            "b": "Importing external modules and their exports",
+            "c": "Importing global variables",
+            "d": "Importing images into a web application"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'export' keyword used for in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Exporting coffee beans",
+            "b": "Exporting modules or values for use in other modules",
+            "c": "Exporting functions globally",
+            "d": "Exporting CSS styles"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'destructuring' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Breaking code into smaller pieces",
+            "b": "A way to extract values from objects or arrays into distinct variables",
+            "c": "A type of code structure in different contexts",
+            "d": "A way to destructure data"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'Symbol' data type in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A data type for symbols and emojis",
+            "b": "A unique and immutable primitive data type",
+            "c": "A type of data structure in ES6",
+            "d": "A data type for complex mathematical operations"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'promises' in ES6 used for?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Promising to make coffee",
+            "b": "A way to handle asynchronous operations in a more readable manner",
+            "c": "Promises for better web design",
+            "d": "A type of promise in different industries"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'Map' data structure in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A map for finding coffee shops",
+            "b": "A collection of key-value pairs with ordered keys",
+            "c": "A type of data structure in various contexts",
+            "d": "A map of web pages in a site"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'Set' data structure in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A set of coffee mugs",
+            "b": "A collection of unique values with no duplicates",
+            "c": "A type of data structure in different industries",
+            "d": "A set of web development tools"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'async/await' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A way to asynchronously await coffee delivery",
+            "b": "A combination of 'async' and 'await' keywords for handling asynchronous code",
+            "c": "A type of asynchronous approach in diverse areas",
+            "d": "An asynchronous way to design web pages"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'for...of' loop in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A loop for coffee lovers",
+            "b": "A loop for iterating over iterable objects like arrays and strings",
+            "c": "A type of loop in various contexts",
+            "d": "A loop for designing web forms"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Object.assign()' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Assigning coffee flavors to objects",
+            "b": "A method for copying the values of all enumerable properties from one or more source objects to a target object",
+            "c": "A type of object assignment in different industries",
+            "d": "Assigning object properties in web applications"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Array.from()' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Creating arrays from coffee beans",
+            "b": "A method for creating a new array instance from an iterable object",
+            "c": "A type of array creation in diverse areas",
+            "d": "Creating arrays in web design"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'array.includes()' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Checking if an array includes coffee",
+            "b": "A method for checking if an array includes a specific element",
+            "c": "A type of array checking in various contexts",
+            "d": "Checking arrays for web application errors"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'spread operator (...)' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Spreading coffee beans on a table",
+            "b": "An operator used to spread the elements of an iterable object into individual elements",
+            "c": "A type of spreading operator in different industries",
+            "d": "Spreading content on web pages"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'BigInt' data type in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A data type for very big numbers",
+            "b": "A data type for handling arbitrarily large integers",
+            "c": "A type of data structure in various contexts",
+            "d": "A data type for defining big integers in web applications"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the 'async function' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A function that is always available online",
+            "b": "A function that returns a promise",
+            "c": "A type of function in different industries",
+            "d": "Functions for asynchronous web applications"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Symbol.iterator' in ES6?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A symbol used to iterate over coffee",
+            "b": "A built-in symbol that represents the default iterator for an object",
+            "c": "A type of symbol in diverse areas",
+            "d": "Symbols for web application navigation"
+        },
+        "correct": "B"
+    }
+]

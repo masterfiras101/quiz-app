@@ -1,0 +1,262 @@
+[
+    {
+        "title": "What is GraphQL?",
+        "options": {
+            "a": "A Python web framework",
+            "b": "A PHP web framework",
+            "c": "A JavaScript query language for your API",
+            "d": "A database management system"
+        },
+        "correct": "C"
+    },
+    {
+        "title": "Who developed GraphQL?",
+        "options": {
+            "a": "Twitter",
+            "b": "Facebook",
+            "c": "Google",
+            "d": "Microsoft"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What problem does GraphQL aim to solve?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "Over-fetching and under-fetching of data in API responses",
+            "c": "A technique for managing component dependencies and lifecycle",
+            "d": "A web server"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What does a GraphQL query look like?",
+        "options": {
+            "a": "A database management system",
+            "b": "A JSON-like structure that specifies the data you want to retrieve from an API",
+            "c": "A JavaScript framework",
+            "d": "A package manager"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is a 'resolver' in GraphQL?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A function that defines how to retrieve the data for a specific field in a query",
+            "c": "A PHP web framework",
+            "d": "A version control system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is a 'mutation' in GraphQL?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "A type of query used to modify data on the server",
+            "c": "A package manager",
+            "d": "A web server"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is a 'subscription' in GraphQL?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A real-time query that allows clients to receive updates when data changes",
+            "c": "A PHP web framework",
+            "d": "A version control system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the GraphQL schema?",
+        "options": {
+            "a": "A database management system",
+            "b": "A blueprint that defines the types and structure of data that can be queried",
+            "c": "A way to control access to your GraphQL application",
+            "d": "A web server"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is a 'directive' in GraphQL?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "An instruction that can be attached to a field in a query to modify its behavior",
+            "c": "A package manager",
+            "d": "A code editor"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What are 'fragments' in GraphQL?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "Reusable units of query that can be included in multiple queries",
+            "c": "A PHP web framework",
+            "d": "A version control system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'introspection' in GraphQL?",
+        "options": {
+            "a": "A database management system",
+            "b": "The ability of a GraphQL server to query its own schema and types",
+            "c": "A JavaScript framework",
+            "d": "A web server"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the purpose of a 'query variable' in GraphQL?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A method for passing dynamic values into a query",
+            "c": "A package manager",
+            "d": "A version control system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the difference between REST and GraphQL?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "In REST, you get a fixed set of data in the response, while in GraphQL, you specify what data you want",
+            "c": "A way to control access to your GraphQL application",
+            "d": "A code editor"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Apollo Client' in the context of GraphQL?",
+        "options": {
+            "a": "A database management system",
+            "b": "A popular client library for consuming GraphQL APIs",
+            "c": "A PHP web framework",
+            "d": "A package manager"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Playground'?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A web-based IDE for exploring and testing GraphQL APIs",
+            "c": "A JavaScript framework",
+            "d": "A version control system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Federation'?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A technique for combining multiple GraphQL schemas into a single schema",
+            "c": "A PHP web framework",
+            "d": "A web server"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Batch' used for?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "A technique for batching multiple GraphQL queries into a single request",
+            "c": "A package manager",
+            "d": "A code editor"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Subscriptions' used for?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A real-time feature that allows clients to receive updates when data changes",
+            "c": "A database management system",
+            "d": "A web server"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Mesh'?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "A tool for creating a GraphQL API by stitching together various data sources",
+            "c": "A package manager",
+            "d": "A code editor"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Inspector' used for?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A tool for checking and comparing GraphQL schemas and operations",
+            "c": "A PHP web framework",
+            "d": "A version control system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Security' focused on?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "Protecting GraphQL APIs against common security vulnerabilities",
+            "c": "A way to control access to your GraphQL application",
+            "d": "A database management system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphQL Code Generator' used for?",
+        "options": {
+            "a": "A package manager",
+            "b": "A tool for generating TypeScript, Flow, or other code from GraphQL operations",
+            "c": "A way to control access to your GraphQL application",
+            "d": "A code editor"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Apollo Server' in the context of GraphQL?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "A GraphQL server implementation for building and deploying GraphQL APIs",
+            "c": "A version control system",
+            "d": "A web server"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GraphiQL'?",
+        "options": {
+            "a": "A way to control access to your GraphQL application",
+            "b": "A graphical interactive in-browser GraphQL IDE",
+            "c": "A PHP web framework",
+            "d": "A database management system"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Prisma' in the context of GraphQL?",
+        "options": {
+            "a": "A package manager",
+            "b": "An open-source database toolkit for GraphQL development",
+            "c": "A way to control access to your GraphQL application",
+            "d": "A code editor"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Relay' in the context of GraphQL?",
+        "options": {
+            "a": "A JavaScript framework",
+            "b": "A JavaScript framework for building data-driven React applications with GraphQL",
+            "c": "A PHP web framework",
+            "d": "A web server"
+        },
+        "correct": "B"
+    }
+]

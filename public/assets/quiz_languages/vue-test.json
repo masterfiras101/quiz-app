@@ -1,0 +1,303 @@
+[
+    {
+      "title": "What is Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for testing French cuisine recipes",
+        "b": "A library for testing Vue components",
+        "c": "A testing framework for various industries",
+        "d": "A tool for beautifying web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To teach cooking techniques",
+        "b": "To provide utilities for testing Vue components in a Vue application",
+        "c": "A type of primary purpose in different fields",
+        "d": "To enhance the visual design of web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you install Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By mixing it with your ingredients",
+        "b": "By installing it as a package using npm or yarn",
+        "c": "A type of installation process in diverse areas",
+        "d": "By manually drawing it on your web page"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Shallow Mounting' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Mounting a dish with minimal seasoning",
+        "b": "A technique to render a component without rendering its child components",
+        "c": "A type of shallow mounting in various contexts",
+        "d": "Shallowly mounting web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Full Mounting' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Mounting a dish with all the ingredients",
+        "b": "A technique to render a component and all its child components",
+        "c": "A type of full mounting in diverse industries",
+        "d": "Fully mounting web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Wrapper' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for wrapping food items",
+        "b": "An object that contains a mounted component and methods to test it",
+        "c": "A type of wrapper in different domains",
+        "d": "Wrapping web elements for design purposes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Find' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Searching for new cooking techniques",
+        "b": "A method for finding DOM elements in a rendered component",
+        "c": "A type of finding in various areas",
+        "d": "Finding design inspiration for web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Emit' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Sending signals to the kitchen",
+        "b": "A method for triggering custom events on a component",
+        "c": "A type of emitting in diverse industries",
+        "d": "Emitting creativity in web design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SetProps' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Setting the properties of a dish",
+        "b": "A method for setting props on a component",
+        "c": "A type of setting in various domains",
+        "d": "Setting properties for web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Trigger' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A trigger for culinary inspiration",
+        "b": "A method for simulating user interactions with a component",
+        "c": "A type of triggering in different areas",
+        "d": "Triggering user engagement on web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Stubbing' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Stubbing out bad coding practices",
+        "b": "A technique to replace a component or function with a simplified version",
+        "c": "A type of stubbing in various contexts",
+        "d": "Stubbing out web elements for design changes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Spies' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Spies who taste-test dishes",
+        "b": "A method for tracking function calls and arguments",
+        "c": "A type of spying in different industries",
+        "d": "Spying on web users for feedback"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Matchers' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Matching flavors in a recipe",
+        "b": "Methods for making assertions about component state and behavior",
+        "c": "A type of matching in diverse areas",
+        "d": "Matching elements for web design consistency"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Snapshots' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Photographing culinary masterpieces",
+        "b": "A way to capture a rendered component's HTML structure for future comparisons",
+        "c": "A type of snapshots in various domains",
+        "d": "Taking snapshots of web pages for documentation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Mounting Options' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Options for mounting a dish",
+        "b": "Additional options for customizing component mounting",
+        "c": "A type of mounting options in different industries",
+        "d": "Options for mounting web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Testing Library' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A library for testing cooking techniques",
+        "b": "A library for writing tests that focus on user behavior",
+        "c": "A type of testing library in diverse areas",
+        "d": "A library for testing web layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Component Mocks' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Mocking up dishes for display",
+        "b": "Mocks that simulate the behavior of child components",
+        "c": "A type of component mock in various contexts",
+        "d": "Mocking web components for visual testing"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vue Router' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A router for finding the best culinary destinations",
+        "b": "A library for integrating Vue components with routing in Vue applications",
+        "c": "A type of router in different industries",
+        "d": "A router for navigating web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vuex' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A box for storing secret recipes",
+        "b": "A state management library for Vue applications",
+        "c": "A type of box in various contexts",
+        "d": "A box for organizing web content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Custom Directives' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Directives for customizing culinary techniques",
+        "b": "Custom directives that can be added to Vue components",
+        "c": "A type of custom directive in different areas",
+        "d": "Customizing web elements with directives"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Custom Plugins' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Plugins for customizing the taste of dishes",
+        "b": "Custom plugins that can be added to Vue applications",
+        "c": "A type of custom plugin in diverse industries",
+        "d": "Customizing web applications with plugins"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Global Mixins' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Mixing global ingredients for unique dishes",
+        "b": "Global mixins that can be applied to all Vue components",
+        "c": "A type of global mixin in different contexts",
+        "d": "Mixing global styles for web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vue CLI' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A command-line tool for cooking recipes",
+        "b": "A development tool for creating Vue projects with a predefined structure",
+        "c": "A type of CLI in various areas",
+        "d": "A command-line tool for optimizing web page performance"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Jest' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A jest for testing food quality",
+        "b": "A testing framework used in Vue Test Utils for writing unit tests",
+        "c": "A type of jest in different domains",
+        "d": "A jest for evaluating web designs"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Cypress' in Vue Test Utils?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of cypress tree used for flavoring dishes",
+        "b": "An end-to-end testing framework for Vue applications",
+        "c": "A type of cypress in diverse areas",
+        "d": "A cypress for enhancing web application security"
+      },
+      "correct": "B"
+    }
+  ]
+  

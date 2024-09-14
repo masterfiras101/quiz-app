@@ -1,0 +1,315 @@
+[
+    {
+      "title": "What does CSS stand for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Computer Style Sheets",
+        "b": "Cascading Style Sheets",
+        "c": "Creative Style Sheets",
+        "d": "Colorful Style Sheets"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which HTML tag is used to include an external CSS file?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<style>",
+        "b": "<link>",
+        "c": "<css>",
+        "d": "<external>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define the structure of a web page",
+        "b": "To add interactivity to web pages",
+        "c": "To style and design web pages",
+        "d": "To create server-side scripts"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which CSS property is used to change the text color of an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "color",
+        "b": "text-color",
+        "c": "font-color",
+        "d": "text-style"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What does the 'box model' in CSS consist of?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Margin, Border, Padding, Content",
+        "b": "Width, Height, Depth, Color",
+        "c": "Font, Size, Color, Style",
+        "d": "Header, Footer, Sidebar, Main Content"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which CSS property is used to set the background color of an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "bg-color",
+        "b": "background-color",
+        "c": "color-background",
+        "d": "element-bg"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'float' property in CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make an element 'disappear' from the page",
+        "b": "To create a horizontal scrollbar for an element",
+        "c": "To specify whether an element should be placed to the left or right of its container",
+        "d": "To make an element 'flash' with alternating colors"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which CSS property is used to control the spacing between elements?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "space",
+        "b": "spacing",
+        "c": "margin",
+        "d": "padding"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the 'z-index' property in CSS used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To set the font size of an element",
+        "b": "To specify the order of stacking elements along the z-axis",
+        "c": "To control the visibility of an element",
+        "d": "To create a shadow effect for an element"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which CSS property is used to add rounded corners to an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "border-style",
+        "b": "corner-radius",
+        "c": "border-radius",
+        "d": "rounded-border"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'media query' in CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a query language for databases",
+        "b": "To query the user's location",
+        "c": "To apply different styles based on the device's characteristics, such as screen size",
+        "d": "To query the document's structure"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which CSS property is used to change the font of an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "font-style",
+        "b": "font-family",
+        "c": "text-font",
+        "d": "element-font"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the CSS property 'display: none;' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make an element invisible without affecting the layout of the page",
+        "b": "To hide an element only from screen readers",
+        "c": "To create an animated fade-out effect",
+        "d": "To remove an element from the DOM"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which CSS property is used to add shadows to text?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "shadow-text",
+        "b": "text-shadow",
+        "c": "text-effect",
+        "d": "font-shadow"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'position' property in CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To specify the position of the element in the DOM tree",
+        "b": "To control the vertical and horizontal positioning of an element",
+        "c": "To control the size of an element",
+        "d": "To create animations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which CSS property is used to add a background image to an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "background",
+        "b": "bg-image",
+        "c": "image-background",
+        "d": "bg-url"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'transition' property in CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add an element to the transition queue",
+        "b": "To specify the duration and timing function of a CSS property's change",
+        "c": "To create a sliding effect for an element",
+        "d": "To transition between different pages of a website"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which CSS property is used to control the spacing between lines of text?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "text-line-height",
+        "b": "line-spacing",
+        "c": "line-height",
+        "d": "text-spacing"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What does the CSS property 'overflow: hidden;' do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It makes an element hidden from the screen but still takes up space",
+        "b": "It hides the overflow of content beyond an element's specified dimensions",
+        "c": "It creates a hidden button on the page",
+        "d": "It makes text content hidden"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which CSS property is used to set the text alignment within an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "align",
+        "b": "text-align",
+        "c": "alignment",
+        "d": "element-align"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'opacity' property in CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make text bold and more prominent",
+        "b": "To control the transparency of an element",
+        "c": "To change the color of text",
+        "d": "To create a gradient effect"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which CSS property is used to create a transition effect for an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "transition-effect",
+        "b": "animate",
+        "c": "transition",
+        "d": "element-transition"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'box-sizing' property in CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define the dimensions of a box",
+        "b": "To control the layout of a page",
+        "c": "To specify how the total width and height of an element is calculated",
+        "d": "To create a shadow effect for a box"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which CSS property is used to create a gradient background for an element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "gradient",
+        "b": "background-gradient",
+        "c": "bg-gradient",
+        "d": "background-image"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the CSS pseudo-class ':hover' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To specify the font size on hover",
+        "b": "To style an element when the mouse pointer is over it",
+        "c": "To add an element to a hover menu",
+        "d": "To make an element invisible on hover"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which CSS property is used to control the order of elements in a flex container?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "order",
+        "b": "flex-order",
+        "c": "element-order",
+        "d": "box-order"
+      },
+      "correct": "A"
+    }
+  ]
+  

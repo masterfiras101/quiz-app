@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What does 'SEO' stand for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Search Engine Optimization",
+        "b": "Social Engagement Online",
+        "c": "Software Engineering and Operations",
+        "d": "Science and Education Organization"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the primary goal of SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make a website look visually appealing",
+        "b": "To improve a website's visibility and ranking in search engine results",
+        "c": "To create high-quality content",
+        "d": "To optimize the speed of a website"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is an 'organic' search result?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A search result with no relevance to the query",
+        "b": "A result that appears naturally in search engine rankings, not as a paid advertisement",
+        "c": "A result that uses artificial intelligence",
+        "d": "A result from a non-profit organization"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'SERP' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of website",
+        "b": "A special search engine for ranking purposes",
+        "c": "Search Engine Results Page, the page that displays the results of a search query",
+        "d": "A social media platform"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is 'keyword research' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Research on new programming languages",
+        "b": "Research on the latest fashion trends",
+        "c": "The process of finding and analyzing search terms that people enter into search engines",
+        "d": "Research on medical breakthroughs"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is 'on-page SEO'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "SEO performed on an outdoor location",
+        "b": "SEO focused on optimizing individual web pages for search engines",
+        "c": "SEO related to social media",
+        "d": "SEO for e-commerce websites"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'off-page SEO'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "SEO performed outside of regular business hours",
+        "b": "SEO that focuses on improving a website's authority and reputation through external factors",
+        "c": "SEO for offline businesses",
+        "d": "SEO for video content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'backlink' mean in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A link that takes you back to the homepage of a website",
+        "b": "A link from one website to another",
+        "c": "A link to a previous search query",
+        "d": "A type of keyword"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'meta description' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A summary of a book",
+        "b": "A short description of a web page's content, displayed in search engine results",
+        "c": "A description of an image",
+        "d": "A type of computer code"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'crawler' or 'spider' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of insect",
+        "b": "A program used by search engines to scan and index web pages",
+        "c": "A type of robot used in manufacturing",
+        "d": "A type of bird"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'sitemap' of a website in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A map for physical navigation",
+        "b": "A list of all the pages on a website, used to help search engines index the site",
+        "c": "A type of interactive game",
+        "d": "A summary of blog posts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does '301 redirect' mean in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A traffic jam on a highway",
+        "b": "A permanent redirect from one URL to another",
+        "c": "A change in website layout",
+        "d": "A type of internet speed"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'duplicate content' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Content copied from a book",
+        "b": "Content that appears on more than one web page, either within the same website or across different websites",
+        "c": "Content that is illegal",
+        "d": "Content that is censored"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'anchor text' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A text used in sailor's messages",
+        "b": "The clickable text in a hyperlink",
+        "c": "A type of computer code",
+        "d": "Text written on a ship's anchor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'SERP ranking' mean in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A ranking of superhero movies",
+        "b": "The position of a web page in search engine results for a specific keyword",
+        "c": "A ranking of sports teams",
+        "d": "A ranking of recipes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'canonical URL' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of social media URL",
+        "b": "The preferred version of a web page when multiple URLs have similar content",
+        "c": "A URL for famous canals",
+        "d": "A type of computer code"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'alt text' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Text in an alternative language",
+        "b": "Text used to describe an image for accessibility and SEO purposes",
+        "c": "A text used in alternative medicine",
+        "d": "A text used in alternative rock music"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'site speed' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The speed of a website's server",
+        "b": "The time it takes for a web page to load and display its content to users",
+        "c": "The speed of a website's security",
+        "d": "The speed of a website's database"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'robots.txt' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A file that controls a robot's movement",
+        "b": "A file used to communicate with web crawlers and tell them which pages they can and can't crawl",
+        "c": "A type of robot used in space exploration",
+        "d": "A file used to block access to a website"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'SERP features' mean in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Features on a search engine results page (e.g., featured snippets, knowledge panels, etc.) that provide additional information beyond traditional organic results",
+        "b": "Features of a sports car",
+        "c": "Features in a recipe",
+        "d": "Features in a computer game"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is '301 vs. 302 redirect' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The difference between two types of highways",
+        "b": "The difference between a permanent (301) and a temporary (302) redirect",
+        "c": "The difference between two programming languages",
+        "d": "The difference between two books"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SERP click-through rate' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The rate at which people click on search engine results",
+        "b": "The rate at which people click on advertisements",
+        "c": "The rate at which people create websites",
+        "d": "The rate at which people take photos"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'nofollow' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of link that doesn't pass authority to the linked page",
+        "b": "A type of follow-up email",
+        "c": "A type of animal",
+        "d": "A type of programming language"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'page title' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The title of a book",
+        "b": "The title of a web page, typically displayed in search engine results and browsers",
+        "c": "The title of a song",
+        "d": "The title of a movie"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is '301 redirect chain' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A series of road signs for redirecting traffic",
+        "b": "A chain of multiple 301 redirects in a row",
+        "c": "A chain of stores",
+        "d": "A chain of restaurants"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'content audit' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An audit of financial statements",
+        "b": "A comprehensive analysis of all the content on a website to assess its quality, relevance, and performance",
+        "c": "An audit of social media accounts",
+        "d": "An audit of scientific research"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'bounce rate' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The rate at which people bounce on trampolines",
+        "b": "The percentage of visitors who navigate away from a site after viewing only one page",
+        "c": "The rate at which people bounce basketballs",
+        "d": "The rate at which people bounce in dance clubs"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'noindex' in SEO?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of programming code",
+        "b": "A meta tag that instructs search engines not to index a specific web page",
+        "c": "A type of book",
+        "d": "A type of music genre"
+      },
+      "correct": "B"
+    }
+  ]
+  

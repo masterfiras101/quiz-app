@@ -1,4 +1,4 @@
-// questionManager.js
+// QuestionsManager.js
 
 import { ref, computed } from 'vue';
 import {router, usePage } from '@inertiajs/vue3';
@@ -15,19 +15,49 @@ export const selected_answer = ref(null);
 export const selected_question = ref(null);
 export const answers_update = ref([]);
 export const selected_edit_answer = ref(null);
+export const edit_question_modal = ref(false)
+export const question_edit = ref(null)
+export const deleteConfirm_question_modal = ref(false)
+export const question_id = ref(null)
 
-// Functions
-
+export const appName = computed(()=>page.props.APP_NAME);
+// All Functions
 
 // Function to create a question
 export function createQuestion() {
     question_create_model_show.value = true;
 }
 
+// Function to edit question moda;
+export function editQuestion(index){
+    edit_question_modal.value = true;
+    question_edit.value=page.props.questions[index];
+
+}
+// Function to update question
+export function updateQuestion(){
+    router.put('/questions-main-page',question_edit.value)
+}
+export function deleteConfirm(q_id){
+    deleteConfirm_question_modal.value = true;
+    question_id.value =  q_id;
+    // alert(delete_question_id.value);
+}
+// Function to delete question
+export function deleteQuestion(){
+    router.delete('/questions-main-page/'+question_id.value)
+
+    // router.on('before',()=>{
+    //  return confirm('about delete question , are u sure to delete question ?')
+    // });
+}
+
 // Function to destroy modal
 export function destroyModal() {
     question_create_model_show.value = false;
     show_question_model.value = false;
+    edit_question_modal.value = false;
+    deleteConfirm_question_modal.value = false;
 }
 
 // Function to add a new answer

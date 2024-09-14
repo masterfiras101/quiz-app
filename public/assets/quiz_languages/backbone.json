@@ -1,0 +1,243 @@
+[
+    {
+      "title": "What is Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A part of the human body",
+        "b": "A JavaScript library for building structured web applications",
+        "c": "A type of fishing rod",
+        "d": "A backbone of a building"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main purpose of Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Strengthening the spine",
+        "b": "Providing structure to web applications and simplifying code",
+        "c": "Aiding in outdoor activities",
+        "d": "Building physical backbones"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Model' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A fashion model",
+        "b": "A core component for managing application data",
+        "c": "A model of a building",
+        "d": "A type of role model"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'View' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A scenic view",
+        "b": "A part of the user interface that displays data and listens for user events",
+        "c": "A type of architectural view",
+        "d": "A viewpoint"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Collection' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A collection of books",
+        "b": "A group of models that can be worked with as a single unit",
+        "c": "A collection of physical objects",
+        "d": "A collection of music albums"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Router' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A woodworking tool",
+        "b": "A core component for managing application routes",
+        "c": "A type of hiking trail",
+        "d": "A router for computer networks"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'binding' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to tie knots",
+        "b": "The process of connecting models and views so that changes in one are reflected in the other",
+        "c": "A type of fastening",
+        "d": "A way to bind books"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'template' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of art template",
+        "b": "A way to create structured views with placeholders for data",
+        "c": "A blueprint for building structures",
+        "d": "A type of stencil"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'sync' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A synchronization process",
+        "b": "A method for reading and writing data to and from the server",
+        "c": "A type of harmony",
+        "d": "A way to sync physical devices"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'fetch' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of fashion trend",
+        "b": "A method for retrieving data from the server and populating a collection or model",
+        "c": "A way to fetch physical objects",
+        "d": "A method for fetching food"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'save' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to save money",
+        "b": "A method for sending data to the server to be saved or updated",
+        "c": "A method for saving documents",
+        "d": "A way to save energy"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'destroy' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to destroy buildings",
+        "b": "A method for deleting a model from the server",
+        "c": "A way to destroy objects",
+        "d": "A method for destroying art pieces"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'extend' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of extension cord",
+        "b": "A way to create new Backbone.js components by extending existing ones",
+        "c": "A method for extending physical structures",
+        "d": "A way to extend software functionality"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'trigger' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to trigger an alarm",
+        "b": "A method for firing custom events",
+        "c": "A type of trigger for starting cars",
+        "d": "A way to trigger creative ideas"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'reset' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to reset computer systems",
+        "b": "A method for resetting a collection's state and removing its models",
+        "c": "A way to reset physical devices",
+        "d": "A method for resetting clocks"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'events' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to plan events",
+        "b": "A way to declare and bind custom events",
+        "c": "A type of event planning",
+        "d": "A way to organize social events"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'listening' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to hear sounds",
+        "b": "The process of observing and responding to events in the application",
+        "c": "A way to listen to music",
+        "d": "A way to listen to speeches"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'dispose' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to get rid of waste",
+        "b": "A method for cleaning up views and freeing resources",
+        "c": "A way to dispose of physical items",
+        "d": "A way to dispose of old documents"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'namespace' in Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to name things",
+        "b": "A global object used to organize code into a container",
+        "c": "A way to name streets",
+        "d": "A way to name companies"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'AMD' in the context of Backbone.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of computer memory",
+        "b": "Asynchronous Module Definition, a way to load modules and manage dependencies",
+        "c": "A type of car",
+        "d": "A type of musical notation"
+      },
+      "correct": "B"
+    }
+  ]
+  

@@ -1,0 +1,327 @@
+[
+    {
+      "title": "What is Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A popular coffee brand",
+        "b": "A state management pattern and library for Vue.js applications",
+        "c": "A type of state management in different industries",
+        "d": "A library for creating web stores"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main purpose of Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To store and manage the state of a Vue.js application in a predictable way",
+        "b": "To brew the perfect cup of coffee",
+        "c": "A type of main purpose in diverse areas",
+        "d": "To enhance the flavor of web applications"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "How do you install Vuex in a Vue.js project?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By ordering it from a coffee shop",
+        "b": "By installing it as a plugin using npm or yarn",
+        "c": "A type of installation process in different fields",
+        "d": "By adding it to your web application's shopping cart"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Store' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A physical store where you buy coffee",
+        "b": "A container that holds the application's state and data",
+        "c": "A type of store in various contexts",
+        "d": "An online store for web shopping"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'State' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The condition of coffee beans",
+        "b": "The data that represents the application's state",
+        "c": "A type of state in different industries",
+        "d": "The state of a web page's shopping cart"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Mutation' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A change in coffee flavor",
+        "b": "A way to modify the state in a Vuex store",
+        "c": "A type of mutation in various contexts",
+        "d": "A mutation in a web application's data"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Action' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An action-packed coffee experience",
+        "b": "A way to commit mutations in a Vuex store asynchronously",
+        "c": "A type of action in different industries",
+        "d": "Actions in web application interactions"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Getter' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Someone who gets coffee for you",
+        "b": "A way to retrieve and compute data from the store's state",
+        "c": "A type of getter in diverse areas",
+        "d": "Getters in web application development"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Module' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A modular coffee machine",
+        "b": "A way to organize and split the store into smaller, reusable modules",
+        "c": "A type of module in various contexts",
+        "d": "Modules in web application architecture"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Namespace' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A space dedicated to coffee enthusiasts",
+        "b": "A way to avoid naming conflicts between modules in a Vuex store",
+        "c": "A type of namespace in different industries",
+        "d": "Namespaces in web application branding"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Two-Way Binding' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Binding two coffee cups together",
+        "b": "A way to automatically keep data in the store and the UI in sync",
+        "c": "A type of two-way binding in diverse areas",
+        "d": "Two-way bindings in web form elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'One-Way Data Flow' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Flowing coffee in one direction",
+        "b": "The principle that data flows in one direction, from the state to the UI",
+        "c": "A type of one-way flow in different industries",
+        "d": "One-way data flow in web application architecture"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Dispatch' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Sending coffee orders",
+        "b": "A way to trigger actions in the store",
+        "c": "A type of dispatch in various contexts",
+        "d": "Dispatching commands in web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Commit' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A coffee shop commitment to quality",
+        "b": "A way to commit mutations in the store",
+        "c": "A type of commitment in different industries",
+        "d": "Committing changes in web application development"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'State Management' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Managing the state of a coffee shop",
+        "b": "The process of managing and synchronizing application state",
+        "c": "A type of state management in various contexts",
+        "d": "Managing the state of web page content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Store Composition' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Composing coffee blends",
+        "b": "Composing a Vuex store by combining modules",
+        "c": "A type of composition in different industries",
+        "d": "Composing web pages with dynamic content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Strict Mode' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A mode for strict coffee quality control",
+        "b": "A development mode that helps catch and prevent common mistakes",
+        "c": "A type of strict mode in diverse areas",
+        "d": "Strict modes for web application security"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Devtools' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Tools for coffee connoisseurs",
+        "b": "Browser extensions that allow you to inspect and debug Vuex applications",
+        "c": "A type of devtools in different contexts",
+        "d": "Development tools for web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Testing' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Tasting coffee to ensure quality",
+        "b": "Writing tests to ensure the reliability of your Vuex store",
+        "c": "A type of testing in diverse areas",
+        "d": "Testing web application functionality"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Plugin' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A coffee-making plugin",
+        "b": "Extensions that can be added to the Vuex store to provide additional functionality",
+        "c": "A type of plugin in various contexts",
+        "d": "Plugins for enhancing web application features"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Hydration' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Adding water to coffee beans",
+        "b": "A process of rehydrating the store's state on the client-side",
+        "c": "A type of hydration in different industries",
+        "d": "Hydrating web page elements with data"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Persistence' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Persisting the taste of coffee",
+        "b": "Storing the state data across page reloads or sessions",
+        "c": "A type of persistence in diverse areas",
+        "d": "Persisting data in web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Hot Module Replacement' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Replacing hot coffee with cold coffee",
+        "b": "A feature that allows you to replace modules in the store without a full page reload",
+        "c": "A type of hot module replacement in various contexts",
+        "d": "Hot module replacement in web development"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Strict Mode' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A mode for strict coffee quality control",
+        "b": "A development mode that helps catch and prevent common mistakes",
+        "c": "A type of strict mode in diverse areas",
+        "d": "Strict modes for web application security"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Dynamic Module Registration' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Registering dynamically changing coffee prices",
+        "b": "The ability to register and unregister modules at runtime",
+        "c": "A type of dynamic module registration in different industries",
+        "d": "Dynamic module registration for web application flexibility"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Logger Plugin' in Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A plugin for logging coffee brewing times",
+        "b": "A Vuex plugin that logs state changes and actions",
+        "c": "A type of logger plugin in various contexts",
+        "d": "Logger plugins for web application debugging"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vue Router' in the context of Vuex?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A router for finding the best coffee shops",
+        "b": "An official Vue.js router that can be integrated with Vuex for navigation",
+        "c": "A type of router in different domains",
+        "d": "Vue routers for web page routing"
+      },
+      "correct": "B"
+    }
+  ]
+  

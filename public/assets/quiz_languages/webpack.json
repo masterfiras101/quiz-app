@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What is Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A social networking platform",
+        "b": "A static module bundler for JavaScript applications",
+        "c": "A graphic design software",
+        "d": "A content management system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create and manage databases",
+        "b": "To bundle and optimize assets, such as JavaScript and CSS, for web applications",
+        "c": "To design web page layouts",
+        "d": "To develop mobile applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'bundle' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A collection of text messages",
+        "b": "A single file that contains multiple JavaScript modules and their dependencies",
+        "c": "A collection of images",
+        "d": "A collection of songs"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'code splitting' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Breaking a secret code",
+        "b": "A technique that splits code into multiple smaller bundles to improve loading performance",
+        "c": "A method of combining different programming languages",
+        "d": "A type of code review"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'loader' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A machine that loads cargo onto trucks",
+        "b": "A module in Webpack that allows you to preprocess files",
+        "c": "A type of JavaScript function",
+        "d": "A tool for loading web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'tree shaking' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Shaking a tree to collect fruit",
+        "b": "A technique for eliminating unused code from the final bundle",
+        "c": "Shaking a tree to scare away birds",
+        "d": "A type of tree surgery"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'entry' point mean in a Webpack configuration?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The starting point of a race",
+        "b": "The file that serves as the entry point for building the dependency graph",
+        "c": "The main entrance of a building",
+        "d": "A point of data entry in a database"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Hot Module Replacement (HMR)' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A feature for reheating food in a microwave",
+        "b": "A feature that allows modules to be replaced without a full page refresh during development",
+        "c": "A feature for heating homes",
+        "d": "A type of module in software development"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'plugin' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of web browser",
+        "b": "A module that extends or enhances the functionality of Webpack",
+        "c": "A piece of hardware in a computer",
+        "d": "A type of car engine"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'output' in a Webpack configuration?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The result of a math equation",
+        "b": "The location and filename of the bundled output file",
+        "c": "The output of a printer",
+        "d": "The result of a scientific experiment"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'webpack-dev-server'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A server that serves food",
+        "b": "A development server that provides live reloading and other features for a better development experience",
+        "c": "A server for web hosting",
+        "d": "A type of sports server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'webpack.config.js'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A configuration file for a database",
+        "b": "A configuration file that specifies how Webpack should bundle and process your application",
+        "c": "A configuration file for a car engine",
+        "d": "A configuration file for a camera"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'chunk' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A piece of chocolate",
+        "b": "A unit of code that can be split from the main bundle",
+        "c": "A piece of information",
+        "d": "A piece of furniture"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'minification' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A process of making something small",
+        "b": "A process of reducing the size of JavaScript and CSS files by removing unnecessary characters and whitespace",
+        "c": "A process of minimizing costs",
+        "d": "A process of creating a miniature model"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'resolve' mean in a Webpack configuration?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To find a solution to a problem",
+        "b": "To configure how Webpack resolves module import requests",
+        "c": "To make a decision",
+        "d": "To find a lost object"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Webpack Encore'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A musical performance",
+        "b": "A library and tool for simplifying Webpack configuration in Symfony applications",
+        "c": "A type of software encryption",
+        "d": "A type of music notation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'dynamic import' mean in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Importing physical goods",
+        "b": "A mechanism for loading modules on demand during runtime, rather than at startup",
+        "c": "Importing musical instruments",
+        "d": "Importing video games"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'webpack-merge'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of clothing",
+        "b": "A utility for merging Webpack configurations",
+        "c": "A type of software bug",
+        "d": "A type of beverage"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'webpack-dev-middleware'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Middleware for making sandwiches",
+        "b": "Middleware for connecting Webpack with a server",
+        "c": "Middleware for cloud computing",
+        "d": "Middleware for gardening"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'loader chaining' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating a chain of loaders for processing files in a specific order",
+        "b": "Creating a chain of restaurants",
+        "c": "Creating a chain of jewelry stores",
+        "d": "Creating a chain of mountains"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'webpack-cli'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A command-line tool for operating a washing machine",
+        "b": "The official command-line interface for Webpack",
+        "c": "A tool for making command-line interfaces",
+        "d": "A type of car"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Babel' in the context of Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of tower",
+        "b": "A JavaScript compiler that allows you to use the latest ECMAScript features in older browsers",
+        "c": "A type of bread",
+        "d": "A type of bird"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'dynamic import' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Importing dynamic content",
+        "b": "A way to load modules on demand in a JavaScript application",
+        "c": "Importing dynamic lighting for photography",
+        "d": "Importing dynamic music"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'webpack-devtool' in a Webpack configuration?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for fixing cars",
+        "b": "A configuration option that controls the generation of source maps for debugging",
+        "c": "A tool for woodworking",
+        "d": "A tool for building websites"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Module Federation' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to divide modules into separate countries",
+        "b": "A feature that allows you to load remote modules from different builds",
+        "c": "A type of module for playing music",
+        "d": "A type of module for cooking"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'webpack-dashboard'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A dashboard for tracking web traffic",
+        "b": "A dashboard for displaying build statistics and information in a visual format",
+        "c": "A dashboard for managing finances",
+        "d": "A type of dashboard in a car"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'externals' in Webpack?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "People who don't work for a company",
+        "b": "A configuration option that allows you to exclude dependencies from the bundle and load them externally",
+        "c": "A type of external hard drive",
+        "d": "A type of external microphone"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'webpack-merge-and-include-globally'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A software for merging and including data in spreadsheets",
+        "b": "A utility for merging Webpack configurations and including specific modules globally",
+        "c": "A software for merging and including music in playlists",
+        "d": "A software for merging and including recipes in cookbooks"
+      },
+      "correct": "B"
+    }
+  ]
+  

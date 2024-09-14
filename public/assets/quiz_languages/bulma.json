@@ -1,0 +1,351 @@
+[
+    {
+      "title": "What is Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A programming language",
+        "b": "A JavaScript library for web development",
+        "c": "A popular open-source CSS framework for building responsive web pages",
+        "d": "A content management system"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Who developed Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Facebook",
+        "b": "Google",
+        "c": "Twitter",
+        "d": "Jérôme Laban"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the primary goal of Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create complex animations",
+        "b": "To build single-page applications",
+        "c": "To provide a lightweight and modern CSS framework for creating responsive web pages",
+        "d": "To manage databases"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which CSS preprocessor is used in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Sass",
+        "b": "Less",
+        "c": "CSS-in-JS",
+        "d": "Stylus"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'columns' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define the width of a column",
+        "b": "To create a column-based layout",
+        "c": "To add animations to columns",
+        "d": "To change the font of text within a column"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Bulma CSS, what class is used to create a navigation bar?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "navbar",
+        "b": "nav",
+        "c": "navigation",
+        "d": "menu"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'box' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add a shadow to an element",
+        "b": "To create a modal box",
+        "c": "To define a block-level container",
+        "d": "To style buttons"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which Bulma class is used to create a button?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "btn",
+        "b": "button",
+        "c": "clickable",
+        "d": "link"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'hero' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a superhero-themed website",
+        "b": "To define a bold, full-width banner or hero section",
+        "c": "To add a parallax effect to elements",
+        "d": "To create a gallery of heroes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Bulma CSS, what class is used to create a card?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "panel",
+        "b": "box",
+        "c": "card",
+        "d": "container"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'notification' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To send push notifications to users",
+        "b": "To create a notification bar at the top of the page",
+        "c": "To style text notifications",
+        "d": "To define a new notification service"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Bulma class is used to create a form?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "form",
+        "b": "input",
+        "c": "form-control",
+        "d": "form-group"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'navbar-burger' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add hamburger-style icons to a navigation bar",
+        "b": "To define the navigation structure",
+        "c": "To create a burger menu",
+        "d": "To style burgers on a menu"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Bulma CSS, what class is used to create a dropdown menu?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "menu",
+        "b": "drop",
+        "c": "dropdown",
+        "d": "select"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'footer' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a sticky footer",
+        "b": "To style footers in a document",
+        "c": "To define the layout of a footer section",
+        "d": "To add animations to footers"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Bulma class is used to create a table?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "table",
+        "b": "grid",
+        "c": "datatable",
+        "d": "tabular"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'pagination' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a pagination menu",
+        "b": "To style pagination elements",
+        "c": "To paginate database records",
+        "d": "To manage database connections"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Bulma CSS, what class is used to create a modal?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "popup",
+        "b": "modal",
+        "c": "box",
+        "d": "overlay"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'menu-list' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To style lists of items in a menu",
+        "b": "To define a menu layout",
+        "c": "To create a responsive navigation menu",
+        "d": "To manage menu items in a database"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bulma class is used to create a modal card?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "modal",
+        "b": "card",
+        "c": "modal-card",
+        "d": "card-modal"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'media' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a media player",
+        "b": "To style media elements like images and videos",
+        "c": "To manage media files in a document",
+        "d": "To add animations to media elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Bulma CSS, what class is used to create a tile?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "block",
+        "b": "tile",
+        "c": "panel",
+        "d": "grid"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'level' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add levels of depth to elements",
+        "b": "To style leveling systems",
+        "c": "To create a multi-level menu",
+        "d": "To define levels of user access"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bulma class is used to create a card header?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "card-header",
+        "b": "header-card",
+        "c": "card-title",
+        "d": "header"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'tag' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a tag cloud",
+        "b": "To style tag elements",
+        "c": "To add tags to database records",
+        "d": "To manage tag lists"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Bulma CSS, what class is used to create a level item?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "item-level",
+        "b": "level-item",
+        "c": "level-element",
+        "d": "item"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'breadcrumb' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a breadcrumb navigation menu",
+        "b": "To add breadcrumbs as a topping to web pages",
+        "c": "To display links to social media profiles",
+        "d": "To style breadcrumbs in a document"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bulma class is used to create a menu label?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "menu-label",
+        "b": "label",
+        "c": "menu",
+        "d": "item-label"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'tile' class in Bulma CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add a tiled background to a page",
+        "b": "To create a tile-based layout for content",
+        "c": "To style tiles in a game",
+        "d": "To add tiles to a database"
+      },
+      "correct": "B"
+    }
+  ]
+  

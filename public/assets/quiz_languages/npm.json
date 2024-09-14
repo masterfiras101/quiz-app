@@ -1,0 +1,351 @@
+[
+    {
+      "title": "What is NPM?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "National Project Management",
+        "b": "Node Package Manager",
+        "c": "Non-Profit Membership",
+        "d": "New Programming Methodology"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of NPM?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To manage packages and dependencies for Node.js applications",
+        "b": "To create web applications",
+        "c": "To generate code documentation",
+        "d": "To host websites"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which programming language is commonly associated with NPM?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "JavaScript",
+        "b": "Python",
+        "c": "Java",
+        "d": "C++"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is a 'package' in NPM?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A present you receive on your birthday",
+        "b": "A collection of files, usually containing code and a package.json file",
+        "c": "A type of web server",
+        "d": "A software development methodology"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In NPM, what is the 'package.json' file?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JSON file that contains metadata about a package",
+        "b": "A configuration file for NPM itself",
+        "c": "A type of package",
+        "d": "A file that stores JavaScript code"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the 'node_modules' directory in an NPM project?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A directory for storing images",
+        "b": "A directory where NPM stores installed packages and their dependencies",
+        "c": "A directory for web page layouts",
+        "d": "A directory for code reviews"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does the 'npm install' command do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To uninstall a package",
+        "b": "To update NPM to the latest version",
+        "c": "To install dependencies for a Node.js project",
+        "d": "To send an email"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "In NPM, what is a 'global' package?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A package with global reach",
+        "b": "A package installed globally on the system rather than in a specific project",
+        "c": "A package used for sending international messages",
+        "d": "A package for multi-language support"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'npm init'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To initialize a new NPM project and generate a package.json file",
+        "b": "To install all available packages",
+        "c": "To create a new directory",
+        "d": "To start a web server"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In NPM, what is 'semantic versioning' (semver)?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to write code using semantic language",
+        "b": "A versioning scheme for software that uses three numbers separated by dots (e.g., 1.2.3)",
+        "c": "A form of poetry",
+        "d": "A method for sending messages between applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'npm outdated'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To check for outdated packages and list them",
+        "b": "To update NPM",
+        "c": "To create a new package.json file",
+        "d": "To uninstall all packages"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'npm update' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To upgrade all packages to their latest versions",
+        "b": "To uninstall packages",
+        "c": "To create a new package.json file",
+        "d": "To send a text message"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the 'npm publish' command used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To publish a book",
+        "b": "To create a new NPM package and publish it to the registry",
+        "c": "To send a newsletter",
+        "d": "To upload images to a server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'npm search' command used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To search the internet",
+        "b": "To search for available NPM packages",
+        "c": "To search for job opportunities",
+        "d": "To search for code errors"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'npm uninstall' command used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To install a package",
+        "b": "To uninstall a package",
+        "c": "To create a new project",
+        "d": "To update the NPM version"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'npm link' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a hyperlink in a web page",
+        "b": "To link a global package to a local project",
+        "c": "To link to a social media profile",
+        "d": "To send a link in an email"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In NPM, what is a 'script' in the 'package.json' file used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To write a screenplay",
+        "b": "To define custom commands for running tasks in your project",
+        "c": "To design a web page",
+        "d": "To create a new package"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'npm audit' do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To play an audio file",
+        "b": "To check for security vulnerabilities in your project's dependencies",
+        "c": "To audit a financial statement",
+        "d": "To create a sound effect"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'npm doctor'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To check your health",
+        "b": "To diagnose and automatically fix common issues in your NPM project",
+        "c": "To find a doctor's contact information",
+        "d": "To write a medical report"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'npx' in the context of NPM?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An abbreviation for 'Node Express'",
+        "b": "A package manager",
+        "c": "A tool that comes with NPM to execute binaries from packages",
+        "d": "A code review platform"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What does 'npm run' do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To go for a run",
+        "b": "To run a marathon",
+        "c": "To execute a script specified in the 'package.json' file",
+        "d": "To execute a binary file"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is 'npm outdated' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To check the weather",
+        "b": "To check for outdated packages and list them",
+        "c": "To check your email",
+        "d": "To check for spelling errors in code"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'npm cache' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To store cookies",
+        "b": "To clear or manage the NPM cache",
+        "c": "To send cached data",
+        "d": "To browse the web"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'npm ls' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To list available NPM packages",
+        "b": "To list the installed packages in your project",
+        "c": "To list the latest sports scores",
+        "d": "To list code errors"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'npm update' command used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To upgrade packages to their latest versions",
+        "b": "To update your operating system",
+        "c": "To update your email",
+        "d": "To update your browser"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of 'npm prune'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To remove dead branches from a tree",
+        "b": "To remove unused packages from your 'node_modules' directory",
+        "c": "To prune roses in a garden",
+        "d": "To prune code in a project"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'npm dedupe' do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To duplicate code",
+        "b": "To deduplicate dependencies in the 'node_modules' directory",
+        "c": "To deduplicate files in a folder",
+        "d": "To deduplicate email messages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'npm access' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To access the internet",
+        "b": "To access a secure building",
+        "c": "To manage access control for packages",
+        "d": "To access a library"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What does 'npm login' do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To log in to a computer",
+        "b": "To log in to an NPM account",
+        "c": "To log in to a website",
+        "d": "To log in to a social media platform"
+      },
+      "correct": "B"
+    }
+  ]
+  

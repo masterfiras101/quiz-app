@@ -1,0 +1,243 @@
+[
+    {
+      "title": "What is Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of precious stone",
+        "b": "A JavaScript framework for building web applications",
+        "c": "A type of tree",
+        "d": "A form of jewelry"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main focus of Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating jewelry",
+        "b": "Creating ambitious web applications with rich user interfaces",
+        "c": "A type of gardening",
+        "d": "Creating trees"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is an 'Ember Component'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A component of a tree",
+        "b": "A reusable and self-contained part of the user interface",
+        "c": "A type of component used in jewelry making",
+        "d": "A component of a car"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Ember Data'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Data about precious stones",
+        "b": "A library for managing data in Ember.js applications",
+        "c": "Data about trees",
+        "d": "Data used in jewelry design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'Router' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for creating paths in the garden",
+        "b": "A library for defining application routes",
+        "c": "A type of route in jewelry making",
+        "d": "A router for a computer network"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Handlebars' in the context of Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for handling bars of precious metals",
+        "b": "A templating language used in Ember.js for creating dynamic HTML",
+        "c": "A tool for handling tree branches",
+        "d": "A type of handlebar used in jewelry design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Ember CLI'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of CLI tool",
+        "b": "A command-line tool for managing Ember.js applications",
+        "c": "A type of clip used in gardening",
+        "d": "A CLI tool for managing computer networks"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Model' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A model of a tree",
+        "b": "A representation of data used by an Ember application",
+        "c": "A model of a car",
+        "d": "A model of a piece of jewelry"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'View' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A view of a garden",
+        "b": "A component responsible for displaying data and handling user interactions",
+        "c": "A view of a car",
+        "d": "A view of a piece of jewelry"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Controller' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A controller for managing garden activities",
+        "b": "A component responsible for handling user input and updating the model",
+        "c": "A controller for managing car operations",
+        "d": "A controller for jewelry design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Component' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A component of a garden",
+        "b": "A reusable and self-contained UI element",
+        "c": "A component of a car",
+        "d": "A component of a piece of jewelry"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Service' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A service for gardening",
+        "b": "A way to share data, functionality, and state across an Ember.js application",
+        "c": "A type of service for cars",
+        "d": "A service for jewelry design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Mixin' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A mix of different plant varieties",
+        "b": "A way to share behavior between objects",
+        "c": "A type of mixture for car engines",
+        "d": "A mix of different jewelry materials"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Ember Inspector'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An inspector for gardening tools",
+        "b": "A browser extension for debugging Ember.js applications",
+        "c": "An inspector for cars",
+        "d": "An inspector for jewelry making"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Computed Property' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of property in a garden",
+        "b": "A property whose value is computed based on other properties",
+        "c": "A property in a car",
+        "d": "A property in a piece of jewelry"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Action' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An action in a garden",
+        "b": "A way to respond to user interactions or events in an Ember application",
+        "c": "An action in a car",
+        "d": "An action in jewelry design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Ember Router'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for creating routes in a garden",
+        "b": "The client-side routing system for Ember.js applications",
+        "c": "A router for cars",
+        "d": "A router for jewelry design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Template' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A template for gardening plans",
+        "b": "A way to define the structure and layout of an application's user interface",
+        "c": "A template for car designs",
+        "d": "A template for jewelry patterns"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Store' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A store for gardening tools",
+        "b": "A data storage system used for caching models and their data",
+        "c": "A store for cars",
+        "d": "A store for jewelry materials"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Service Injection' in Ember.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Injecting water into plants",
+        "b": "A way to make services available to different parts of the application",
+        "c": "Injecting fuel into cars",
+        "d": "Injecting materials into jewelry"
+      },
+      "correct": "B"
+    }
+  ]
+  

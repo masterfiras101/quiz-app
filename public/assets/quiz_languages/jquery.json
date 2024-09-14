@@ -1,0 +1,315 @@
+[
+    {
+      "title": "What is jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A fast and concise JavaScript library for HTML manipulation and event handling",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Who developed jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Google",
+        "b": "Facebook",
+        "c": "John Resig and the jQuery team",
+        "d": "Twitter"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What does the '$' symbol represent in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your jQuery application",
+        "b": "An alias for the jQuery object",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you select an element with the ID 'myElement' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('myElement')",
+        "b": "$('#myElement')",
+        "c": "$.getElementById('myElement')",
+        "d": "$.selectElement('myElement')"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'document ready' event in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To ensure that the DOM is fully loaded and ready for manipulation",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you set the text content of an element with the class 'myClass' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('.myClass').textContent = 'New text';",
+        "b": "$('.myClass').html('New text');",
+        "c": "$('.myClass').text('New text');",
+        "d": "$('.myClass').innerText('New text');"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is an 'event handler' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your jQuery application",
+        "b": "A function that responds to events like clicks or keypresses",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you attach a click event to a button element with the ID 'myButton' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('myButton').on('click', function() { /* Code here */ });",
+        "b": "$('#myButton').click(function() { /* Code here */ });",
+        "c": "$.addEventListener('click', $('#myButton'), function() { /* Code here */ });",
+        "d": "$('myButton').click = function() { /* Code here */ };"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'chaining' concept in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "The practice of calling multiple methods on the same jQuery object in a single statement",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you hide an element with the class 'myElement' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('.myElement').hide();",
+        "b": "$('.myElement').display = 'none';",
+        "c": "$('.myElement').style.visibility = 'hidden';",
+        "d": "$('.myElement').fadeOut();"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the 'AJAX' in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your jQuery application",
+        "b": "To make asynchronous requests to a server to retrieve or send data without reloading the page",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'animate' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To create custom animations on selected elements",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you include the jQuery library in an HTML document?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By downloading the jQuery source code and including it in a script tag",
+        "b": "By adding a link to the jQuery CDN in a script tag",
+        "c": "By using the <jquery> HTML tag",
+        "d": "By installing jQuery via npm and importing it into your JavaScript code"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the '$.ajax()' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your jQuery application",
+        "b": "To make asynchronous HTTP requests using JavaScript",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you select all 'p' elements within a 'div' element with the class 'container' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('.container p')",
+        "b": "$('.container').find('p')",
+        "c": "$('div.container p')",
+        "d": "$('p').within('.container')"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'filter' function in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To reduce the set of matched elements to those that match a certain criteria",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you remove an element with the class 'myElement' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('.myElement').remove();",
+        "b": "$('.myElement').delete();",
+        "c": "$('.myElement').destroy();",
+        "d": "$('.myElement').hide();"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the '$.getJSON()' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your jQuery application",
+        "b": "To retrieve JSON data from a server using an HTTP GET request",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'val()' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To get or set the value of form elements like input fields and textareas",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'hasClass' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your jQuery application",
+        "b": "To check if an element has a specific class",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you add a CSS class 'active' to an element with the ID 'myElement' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('myElement').addClass('active');",
+        "b": "$('#myElement').css('class', 'active');",
+        "c": "$('#myElement').setAttribute('class', 'active');",
+        "d": "$('myElement').style.class = 'active';"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the 'siblings' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To select all elements that are siblings of the selected element",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'method chaining' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your jQuery application",
+        "b": "The practice of calling multiple methods on the same jQuery object one after the other",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'each' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To iterate over a set of matched elements and perform a function for each element",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you prevent the default behavior of a link element with the class 'myLink' in jQuery?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "$('.myLink').stopDefault();",
+        "b": "$('.myLink').disableDefault();",
+        "c": "$('.myLink').preventDefault();",
+        "d": "$('.myLink').unbind();"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the 'fadeOut' function in jQuery used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To gradually hide the selected elements by lowering their opacity",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    }
+  ]
+  

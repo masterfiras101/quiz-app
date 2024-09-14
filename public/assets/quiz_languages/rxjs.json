@@ -1,0 +1,351 @@
+[
+    {
+      "title": "What is RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A programming language",
+        "b": "A JavaScript library for reactive programming",
+        "c": "A type of database",
+        "d": "A form of server-side scripting"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the core concept of RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Imperative programming",
+        "b": "Reactive programming",
+        "c": "Object-oriented programming",
+        "d": "Functional programming"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main benefit of using RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Simplified code",
+        "b": "Asynchronous and event-driven programming",
+        "c": "Visual design capabilities",
+        "d": "Dynamic typing"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is an 'observable' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A visual representation of data",
+        "b": "A stream of data or events over time",
+        "c": "A data storage unit",
+        "d": "A type of JavaScript variable"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is an 'observer' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A person who watches code being written",
+        "b": "An object that listens to an observable and reacts to its emissions",
+        "c": "A software tool for debugging",
+        "d": "A type of debugger"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is an 'operator' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of programming language",
+        "b": "A function that manipulates the data emitted by an observable",
+        "c": "A mathematical operator",
+        "d": "A form of object-oriented programming"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'subscription' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A magazine subscription",
+        "b": "A disposable resource that represents the execution of an observable",
+        "c": "A type of user account",
+        "d": "A JavaScript statement"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'marble diagram' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A diagram of marbles",
+        "b": "A visual representation of observables and their transformations",
+        "c": "A type of chart",
+        "d": "A form of data visualization"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'cold' and 'hot' observable in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Observable with temperature control",
+        "b": "Cold observables start from scratch for each subscriber, while hot observables share the same sequence among subscribers",
+        "c": "Observable for weather forecasting",
+        "d": "A type of observable with color variations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'creation operator' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for creating new programming languages",
+        "b": "Functions that create new observables",
+        "c": "A type of code generator",
+        "d": "A mathematical operator for creating numbers"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'transformation operator' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An operator for changing physical objects",
+        "b": "Operators that transform data emitted by an observable",
+        "c": "A tool for geometric transformations",
+        "d": "An operator for changing document structure"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'filtering operator' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for water purification",
+        "b": "Operators that filter data based on certain conditions",
+        "c": "An operator for image filtering",
+        "d": "A type of air filter"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'combination operator' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An operator for combining colors",
+        "b": "Operators that combine data from multiple observables",
+        "c": "A type of musical instrument",
+        "d": "An operator for combining documents"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'error handling operator' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for handling coding errors",
+        "b": "Operators for handling errors in observables",
+        "c": "A type of error detection tool",
+        "d": "An operator for detecting programming errors"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'utility operator' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An operator for utility services",
+        "b": "Operators for performing various utility functions on observables",
+        "c": "A type of public service operator",
+        "d": "An operator for providing public utilities"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'multicasting' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Broadcasting multiple TV shows at once",
+        "b": "The act of sharing a single observable execution among multiple subscribers",
+        "c": "A type of multicast technology",
+        "d": "A method for broadcasting sports events"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Hot vs. Cold' observables in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A debate about the best temperature for observables",
+        "b": "Hot observables emit events regardless of subscribers, while cold observables start over for each subscriber",
+        "c": "A comparison of heating systems",
+        "d": "A comparison of cooking methods"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'concatenation' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of music composition",
+        "b": "A method of combining observables to emit values in a specific order",
+        "c": "A method for joining strings",
+        "d": "A form of data serialization"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'buffering' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to store data in memory",
+        "b": "A technique for grouping emitted values into arrays over time",
+        "c": "A type of data compression",
+        "d": "A method for managing computer memory"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'debouncing' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to reduce noise in audio recordings",
+        "b": "A technique for delaying the emission of values until a pause in input is detected",
+        "c": "A method for cleaning data",
+        "d": "A method for fixing software bugs"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'merging' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of visual art",
+        "b": "A method for combining multiple observables into a single one",
+        "c": "A method for merging data from different sources",
+        "d": "A method for creating art by merging colors"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'catchError' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A method for catching exceptions in code",
+        "b": "An operator for handling errors in observables",
+        "c": "A method for catching bugs in software",
+        "d": "A method for catching fish"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'retry' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to try something again",
+        "b": "An operator that resubscribes to an observable in case of an error",
+        "c": "A way to retry a failed experiment",
+        "d": "A method for retrying code execution"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'pluck' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A gardening tool",
+        "b": "An operator for selecting and emitting a specific property from each emitted object",
+        "c": "A method for extracting data from a database",
+        "d": "A method for selecting flowers"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'distinctUntilChanged' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to ensure distinct colors in art",
+        "b": "An operator for filtering out consecutive duplicate values",
+        "c": "A method for ensuring distinct database entries",
+        "d": "A way to ensure distinct musical notes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'combineLatest' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to combine various ingredients in cooking",
+        "b": "An operator for combining the latest values from multiple observables",
+        "c": "A way to combine musical instruments",
+        "d": "A method for combining fashion styles"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'window' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to view the outside world",
+        "b": "An operator that emits observables at specified intervals",
+        "c": "A type of glass",
+        "d": "A method for opening windows in software"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'interval' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of time measurement",
+        "b": "An operator that emits values at specified time intervals",
+        "c": "A method for measuring distances",
+        "d": "A method for setting alarms"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'fromEvent' in RxJS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to create events",
+        "b": "An operator that creates an observable from DOM events",
+        "c": "A way to capture events in a video",
+        "d": "A method for creating event listeners"
+      },
+      "correct": "B"
+    }
+  ]
+  

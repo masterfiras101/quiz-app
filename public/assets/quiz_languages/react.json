@@ -1,0 +1,315 @@
+[
+    {
+      "title": "What is React.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A library for building user interfaces",
+        "c": "A database management system",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Who developed React.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Google",
+        "b": "Facebook",
+        "c": "Microsoft",
+        "d": "Twitter"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is JSX in React.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A syntax extension for JavaScript used in React to describe the user interface",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'React component'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A reusable building block for creating user interfaces",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you define a React component class?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Using the 'class' keyword and extending 'React.Component'",
+        "b": "Using the 'function' keyword and returning JSX",
+        "c": "By using the 'component' keyword",
+        "d": "React components cannot be defined"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'props' in React?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A mechanism for passing data from a parent component to a child component",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'state' in React?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A mechanism for managing component-specific data that can change over time",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'virtual DOM' in React?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "An in-memory representation of the actual DOM, used to improve performance",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Router'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A library for adding routing to React applications",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'context' in React?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A mechanism for sharing data that can be considered global to a component tree",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'React hook'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A function that allows you to use state and other React features in a function component",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Redux'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A library for managing the state of a React application",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Native'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A framework for building native mobile applications using React",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Fiber'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A reimplementation of the core algorithm in React for improved performance and features",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React SSR'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "Server-Side Rendering (SSR) of React components to improve SEO and initial load times",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React DevTools'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "Browser extensions and development tools for inspecting and debugging React applications",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Portals'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A feature for rendering elements outside of their parent component's DOM hierarchy",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Error Boundary' in React?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A component that can catch JavaScript errors in its child component tree",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'PropTypes' in React?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A library for specifying the expected data type of props in a React component",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React.memo'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A higher-order component for optimizing functional components by preventing unnecessary re-renders",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Concurrent Mode'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "An experimental set of features for making React apps more responsive and resilient",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Suspense'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A mechanism for managing async data fetching and code-splitting in React",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Router'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A popular library for adding routing to React applications",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Hook Form'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A library for managing form state and validation in React",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Redux Thunk'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your React application",
+        "b": "A middleware for handling asynchronous actions in Redux",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'React Query'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A library for fetching and caching data in React applications",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    }
+  ]
+  

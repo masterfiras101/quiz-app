@@ -1,17 +1,27 @@
 
+
 <script setup>
-import {Link} from '@inertiajs/vue3'
-import { appName } from './Questions/QuestionsFunctions/QuestionsManager';
+
+import { Link ,router } from '@inertiajs/vue3';
+
+const props = defineProps({
+  languages: Array
+});
+
+const languages = props.languages;
+
+const startQuiz = (language) => {
+  router.visit('/generate-exam-choose-language/'+language);
+};
 </script>
 
 <template>
 
-    <Head title="الصفحة الرئيسية" />
-
     <div class="main_splash">
-        <n class="mt-3 flex   items-center justify-center">
-         <p class="items-center sitename"> {{appName}}  </p>
-       </n>
+<n class="mt-3 flex   items-center justify-center">
+    <p class="items-center sitename"> توليد اختبار</p>
+
+</n>
 
 <div class="grid">
   <svg class="grid-svg" xmlns="http://www.w3.org/2000/svg" width="982" height="786" viewBox="0 0 982 786" fill="none">
@@ -26,18 +36,35 @@ import { appName } from './Questions/QuestionsFunctions/QuestionsManager';
   <div class="blur"></div>
 </div>
 
-<div class="title">
-    <p>مرحباً بك  </p>
-  <p>في {{appName}} </p>
+<Link href="/generate-single-quizz" target="_blank" class="button-lang btn ">
+        <d  class=""> رجوع
+        </d>
+    </Link>
+<div class="title-all-questions">
+  <p>قم باختيار اللغة او التقنية لبد ء الإختبار</p>
+
 </div>
 
-<Link href="/questions-main-page" target="_blank" class="button first">
-    <button>ابدأ</button><span></span>
-</Link>
+<div class="grid-container">
+  <div  v-for="(language, index) in languages" :key="index"  class="grid-item">  <div  class="col">
 
-<Link href="#" target="_blank" class="button sec"><button>مساعدة</button><span></span></Link>
+    <a  @click="startQuiz(language)"  class="button-lang btn ">
+            <language_quizz  class=""> {{ language }}
+            </language_quizz>
+        </a>
+  </div></div>
 
-<Link href="#" target="_blank" class="button third"><button>تواصل معنا</button><span></span></Link>
+
+</div>
+
+<div class="container">
+
+
+</div>
+
+
+
+
 
 <svg class="top-right" width="219" height="147" viewBox="0 0 219 147" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect opacity="0.18" x="10.4252" y="75.8326" width="7.50168" height="7.50168" transform="rotate(110.283 10.4252 75.8326)" fill="#686868" stroke="white" stroke-width="1.22683" />
@@ -56,6 +83,8 @@ import { appName } from './Questions/QuestionsFunctions/QuestionsManager';
 </svg>
 </div>
 
-</template>
-<style scoped src="../../css/splash_page_css.css"></style>
 
+</template>
+
+<style scoped src="../../../css/choose-language.css"></style>
+<style scoped src="../../../css/splash_page_css.css"></style>

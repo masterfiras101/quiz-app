@@ -1,0 +1,243 @@
+[
+    {
+      "title": "What is Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A Python framework",
+        "b": "A JavaScript framework for building user interfaces",
+        "c": "A Java library for database management",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Who created Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Facebook",
+        "b": "Twitter",
+        "c": "Evan You",
+        "d": "Microsoft"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the core library of Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Vue Core",
+        "b": "Vue Base",
+        "c": "Vue.js Library",
+        "d": "VueMaster"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is Vue CLI?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A database management system",
+        "b": "A command-line tool for rapid Vue.js development",
+        "c": "A JavaScript framework",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'Vue Instance' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "The root of a Vue application that controls the data and behavior of the app",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Vue Component'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A reusable, self-contained unit that defines the behavior and appearance of a part of the UI",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vue Directive'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A special token in the markup that tells the library to do something",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'v-bind' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A directive used to bind an attribute to an expression",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'v-model' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A directive for creating two-way data bindings on form elements",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Computed Property' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A property that is calculated based on other data properties",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Watch' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A method that allows you to watch for changes in a data property and perform actions in response",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Lifecycle Hook' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A set of special methods that allow you to react to changes in a Vue instance",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vue Router'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A library for adding routing to Vue.js applications",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vuex'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A state management pattern and library for Vue.js applications",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Single File Component' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A file format that allows you to define a Vue component in a single file",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Slot' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A placeholder in a component's template that allows you to insert content from the parent component",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Mixin' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A way to reuse and share options among Vue components",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Custom Directive' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A directive created by the developer to add custom behavior to the DOM",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Scoped CSS' in Vue.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A feature that encapsulates styles to a specific component's scope",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Vue Test Utils'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Vue.js application",
+        "b": "A utility library for testing Vue components",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    }
+  ]
+  

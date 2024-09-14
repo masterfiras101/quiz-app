@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What is Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A carousel for displaying photos of delicious dishes",
+        "b": "A Vue component for creating image carousels and sliders",
+        "c": "A tool for spinning recipes in a carousel format",
+        "d": "A library for designing web carousels"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main purpose of Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To showcase beautiful meals in a restaurant",
+        "b": "To provide a simple way to create image carousels in Vue applications",
+        "c": "A type of main purpose in different fields",
+        "d": "To enhance the visual design of web carousels"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you install Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By setting up a food display",
+        "b": "By installing it as a package using npm or yarn",
+        "c": "A type of installation process in diverse areas",
+        "d": "By drawing it on your web page"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Carousel' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A rotating restaurant menu",
+        "b": "A Vue component for creating image carousels and sliders",
+        "c": "A type of carousel in different contexts",
+        "d": "A carousel for web page layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What types of carousels can you create with Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Only image carousels",
+        "b": "Various types, including image carousels, content sliders, and more",
+        "c": "A type of carousel in different industries",
+        "d": "Only text carousels"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Slides' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Slides of different culinary techniques",
+        "b": "Individual items within the carousel that display content",
+        "c": "A type of slide in diverse areas",
+        "d": "Slides for web page navigation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Arrows' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Arrows used for slicing ingredients",
+        "b": "Navigation elements that allow users to move between slides in the carousel",
+        "c": "A type of arrow in different domains",
+        "d": "Arrows for web page design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Dots' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Dots used to garnish dishes",
+        "b": "Indicators that show the current slide and allow users to navigate to specific slides",
+        "c": "A type of dot in various contexts",
+        "d": "Dots for web page decoration"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Autoplay' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Automating the cooking process",
+        "b": "A feature that makes the carousel automatically progress through the slides",
+        "c": "A type of autoplay in different industries",
+        "d": "Autoplay for web page content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Pause on Hover' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Pausing to admire culinary art",
+        "b": "A feature that pauses the autoplay when the user hovers over the carousel",
+        "c": "A type of pause on hover in diverse areas",
+        "d": "Pausing on hover for web interactions"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Infinite Loop' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A loop of tasting different cuisines",
+        "b": "A feature that allows the carousel to loop back to the first slide after reaching the last one",
+        "c": "A type of infinite loop in various contexts",
+        "d": "Infinite loops for web page animations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Custom Navigation' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Customizing the navigation menu of a restaurant",
+        "b": "Creating custom navigation controls for the carousel",
+        "c": "A type of custom navigation in different industries",
+        "d": "Customizing web page navigation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Custom Animation' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Animating the presentation of dishes",
+        "b": "Customizing the animation effects of the carousel",
+        "c": "A type of custom animation in diverse areas",
+        "d": "Custom animations for web page interactions"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Lazy Load' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Relaxing while food is being prepared",
+        "b": "A feature that loads images only when they are in the viewport",
+        "c": "A type of lazy load in different contexts",
+        "d": "Lazy loading web page elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Center Mode' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Placing the most delicious dish in the center",
+        "b": "A mode that centers the current slide in the carousel view",
+        "c": "A type of center mode in various industries",
+        "d": "Centering elements in web page layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Responsive Design' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Designing restaurant menus for all devices",
+        "b": "A design approach that ensures the carousel adapts to different screen sizes",
+        "c": "A type of responsive design in diverse areas",
+        "d": "Responsive web design for menus"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Touch Swipe' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Swiping to choose the next meal",
+        "b": "A feature that allows users to navigate the carousel by swiping on touch devices",
+        "c": "A type of touch swipe in different contexts",
+        "d": "Swiping gestures for web page interactions"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Thumbnails' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Miniature versions of dishes",
+        "b": "Small image previews that represent the slides in the carousel",
+        "c": "A type of thumbnail in different industries",
+        "d": "Thumbnails for web image galleries"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Keyboard Control' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Controlling the keyboard shortcuts for cooking",
+        "b": "Allowing users to navigate the carousel using keyboard keys",
+        "c": "A type of keyboard control in diverse areas",
+        "d": "Keyboard control for web page functionality"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Lazy Load' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Relaxing while food is being prepared",
+        "b": "A feature that loads images only when they are in the viewport",
+        "c": "A type of lazy load in different contexts",
+        "d": "Lazy loading web page elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Custom Styles' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating a unique style for a dish",
+        "b": "Customizing the CSS styles of the carousel",
+        "c": "A type of custom style in various industries",
+        "d": "Customizing styles for web page elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Transition Effects' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Effects used during meal presentation",
+        "b": "Animation effects applied when transitioning between slides in the carousel",
+        "c": "A type of transition effect in different contexts",
+        "d": "Transition effects for web page interactions"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Autoplay Speed' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The speed of serving dishes",
+        "b": "The interval at which the carousel transitions between slides in autoplay mode",
+        "c": "A type of autoplay speed in various industries",
+        "d": "Speed settings for web animations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Navigation Controls' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Controls for managing a restaurant's operations",
+        "b": "Buttons or arrows that allow users to navigate through the carousel",
+        "c": "A type of navigation control in different contexts",
+        "d": "Controls for web page navigation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Breakpoints' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Points where the chef takes a break",
+        "b": "Specific screen widths at which the carousel's layout can change",
+        "c": "A type of breakpoint in diverse areas",
+        "d": "Breakpoints for web page layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Event Hooks' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Hooks for hanging up recipes in the kitchen",
+        "b": "Custom functions that can be triggered at specific events in the carousel",
+        "c": "A type of event hook in different industries",
+        "d": "Event hooks for web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Data Binding' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Binding ingredients together in a dish",
+        "b": "A feature that allows you to bind carousel data to a data source",
+        "c": "A type of data binding in various contexts",
+        "d": "Binding data for web page content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Fullscreen Mode' in Vue Carousel.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A mode for presenting meals in a full-screen view",
+        "b": "A mode that expands the carousel to fill the entire screen",
+        "c": "A type of fullscreen mode in different industries",
+        "d": "Fullscreen mode for web media players"
+      },
+      "correct": "B"
+    }
+  ]
+  

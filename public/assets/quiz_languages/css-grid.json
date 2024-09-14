@@ -1,0 +1,327 @@
+[
+    {
+      "title": "What is 'CSS Grid'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of grid used in photography",
+        "b": "A layout system for creating two-dimensional grid-based designs in CSS",
+        "c": "A type of computer hardware",
+        "d": "A type of music genre"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create animations",
+        "b": "To provide a grid-based layout system for web design",
+        "c": "To generate random numbers",
+        "d": "To compose music"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'grid container' in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A container for shipping goods",
+        "b": "An element that holds grid items and defines the grid context",
+        "c": "A container for liquids",
+        "d": "A container for plants"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'grid item' in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An item on a shopping list",
+        "b": "An element within a grid container that is placed within the grid",
+        "c": "An item on a restaurant menu",
+        "d": "An item in a music playlist"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'grid-template-columns' property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define the number of columns in a grid container",
+        "b": "To set the size of columns within a grid",
+        "c": "To create a grid of photos",
+        "d": "To generate random columns"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'grid-template-rows' property do in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define the number of rows in a grid container",
+        "b": "To set the size of rows within a grid",
+        "c": "To create a grid of books",
+        "d": "To generate random rows"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'grid-template' property in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define the overall template of a website",
+        "b": "To set both the grid-template-columns and grid-template-rows in one declaration",
+        "c": "To create a template for a recipe",
+        "d": "To generate random templates"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-gap' used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To close gaps in a website design",
+        "b": "To set the size of the gap between grid columns and rows",
+        "c": "To create gaps between images",
+        "d": "To generate random gaps"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-row' property in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for defining the rows of a grid",
+        "b": "A property for setting the size of a row",
+        "c": "A property for creating a grid of websites",
+        "d": "A property for generating random rows"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'grid-column' property in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for defining the columns of a grid",
+        "b": "A property for setting the size of a column",
+        "c": "A property for creating columns of text",
+        "d": "A property for generating random columns"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What does 'grid-area' property do in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define the area of a park",
+        "b": "To place an item into a grid cell and specify its size within the grid",
+        "c": "To create areas for seating in a restaurant",
+        "d": "To generate random areas"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-auto-columns' property in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for automatically generating columns",
+        "b": "A property for setting the size of columns not explicitly defined in the grid-template-columns property",
+        "c": "A property for creating columns of data",
+        "d": "A property for generating random columns"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-auto-rows' property in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for automatically generating rows",
+        "b": "A property for setting the size of rows not explicitly defined in the grid-template-rows property",
+        "c": "A property for creating rows of text",
+        "d": "A property for generating random rows"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'grid-auto-flow' property control in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The flow of water in a website design",
+        "b": "The algorithm used for placing auto-generated grid items",
+        "c": "The flow of electricity in a room",
+        "d": "The flow of music in a playlist"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid' shorthand property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A shorthand for defining grids of images",
+        "b": "A shorthand property that combines 'grid-template-rows', 'grid-template-columns', 'grid-template-areas', and other grid-related properties",
+        "c": "A shorthand for creating grid templates for books",
+        "d": "A shorthand for generating random grids"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'justify-items' property control in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The justification of text in a document",
+        "b": "The default alignment of grid items within their grid cells along the inline (row) axis",
+        "c": "The justification of images on a web page",
+        "d": "The justification of elements in a room"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'align-items' property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align items in a grocery store",
+        "b": "To control the default alignment of grid items within their grid cells along the block (column) axis",
+        "c": "To align text in a paragraph",
+        "d": "To align images in a gallery"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'place-items' shorthand property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A shorthand for placing items in a room",
+        "b": "A shorthand property for aligning and justifying items in their grid cells",
+        "c": "A shorthand for placing items on a website",
+        "d": "A shorthand for placing items in a basket"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'justify-content' property control in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The content of a web page",
+        "b": "The alignment of grid items along the inline (row) axis",
+        "c": "The order of elements on a web page",
+        "d": "The position of a grid container"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'align-content' property in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To align content with a grid pattern",
+        "b": "To align multiple lines of grid items when there is extra space in the block (column) axis",
+        "c": "To align content with a specific font",
+        "d": "To align content with images"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-template-areas' property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for defining the areas of a park",
+        "b": "A property for specifying how grid items are placed in named grid areas",
+        "c": "A property for defining the areas of a house",
+        "d": "A property for generating random areas"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-area' shorthand property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A shorthand for defining the area of a park",
+        "b": "A shorthand property for setting 'grid-row-start', 'grid-column-start', 'grid-row-end', and 'grid-column-end' in one declaration",
+        "c": "A shorthand for defining the area of a building",
+        "d": "A shorthand for generating random areas"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'grid-column-gap' property control in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The gap between columns in a building",
+        "b": "The size of the gap between grid columns",
+        "c": "The gap between text columns in a newspaper",
+        "d": "The gap between columns of data"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-row-gap' property in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A property for defining the gap between rows in a field",
+        "b": "A property for setting the size of the gap between grid rows",
+        "c": "A property for defining the gap between rows of text",
+        "d": "A property for generating random row gaps"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'grid-gap' shorthand property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A shorthand for closing gaps in a room",
+        "b": "A shorthand property for setting 'grid-row-gap' and 'grid-column-gap' in one declaration",
+        "c": "A shorthand for creating gaps between images",
+        "d": "A shorthand for generating random gaps"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'justify-self' property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To self-justify one's actions",
+        "b": "To control the alignment of a specific grid item along the inline (row) axis",
+        "c": "To justify text within a paragraph",
+        "d": "To justify images in a gallery"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'align-self' shorthand property used for in CSS Grid?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To self-align in a crowd",
+        "b": "A shorthand property for controlling the alignment of a specific grid item along the block (column) axis",
+        "c": "To align text with images",
+        "d": "To align self with the world"
+      },
+      "correct": "B"
+    }
+  ]
+  

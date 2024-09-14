@@ -1,0 +1,303 @@
+[
+    {
+      "title": "What is 'NGRX' in the context of Angular?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A popular JavaScript framework",
+        "b": "A state management library for Angular applications",
+        "c": "A web server for Angular projects",
+        "d": "A code editor for Angular development"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What problem does NGRX aim to solve?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "How to style Angular components",
+        "b": "Managing state in complex Angular applications",
+        "c": "Creating animations in Angular",
+        "d": "Routing in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the core concept of NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Styling Angular components",
+        "b": "Managing application state with a single source of truth",
+        "c": "Creating routing modules",
+        "d": "Handling HTTP requests in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main building block of NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Components",
+        "b": "Services",
+        "c": "Actions, Reducers, and Store",
+        "d": "Directives"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What are 'actions' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Events that represent the intent to change state",
+        "b": "Styling instructions for components",
+        "c": "Angular components",
+        "d": "Files in an Angular project"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is a 'reducer' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A function that calculates the sum of numbers",
+        "b": "A function that handles state changes based on actions",
+        "c": "A type of component in Angular",
+        "d": "A route definition in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'store' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A physical store where you buy Angular components",
+        "b": "A repository that holds the application state",
+        "c": "A storage space for images and media files",
+        "d": "A type of Angular module"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How is state accessed from the NGRX store in Angular components?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By importing the 'NgStore' module",
+        "b": "By using the 'getState' function",
+        "c": "By subscribing to selectors and using the 'async' pipe",
+        "d": "By injecting 'StateService' into components"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is a 'selector' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for selecting colors in Angular applications",
+        "b": "A function for deriving and filtering state in the store",
+        "c": "A type of Angular directive",
+        "d": "A way to style components in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'side effect' handling in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Handling errors in Angular applications",
+        "b": "Managing asynchronous operations such as HTTP requests and effects",
+        "c": "Styling sidebars in Angular",
+        "d": "Creating side navigation menus"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'effects' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating special effects in Angular animations",
+        "b": "Handling side effects and asynchronous operations",
+        "c": "Applying visual effects to Angular components",
+        "d": "Affecting the styling of Angular elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How are effects defined in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By using the '@Effect' decorator",
+        "b": "By specifying effects in the 'app.module.ts' file",
+        "c": "By using inline HTML attributes",
+        "d": "By applying CSS styles to elements"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'dispatch' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A method for sending mail in Angular",
+        "b": "A function for sending actions to the store",
+        "c": "A way to navigate to different routes in Angular",
+        "d": "A method for sending HTTP requests"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'ngrx/router-store' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A module for managing router state in Angular applications",
+        "b": "A tool for storing images in Angular",
+        "c": "A state management library for handling router-related actions",
+        "d": "A module for adding internationalization support to Angular"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'ngrx-store-devtools' used for in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for debugging and inspecting the NGRX store",
+        "b": "A tool for creating animations in Angular",
+        "c": "A module for managing HTTP requests in Angular",
+        "d": "A tool for styling components"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'ngrx-data' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for data compression in Angular",
+        "b": "A library for simplifying common CRUD operations in NGRX",
+        "c": "A module for handling user data in Angular",
+        "d": "A tool for data visualization in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'ngrx-forms' used for in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for designing forms in Angular",
+        "b": "A module for managing form state in NGRX",
+        "c": "A library for creating 3D forms",
+        "d": "A tool for handling API requests"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'ngrx-store-localstorage' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for storing data in local storage",
+        "b": "A module for handling browser storage in NGRX",
+        "c": "A tool for managing server-side storage",
+        "d": "A library for creating local storage in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'ngrx-store-logger' used for in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for logging store actions and state changes",
+        "b": "A tool for creating log files in Angular",
+        "c": "A module for managing application logs",
+        "d": "A tool for logging user interactions"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'ngrx-store-freeze' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for freezing actions in NGRX",
+        "b": "A module for preventing state mutations in NGRX",
+        "c": "A tool for creating frozen UI components",
+        "d": "A module for handling frozen data"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'ngrx-store-router' used for in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for managing router state in NGRX",
+        "b": "A tool for creating navigation menus",
+        "c": "A module for routing actions in NGRX",
+        "d": "A tool for handling browser history"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'ngrx-preset' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A preset for styling Angular components",
+        "b": "A configuration package for common NGRX modules and tools",
+        "c": "A preset for managing user data in Angular",
+        "d": "A tool for preloading data in NGRX"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'ngrx-store-select' used for in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for selecting items from a store",
+        "b": "A module for creating select boxes in Angular",
+        "c": "A tool for selecting store state in NGRX",
+        "d": "A library for creating selections in NGRX"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'ngrx-store-filters' in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for applying filters to images",
+        "b": "A library for filtering store data in NGRX",
+        "c": "A module for handling filter actions",
+        "d": "A tool for filtering data in Angular"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'ngrx-store-auth' used for in NGRX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for authenticating users",
+        "b": "A module for handling authentication actions and state in NGRX",
+        "c": "A tool for authorizing access to components",
+        "d": "A library for authenticating API requests"
+      },
+      "correct": "B"
+    }
+  ]
+  

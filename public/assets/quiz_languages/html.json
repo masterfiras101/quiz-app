@@ -1,0 +1,315 @@
+[
+    {
+      "title": "What does HTML stand for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Hypertext Markup Language",
+        "b": "Hyper Transfer Text Language",
+        "c": "Highly Textual Markup Language",
+        "d": "Hypertext Text Management Language"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Who is the primary creator of HTML?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Tim Berners-Lee",
+        "b": "Mark Zuckerberg",
+        "c": "Larry Page",
+        "d": "Steve Jobs"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of HTML?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create the structure of a web page and define its content",
+        "b": "To style and design web pages",
+        "c": "To add interactivity to web pages",
+        "d": "To write server-side code"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the HTML tag used for creating a hyperlink?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<link>",
+        "b": "<a>",
+        "c": "<hlink>",
+        "d": "<url>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which HTML tag is used for creating an ordered list?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<ul>",
+        "b": "<li>",
+        "c": "<ol>",
+        "d": "<dl>"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the HTML tag used for creating an image?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<img>",
+        "b": "<picture>",
+        "c": "<figure>",
+        "d": "<image>"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which HTML tag is used for creating a line break?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<br>",
+        "b": "<lb>",
+        "c": "<break>",
+        "d": "<newline>"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What does the 'doctype' declaration in HTML specify?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The character encoding of the document",
+        "b": "The version of HTML being used",
+        "c": "The author of the document",
+        "d": "The content of the document"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which HTML tag is used for creating a table?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<tab>",
+        "b": "<tr>",
+        "c": "<table>",
+        "d": "<tbl>"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the HTML tag used for creating a heading with the highest level of importance?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<title>",
+        "b": "<header>",
+        "c": "<heading>",
+        "d": "<h1>"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the HTML tag used for creating a paragraph?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<par>",
+        "b": "<p>",
+        "c": "<text>",
+        "d": "<para>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does the HTML tag '<div>' stand for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Divider",
+        "b": "Dynamic Invisibility Vehicle",
+        "c": "Division",
+        "d": "Digital Video"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the HTML tag used for creating a form?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<input>",
+        "b": "<form>",
+        "c": "<data>",
+        "d": "<submit>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the HTML tag used for creating an unordered list?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<ul>",
+        "b": "<ol>",
+        "c": "<li>",
+        "d": "<list>"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the HTML tag used for creating a link to an external stylesheet?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<style>",
+        "b": "<link>",
+        "c": "<external>",
+        "d": "<stylesheet>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which HTML tag is used for creating a definition list?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<ul>",
+        "b": "<dl>",
+        "c": "<list>",
+        "d": "<ol>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does HTML5 introduce as a new way to store data in the browser?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Cookies",
+        "b": "Local Storage",
+        "c": "Server-side sessions",
+        "d": "Database storage"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does the 'alt' attribute in an 'img' tag provide?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The image source",
+        "b": "The image height",
+        "c": "A description of the image for accessibility",
+        "d": "The image width"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'meta' tag in HTML?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define a meta-language for the document",
+        "b": "To provide metadata about the document, such as character encoding and keywords",
+        "c": "To create a header section for the document",
+        "d": "To specify the primary CSS file for the document"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which HTML tag is used for creating an anchor within a page?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<anchor>",
+        "b": "<link>",
+        "c": "<a>",
+        "d": "<url>"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the HTML tag used for creating a line through text?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<strike>",
+        "b": "<underline>",
+        "c": "<line>",
+        "d": "<s>"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the HTML tag used for creating a superscript text?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<superscript>",
+        "b": "<super>",
+        "c": "<sup>",
+        "d": "<s>"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the HTML tag used for creating a subscript text?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<subscript>",
+        "b": "<sub>",
+        "c": "<superscript>",
+        "d": "<s>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the HTML tag used for creating a horizontal line?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<line>",
+        "b": "<hr>",
+        "c": "<horizontal>",
+        "d": "<rule>"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the HTML tag used for creating a strong emphasis on text?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<emphasize>",
+        "b": "<italic>",
+        "c": "<strong>",
+        "d": "<highlight>"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the HTML tag used for creating a subscript text?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "<subscript>",
+        "b": "<sub>",
+        "c": "<superscript>",
+        "d": "<s>"
+      },
+      "correct": "B"
+    }
+  ]
+  

@@ -1,0 +1,327 @@
+[
+    {
+      "title": "What is Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A popular JavaScript framework for brewing coffee",
+        "b": "A framework for building server-rendered Vue.js applications",
+        "c": "A type of JavaScript framework in different industries",
+        "d": "A library for creating web navigation menus"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the main purpose of Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make the perfect cup of coffee",
+        "b": "To simplify the development of universal Vue.js applications",
+        "c": "A type of main purpose in diverse areas",
+        "d": "To enhance the flavor of web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you create a Nuxt.js project?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By brewing a pot of coffee and making a wish",
+        "b": "By using the 'create-nuxt-app' command or a boilerplate template",
+        "c": "A type of project creation process in different fields",
+        "d": "By ordering it from a web development menu"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Server-Side Rendering' (SSR) in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Serving coffee with a smile",
+        "b": "A rendering technique where HTML is generated on the server and sent to the client",
+        "c": "A type of rendering in various contexts",
+        "d": "Rendering server-related data on a web page"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Static Site Generation' (SSG) in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Generating coffee beans from scratch",
+        "b": "A process of pre-building static HTML files at build time",
+        "c": "A type of site generation in different industries",
+        "d": "Generating static web pages for a site"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'layouts' directory in a Nuxt.js project?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Where coffee is prepared",
+        "b": "A directory for creating layout components that wrap pages",
+        "c": "A type of layout directory in diverse areas",
+        "d": "Directory for arranging web page layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'pages' directory in a Nuxt.js project?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Where coffee pages are stored",
+        "b": "A directory for creating route-based Vue.js components",
+        "c": "A type of page directory in various contexts",
+        "d": "Directory for storing web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'nuxt.config.js' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A recipe book for coffee",
+        "b": "A configuration file where you can customize the Nuxt.js project",
+        "c": "A type of configuration in different industries",
+        "d": "Configuration file for web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'middleware' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A middle layer in a coffee cup",
+        "b": "Functions that can be executed before rendering a page",
+        "c": "A type of middleware in various contexts",
+        "d": "Middleware for web application routing"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'asyncData' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Data fetched asynchronously while making coffee",
+        "b": "A method that can be used to fetch data asynchronously for a page",
+        "c": "A type of asynchronous data in different industries",
+        "d": "Asynchronous data retrieval for web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'plugins' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Coffee additives",
+        "b": "Modules that can be injected into the Nuxt.js project",
+        "c": "A type of plugins in diverse areas",
+        "d": "Plugins for adding functionality to web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'store' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A store for coffee beans",
+        "b": "A directory for creating a Vuex store in a Nuxt.js project",
+        "c": "A type of store in different contexts",
+        "d": "Store for web application state management"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'async' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A symbol of relaxation, like sipping coffee",
+        "b": "A method for handling asynchronous operations in Nuxt.js",
+        "c": "A type of async in various industries",
+        "d": "Asynchronous operations in web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'serverMiddleware' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Middleware for serving coffee",
+        "b": "Middleware that runs on the server and can be used for API endpoints",
+        "c": "A type of serverMiddleware in different contexts",
+        "d": "Server middleware for handling web requests"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'layouts' directory in a Nuxt.js project?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Where coffee is prepared",
+        "b": "A directory for creating layout components that wrap pages",
+        "c": "A type of layout directory in diverse areas",
+        "d": "Directory for arranging web page layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'static' directory in a Nuxt.js project?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A directory for storing coffee cups",
+        "b": "A directory for serving static files that don't require processing",
+        "c": "A type of static directory in various contexts",
+        "d": "Directory for static assets in web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'head' method in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A method for creating a coffee brew",
+        "b": "A method for defining metadata for the HTML head",
+        "c": "A type of head method in different industries",
+        "d": "Method for managing web page metadata"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'dotenv' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A coffee stain on a document",
+        "b": "A module for loading environment variables from a .env file",
+        "c": "A type of dotenv in diverse areas",
+        "d": "Module for handling environment variables in web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'transitions' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A coffee transition",
+        "b": "A directory for defining transitions between routes",
+        "c": "A type of transition in different contexts",
+        "d": "Transitions for web page navigation"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'context' in Nuxt.js middleware?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The background context for a coffee shop",
+        "b": "An object that provides context and information about the current request",
+        "c": "A type of context in various industries",
+        "d": "Context objects for web middleware"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'error' method in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A method for handling coffee brewing errors",
+        "b": "A method for handling errors during the rendering of a page",
+        "c": "A type of error method in different contexts",
+        "d": "Error handling methods in web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'async fetch' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A fetch of the finest coffee beans",
+        "b": "A special method for fetching data before rendering a page",
+        "c": "A type of async fetch in diverse areas",
+        "d": "Data fetching methods for web pages"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'key' in Nuxt.js transitions?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A key to the coffee kingdom",
+        "b": "A unique key for identifying transitions between routes",
+        "c": "A type of key in different industries",
+        "d": "Keys for web animation transitions"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'generate' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A coffee generation process",
+        "b": "A function for generating static pages during build time",
+        "c": "A type of generation in various contexts",
+        "d": "Page generation for web applications"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'loading' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The loading time of a coffee machine",
+        "b": "A feature for handling loading indicators in Nuxt.js",
+        "c": "A type of loading in different industries",
+        "d": "Loading indicators for web page content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'full static' in Nuxt.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A fully stocked coffee shop",
+        "b": "A mode for generating fully static sites with Nuxt.js",
+        "c": "A type of full static mode in diverse areas",
+        "d": "Fully static websites in web development"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'target' in Nuxt.js config?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The target audience for coffee advertisements",
+        "b": "A configuration option for specifying the deployment target",
+        "c": "A type of target in various contexts",
+        "d": "Deployment targets for web applications"
+      },
+      "correct": "B"
+    }
+  ]
+  

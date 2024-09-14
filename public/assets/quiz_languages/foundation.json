@@ -1,0 +1,327 @@
+[
+    {
+      "title": "What is Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A programming language",
+        "b": "A JavaScript library for web development",
+        "c": "A popular open-source CSS framework for building responsive web pages",
+        "d": "A content management system"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Who developed Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Facebook",
+        "b": "Google",
+        "c": "Twitter",
+        "d": "ZURB"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the primary goal of Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create complex animations",
+        "b": "To build single-page applications",
+        "c": "To provide a responsive and mobile-first CSS framework for web development",
+        "d": "To manage databases"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which CSS preprocessor is used in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Sass",
+        "b": "Less",
+        "c": "CSS-in-JS",
+        "d": "Stylus"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'grid' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a grid layout for web pages",
+        "b": "To add a shadow to an element",
+        "c": "To define the width of a column",
+        "d": "To change the font of text within a column"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Foundation CSS, what class is used to create a navigation bar?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "navbar",
+        "b": "nav",
+        "c": "navigation",
+        "d": "menu"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'callout' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a call center application",
+        "b": "To define a call-to-action section",
+        "c": "To style callout sections with alerts or information",
+        "d": "To make phone calls from a web page"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which Foundation class is used to create a button?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "btn",
+        "b": "button",
+        "c": "clickable",
+        "d": "link"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'reveal' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To reveal hidden content or modals",
+        "b": "To reveal secrets in a game",
+        "c": "To create a reveal effect on images",
+        "d": "To reveal the layout of a document"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Foundation CSS, what class is used to create a card?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "panel",
+        "b": "box",
+        "c": "card",
+        "d": "container"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'badge' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create badges for achievements in games",
+        "b": "To style badge elements like notifications",
+        "c": "To manage user badges in a database",
+        "d": "To create a badge for user profiles"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Foundation class is used to create an alert box?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "warning",
+        "b": "alert",
+        "c": "notice",
+        "d": "message"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'form' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a web form",
+        "b": "To style form elements",
+        "c": "To define form control styles",
+        "d": "To manage database forms"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Foundation CSS, what class is used to create a dropdown menu?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "menu",
+        "b": "drop",
+        "c": "dropdown",
+        "d": "select"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'accordion' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To play accordion music on web pages",
+        "b": "To create an accordion-style navigation menu",
+        "c": "To style text with an accordion effect",
+        "d": "To manage accordions in a document"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Foundation class is used to create a footer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "footer",
+        "b": "bottom",
+        "c": "end",
+        "d": "section-footer"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'table' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define table styles for data presentation",
+        "b": "To create a table of contents",
+        "c": "To manage database tables",
+        "d": "To add animations to tables"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Foundation CSS, what class is used to create a panel?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "box",
+        "b": "panel",
+        "c": "card",
+        "d": "section"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'pagination' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To paginate database records",
+        "b": "To create a pagination menu",
+        "c": "To style pagination elements",
+        "d": "To manage page layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Foundation class is used to create a reveal card?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "reveal-card",
+        "b": "card-reveal",
+        "c": "reveal",
+        "d": "card-modal"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'media-object' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create media content on web pages",
+        "b": "To style media elements like images and videos",
+        "c": "To manage media files in a document",
+        "d": "To add media players to a website"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Foundation CSS, what class is used to create a thumbnail?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "image",
+        "b": "thumbnail",
+        "c": "pic",
+        "d": "gallery"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'badge' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create badges for achievements in games",
+        "b": "To style badge elements like notifications",
+        "c": "To manage user badges in a database",
+        "d": "To create a badge for user profiles"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Foundation CSS, what class is used to create a callout card?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "callout-card",
+        "b": "alert-card",
+        "c": "card-callout",
+        "d": "card-alert"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'button-group' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a group of buttons",
+        "b": "To style button elements",
+        "c": "To define a button hierarchy",
+        "d": "To manage button interactions"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Foundation class is used to create a badge for a menu item?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "menu-badge",
+        "b": "badge",
+        "c": "item-badge",
+        "d": "menu-item-badge"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'menu-label' class in Foundation CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To style labels in a menu",
+        "b": "To define navigation labels for menu items",
+        "c": "To create label-based navigation menus",
+        "d": "To add labels to a database menu"
+      },
+      "correct": "A"
+    }
+  ]
+  

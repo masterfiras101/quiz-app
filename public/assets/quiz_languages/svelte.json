@@ -1,0 +1,232 @@
+[
+    {
+      "title": "What is Svelte?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A web server",
+        "b": "A JavaScript framework",
+        "c": "A compiler for building user interfaces",
+        "d": "A database management system"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Who developed Svelte?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Google",
+        "b": "Facebook",
+        "c": "Rich Harris",
+        "d": "Twitter"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "How does Svelte differ from other JavaScript frameworks like React or Vue?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It uses a virtual DOM",
+        "b": "It compiles components at build time, resulting in highly efficient code",
+        "c": "It relies on runtime execution",
+        "d": "It's primarily used for server-side rendering"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Svelte component'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Svelte application",
+        "b": "A reusable building block for creating user interfaces",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How does Svelte handle state management in components?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By using a virtual DOM",
+        "b": "By automatically tracking state changes",
+        "c": "By requiring manual state management",
+        "d": "By using a global state management library"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Svelte transition'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A built-in feature for animating elements in Svelte",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What are 'Svelte stores'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Svelte application",
+        "b": "A mechanism for managing global state in Svelte applications",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'sveltekit'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A framework for building Svelte applications with routing and server-side rendering",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How does Svelte handle component styling?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By using external CSS files",
+        "b": "By defining component styles in a component's script block",
+        "c": "By relying on a third-party CSS-in-JS library",
+        "d": "By not supporting custom styling"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'Svelte action'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Svelte application",
+        "b": "A function that can be applied to DOM elements to add behavior",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SvelteKit adapter' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "To deploy SvelteKit applications to various hosting platforms",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SvelteKit layouts'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Svelte application",
+        "b": "A feature for creating shared page layouts in SvelteKit",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Sapper'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "An older framework for building Svelte applications",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Svelte preprocess' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Svelte application",
+        "b": "To process and transform styles and markup in Svelte components",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'hydration' in the context of Svelte?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "The process of attaching event listeners to a server-rendered page",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SvelteKit endpoints'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Svelte application",
+        "b": "A feature for defining server routes and API endpoints in SvelteKit",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SvelteKit loading'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A built-in feature for displaying loading indicators in SvelteKit",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SvelteKit prefetching'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your Svelte application",
+        "b": "A feature for preloading data for pages in SvelteKit",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'SvelteKit animations'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A feature for adding animations to SvelteKit applications",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    }
+]
+     
+  

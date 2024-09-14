@@ -1,0 +1,315 @@
+[
+    {
+      "title": "What is Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A version control system used to track changes in code and collaborate on software development",
+        "b": "A web programming language",
+        "c": "A database management system",
+        "d": "A video streaming platform"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Who created Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Linus Torvalds",
+        "b": "Mark Zuckerberg",
+        "c": "Tim Berners-Lee",
+        "d": "Steve Jobs"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the primary purpose of Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To send emails",
+        "b": "To build web applications",
+        "c": "To track changes in code and enable collaboration on software projects",
+        "d": "To design website layouts"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is a 'repository' in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A web-based code editor",
+        "b": "A directory or storage space where your projects can live",
+        "c": "A version of a software application",
+        "d": "A programming language"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Git, what is a 'commit'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A financial transaction",
+        "b": "A record of changes made to a repository",
+        "c": "A code review process",
+        "d": "A server that hosts Git repositories"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'branch' in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tree in a forest",
+        "b": "A separate line of development in a Git repository",
+        "c": "A computer network",
+        "d": "A type of code comment"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'clone' command in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a duplicate of a Git repository on your local machine",
+        "b": "To delete a Git repository",
+        "c": "To merge two branches in a repository",
+        "d": "To rename a repository"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Git, what does the 'pull' command do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To pull an object with a rope",
+        "b": "To update your local repository with changes from a remote repository",
+        "c": "To push your changes to a remote repository",
+        "d": "To delete your local repository"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'push' do in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To push a heavy object",
+        "b": "To update a remote repository with your local changes",
+        "c": "To merge two branches",
+        "d": "To clone a repository"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'add' command in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add a new software feature",
+        "b": "To add changes to the staging area, preparing them for a commit",
+        "c": "To create a new branch",
+        "d": "To add a new collaborator to a repository"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Git, what is the 'staging area'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A testing environment for web applications",
+        "b": "A place where changes are marked for the next commit",
+        "c": "A remote repository",
+        "d": "A code review platform"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'diff' command in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To find the difference between two numbers",
+        "b": "To compare changes between the working directory and the staging area",
+        "c": "To merge branches",
+        "d": "To delete a repository"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'HEAD' in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The top part of a human body",
+        "b": "A special pointer that points to the latest commit in the current branch",
+        "c": "A type of code comment",
+        "d": "A code review process"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'merge' in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To join two branches together",
+        "b": "To delete a branch",
+        "c": "To split a repository into multiple parts",
+        "d": "To synchronize the local repository with a remote repository"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'fetch' command in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To retrieve information from a remote repository",
+        "b": "To clean up the working directory",
+        "c": "To create a new branch",
+        "d": "To push changes to a remote repository"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Git, what is a 'remote'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A distant location",
+        "b": "A remote control for a television",
+        "c": "A common code review tool",
+        "d": "A shared repository located elsewhere"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is a 'fork' in the context of Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A utensil for eating spaghetti",
+        "b": "A type of bread",
+        "c": "A copy of a repository that belongs to another user or organization",
+        "d": "A code review process"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is 'GitLab'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of programming language",
+        "b": "A code hosting platform that provides Git repository management",
+        "c": "A command-line tool for Git",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'GitHub'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A social media platform",
+        "b": "A web-based platform for version control and collaboration using Git",
+        "c": "A version of the Git software",
+        "d": "A file-sharing service"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'pull request' in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A request for a code review",
+        "b": "A request to merge changes from one branch into another",
+        "c": "A request for financial support",
+        "d": "A request to delete a repository"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'version control' in software development?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of computer game",
+        "b": "A system that tracks changes in code and enables collaboration on software projects",
+        "c": "A software for creating 3D graphics",
+        "d": "A code review process"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Gitignore' in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A command to ignore Git repositories",
+        "b": "A file that specifies intentionally untracked files to be ignored",
+        "c": "A type of code comment",
+        "d": "A web development framework"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'rebase' command in Git?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To rebuild a house",
+        "b": "To reorganize and integrate changes from one branch into another",
+        "c": "To remove a commit from the commit history",
+        "d": "To update the remote repository"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'GitKraken'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A fast food restaurant",
+        "b": "A graphical Git client",
+        "c": "A code review platform",
+        "d": "A programming language"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Bitbucket'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of software license",
+        "b": "A web-based platform for version control and collaboration using Git",
+        "c": "A database management system",
+        "d": "A computer game"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary advantage of using Git for version control?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make software run faster",
+        "b": "To track changes in code, collaborate with others, and maintain a history of project changes",
+        "c": "To create 3D animations",
+        "d": "To delete repositories"
+      },
+      "correct": "B"
+    }
+  ]
+  

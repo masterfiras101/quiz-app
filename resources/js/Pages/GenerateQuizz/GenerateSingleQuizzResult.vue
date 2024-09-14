@@ -1,17 +1,28 @@
 
+
 <script setup>
+
+
 import {Link} from '@inertiajs/vue3'
-import { appName } from './Questions/QuestionsFunctions/QuestionsManager';
+
+
+
+const props = defineProps({
+    percentag: Number,
+    comment : String
+});
+
+
 </script>
+
 
 <template>
 
-    <Head title="الصفحة الرئيسية" />
-
     <div class="main_splash">
-        <n class="mt-3 flex   items-center justify-center">
-         <p class="items-center sitename"> {{appName}}  </p>
-       </n>
+<n class="mt-3 flex   items-center justify-center">
+    <p class="items-center sitename"> النتائج</p>
+
+</n>
 
 <div class="grid">
   <svg class="grid-svg" xmlns="http://www.w3.org/2000/svg" width="982" height="786" viewBox="0 0 982 786" fill="none">
@@ -26,18 +37,49 @@ import { appName } from './Questions/QuestionsFunctions/QuestionsManager';
   <div class="blur"></div>
 </div>
 
-<div class="title">
-    <p>مرحباً بك  </p>
-  <p>في {{appName}} </p>
+<div class="title-all-questions">
+  <p>النتائج</p>
+
 </div>
 
-<Link href="/questions-main-page" target="_blank" class="button first">
-    <button>ابدأ</button><span></span>
+<div class="container">
+    <div class="quizz-answer">
+
+    <div class="">
+        <question_text>
+
+        </question_text>
+    </div>
+    <div class="">
+
+    <div  class="option">
+        <input type="radio"  name="card" id="silver" value="silver">
+        <label for="silver" aria-label="Silver">
+        <span></span>
+
+
+                 <div  class="d-flex justify-content-center"
+                    >{{percentag}}
+
+                {{comment}}
+                </div>
+
+
+    </label>
+    </div>
+
+
+    </div>
+
+    </div>
+
+</div>
+
+<Link href="/generate-single-quizz" target="_blank" class="button first mb-100%">
+    <button>رجوع</button><span></span>
 </Link>
 
-<Link href="#" target="_blank" class="button sec"><button>مساعدة</button><span></span></Link>
 
-<Link href="#" target="_blank" class="button third"><button>تواصل معنا</button><span></span></Link>
 
 <svg class="top-right" width="219" height="147" viewBox="0 0 219 147" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect opacity="0.18" x="10.4252" y="75.8326" width="7.50168" height="7.50168" transform="rotate(110.283 10.4252 75.8326)" fill="#686868" stroke="white" stroke-width="1.22683" />
@@ -56,6 +98,7 @@ import { appName } from './Questions/QuestionsFunctions/QuestionsManager';
 </svg>
 </div>
 
-</template>
-<style scoped src="../../css/splash_page_css.css"></style>
 
+</template>
+<style scoped src="../../../css/style_generate_single_quizz.scss"></style>
+<style scoped src="../../../css/splash_page_css.css"></style>

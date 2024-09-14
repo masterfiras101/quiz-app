@@ -20,10 +20,7 @@ class QuestionController extends Controller
     }
 
 
-    public function generate_single_quizz(){
-        return Inertia::render('GenerateQuizz/GenerateSingleQuizz');
-    }
-
+   
     /**
      * Show the form for creating a new resource.
      */
@@ -79,13 +76,24 @@ class QuestionController extends Controller
     public function update(Request $request, Question $question)
     {
         //
+        $q_id=$request['id'];
+        $q_question = $request['question'];
+        $update_q = Question::findOrFail($q_id);
+        $update_q->question = $q_question;
+        $update_q->save();
+
+        return redirect('questions-main-page')->with('success','تم   تعديل السؤال   بنجاح');
     }
+
 
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Question $question)
+    public function destroy(int $question_id)
     {
-        //
+        $question_delete = Question::findOrFail($question_id);
+        $question_delete->delete();
+        return redirect('questions-main-page')->with('success','تم   حذف السؤال   بنجاح');
     }
+
 }

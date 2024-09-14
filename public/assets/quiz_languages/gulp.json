@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What is Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A popular JavaScript framework",
+        "b": "A task runner that automates repetitive development tasks",
+        "c": "A server-side programming language",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To build complex web applications",
+        "b": "To automate tasks like minification, compilation, and more in web development",
+        "c": "To create animated graphics",
+        "d": "To manage databases"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which programming language is commonly used to write Gulp tasks?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Python",
+        "b": "JavaScript",
+        "c": "Java",
+        "d": "C++"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does a Gulp task typically consist of?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A series of configuration files",
+        "b": "A set of functions that define the tasks to be performed",
+        "c": "A database schema",
+        "d": "A web page layout"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Gulp, what is a 'Gulpfile'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A configuration file for web servers",
+        "b": "A script that defines Gulp tasks and their execution",
+        "c": "A plugin for image processing",
+        "d": "A document containing web design guidelines"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'gulp.src' in a Gulp task?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To source external JavaScript libraries",
+        "b": "To specify the target file for a Gulp task",
+        "c": "To read files from the file system and create a stream",
+        "d": "To source fonts for a web page"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is 'pipe' used for in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create an empty directory",
+        "b": "To transfer data between two Gulp tasks",
+        "c": "To clean the project workspace",
+        "d": "To define a Gulp task"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which of the following is a common task performed using Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Video editing",
+        "b": "Image processing",
+        "c": "3D modeling",
+        "d": "Database management"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Gulp, what does 'gulp.dest' do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To destroy the project folder",
+        "b": "To deploy the project to a server",
+        "c": "To specify the output destination for processed files",
+        "d": "To determine the project name"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of 'gulp.watch' in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To watch videos online",
+        "b": "To monitor changes in specified files and trigger tasks in response",
+        "c": "To generate code documentation",
+        "d": "To set up automated testing"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a Gulp plugin?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of web server",
+        "b": "A third-party JavaScript module that provides additional functionality for Gulp tasks",
+        "c": "A user interface library",
+        "d": "A database system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which of the following is a common Gulp plugin used for minifying JavaScript files?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "gulp-uglify",
+        "b": "gulp-minify",
+        "c": "gulp-compact",
+        "d": "gulp-compress"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of 'gulp-concat' in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To divide tasks into smaller subtasks",
+        "b": "To concatenate (combine) multiple files into one",
+        "c": "To calculate a mathematical expression",
+        "d": "To compress image files"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary benefit of using Gulp in web development?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make web applications more interactive",
+        "b": "To automate repetitive tasks, saving time and effort",
+        "c": "To create complex 3D animations",
+        "d": "To manage databases more efficiently"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Gulp, what is a 'task runner'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for deploying web applications",
+        "b": "A build system that automates the execution of Gulp tasks",
+        "c": "A module for creating graphics",
+        "d": "A web framework for server-side development"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Gulp command is used to execute a specific task?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "gulp serve",
+        "b": "gulp go",
+        "c": "gulp execute",
+        "d": "gulp task"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of the 'gulp-clean' plugin in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To clean the project workspace",
+        "b": "To optimize images",
+        "c": "To generate CSS from SASS files",
+        "d": "To serve a development version of a web application"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Gulp, what is the role of 'gulp-livereload'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To reload the browser automatically when changes are made to the project files",
+        "b": "To compress images",
+        "c": "To minify JavaScript code",
+        "d": "To create server logs"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which of the following is a Gulp plugin used for optimizing images?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "gulp-minify-images",
+        "b": "gulp-imager",
+        "c": "gulp-image-optimizer",
+        "d": "gulp-imagemin"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of 'gulp-autoprefixer' in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add prefixes to CSS properties for better browser compatibility",
+        "b": "To automate server deployment",
+        "c": "To create an automated testing suite",
+        "d": "To generate server-side code"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Gulp, what is the 'gulp-rename' plugin used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To rename project folders",
+        "b": "To rename JavaScript variables",
+        "c": "To rename files during processing",
+        "d": "To rename CSS classes"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What does 'gulp-sass' do in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create interactive web pages",
+        "b": "To compile SASS/SCSS files into CSS",
+        "c": "To send emails",
+        "d": "To manage databases"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Gulp, what is the purpose of 'gulp-babel'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To bake bread",
+        "b": "To transpile JavaScript code to a version compatible with various browsers",
+        "c": "To organize code into modules",
+        "d": "To create a web application"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'gulp-clean-css' plugin in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To clean the browser cache",
+        "b": "To optimize images",
+        "c": "To minify and clean up CSS code",
+        "d": "To remove unused HTML elements"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "In Gulp, what is the role of 'gulp-eslint'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a file system",
+        "b": "To manage project dependencies",
+        "c": "To analyze JavaScript code for potential errors and style issues",
+        "d": "To serve web pages"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of 'gulp-uglifycss' in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To uglify (minify) CSS code",
+        "b": "To uglify (minify) JavaScript code",
+        "c": "To create ugly and unreadable code",
+        "d": "To obfuscate HTML"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Gulp, what is the 'gulp-svgmin' plugin used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To minify SVG files",
+        "b": "To convert SVG files to PNG",
+        "c": "To create animated SVG graphics",
+        "d": "To optimize JPEG images"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What does 'gulp-htmlmin' do in Gulp?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To minify HTML code",
+        "b": "To convert HTML to Markdown",
+        "c": "To create web page layouts",
+        "d": "To optimize GIF images"
+      },
+      "correct": "A"
+    }
+  ]
+  

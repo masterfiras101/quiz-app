@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What is 'Moment.js'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A time management app",
+        "b": "A JavaScript library for parsing, validating, manipulating, and formatting dates and times",
+        "c": "A calendar application",
+        "d": "A stopwatch app"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary use of Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating time travel simulations",
+        "b": "Working with dates and times in JavaScript",
+        "c": "Scheduling events",
+        "d": "Measuring time intervals"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'Moment' represent in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A brief period in time",
+        "b": "A JavaScript object representing a moment in time",
+        "c": "A photography moment",
+        "d": "A moment in a play or movie"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How can you create a 'Moment' object in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By taking a photo",
+        "b": "By calling the 'moment()' function",
+        "c": "By setting an alarm",
+        "d": "By watching a clock"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'parsing' in the context of Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Analyzing a poem",
+        "b": "Converting a date string into a 'Moment' object",
+        "c": "Creating a parse tree in programming",
+        "d": "Reading a book"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'formatting' do in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Styling a document",
+        "b": "Converting a 'Moment' object into a formatted date string",
+        "c": "Creating a format for a document",
+        "d": "Decorating a room"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'manipulating' in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Playing with toys",
+        "b": "Changing the values of a 'Moment' object to perform various operations",
+        "c": "Creating a manipulative character in a story",
+        "d": "Working with machinery"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'validating' mean in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Checking if a date is valid",
+        "b": "Performing calculations on dates",
+        "c": "Creating a validation code",
+        "d": "Validating a ticket"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is a 'duration' in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The length of a movie",
+        "b": "A 'Moment' object representing a time span",
+        "c": "A vacation duration",
+        "d": "The time it takes to run a race"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'add' and 'subtract' methods in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add or subtract elements from an HTML document",
+        "b": "To add or subtract time units from a 'Moment' object",
+        "c": "To add or subtract ingredients in a recipe",
+        "d": "To add or subtract money from a budget"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'startOf' method do in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It starts a car's engine",
+        "b": "It sets the 'Moment' object to the start of a unit of time (e.g., day, month, year)",
+        "c": "It starts a race",
+        "d": "It starts a cooking timer"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'endOf' method used for in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It signals the end of a movie",
+        "b": "It sets the 'Moment' object to the end of a unit of time (e.g., day, month, year)",
+        "c": "It marks the end of a journey",
+        "d": "It marks the end of a school day"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'from' method in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It calculates the distance between two points on a map",
+        "b": "It creates a string describing the relative time from a given date",
+        "c": "It measures the distance from a goal in a game",
+        "d": "It measures the distance between two locations"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'calendar' method in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To manage a daily schedule",
+        "b": "To display a date in a human-readable calendar format",
+        "c": "To create a calendar for an event",
+        "d": "To organize a calendar year"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'difference' method in Moment.js used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Finding the difference between two numbers",
+        "b": "Calculating the difference between two 'Moment' objects in terms of time",
+        "c": "Finding the difference between two temperatures",
+        "d": "Measuring the difference in distance"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'isBefore' method in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Checking if a date is before another date",
+        "b": "Determining if a book is in good condition",
+        "c": "Checking if a location is before another location",
+        "d": "Assessing if a person is before their time"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What does 'isSame' method do in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Checking if two things are identical",
+        "b": "Determining if two 'Moment' objects represent the same date and time",
+        "c": "Checking if two places have the same name",
+        "d": "Comparing two photos"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of 'isAfter' method in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Checking if a date is in the future",
+        "b": "Assessing if a painting is after a certain art movement",
+        "c": "Checking if a location is after a specific time",
+        "d": "Determining if an event is after another event"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'local' in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A local coffee shop",
+        "b": "A method for displaying a 'Moment' object in the local time zone",
+        "c": "A local event",
+        "d": "A local park"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'UTC' stand for in the context of Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Universal Time Clock",
+        "b": "Coordinated Universal Time",
+        "c": "Ultimate Time Converter",
+        "d": "Universal Time Code"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Unix Timestamp' in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A timestamp for Linux servers",
+        "b": "A way to represent time as the number of seconds since January 1, 1970",
+        "c": "A timekeeping method for Unix operating systems",
+        "d": "A code for a specific moment in time"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What does 'to' method do in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It creates a 'to-do' list",
+        "b": "It formats a 'Moment' object as a string",
+        "c": "It measures the distance to a location",
+        "d": "It counts down to a future event"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'calendar' method used for in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To schedule appointments",
+        "b": "To display a date in a calendar-like format (e.g., 'Today', 'Yesterday')",
+        "c": "To create a calendar for the year",
+        "d": "To create a digital calendar"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'clone' method in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a duplicate of a document",
+        "b": "To create a copy of a 'Moment' object",
+        "c": "To clone an animal",
+        "d": "To clone a plant"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'duration' method used for in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To calculate the duration of a movie",
+        "b": "To create a duration of time",
+        "c": "To measure the duration of a race",
+        "d": "To plan the duration of an event"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'humanize' method in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To make something more human-like",
+        "b": "To represent time in a more human-readable format (e.g., 'in a few seconds', 'a minute ago')",
+        "c": "To add human characteristics to a character",
+        "d": "To make a robot more human-like"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'min' in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A unit of time measurement",
+        "b": "A method for getting the minimum of multiple 'Moment' objects",
+        "c": "A type of mineral",
+        "d": "A way to find the minimum value"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'max' in Moment.js?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A maximum value",
+        "b": "A method for getting the maximum of multiple 'Moment' objects",
+        "c": "A type of music",
+        "d": "A maximum number"
+      },
+      "correct": "B"
+    }
+  ]
+  

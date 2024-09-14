@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What is 'Polymer'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A synthetic material",
+        "b": "A JavaScript library for building web components",
+        "c": "A type of plastic",
+        "d": "A music genre"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the primary purpose of Polymer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating art installations",
+        "b": "Building web components and applications",
+        "c": "Designing fashion products",
+        "d": "Developing mobile games"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What are 'web components' in the context of Polymer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Hardware components for computers",
+        "b": "Reusable and encapsulated UI elements for web development",
+        "c": "Components used in virtual reality applications",
+        "d": "Components for building physical robots"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How does Polymer help in building web components?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "By providing pre-designed web templates",
+        "b": "By offering a framework for creating and managing web components",
+        "c": "By offering domain names for websites",
+        "d": "By providing a library for building physical components"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the core idea behind Polymer's design?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Complexity and redundancy",
+        "b": "Simplicity, reusability, and encapsulation",
+        "c": "Expressive but hard-to-maintain code",
+        "d": "Performance optimization"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Shadow DOM' in Polymer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of virtual reality technology",
+        "b": "A way to encapsulate and hide the internal structure of a web component",
+        "c": "A method for creating dark-themed websites",
+        "d": "A method for creating shadows in web design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'HTML Imports' in Polymer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to import physical objects into web applications",
+        "b": "A way to include external HTML documents into a web component",
+        "c": "A way to import images into web applications",
+        "d": "A way to import multimedia content"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Custom Elements' in Polymer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A tool for creating custom HTML elements",
+        "b": "A way to customize HTML elements using CSS",
+        "c": "A tool for generating custom fonts",
+        "d": "A way to style HTML elements"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'Polymer CLI' used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A command-line tool for building and developing Polymer applications",
+        "b": "A command-line tool for designing logos and graphics",
+        "c": "A tool for managing physical materials",
+        "d": "A tool for creating audio files"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'LitElement' in the context of Polymer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of lighting technology",
+        "b": "A base class for creating lightweight web components",
+        "c": "A way to create animated web pages",
+        "d": "A method for creating 3D web components"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer 2'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A scientific experiment",
+        "b": "A version of Polymer that introduced many new features and improvements",
+        "c": "A new type of plastic",
+        "d": "A type of architectural material"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer 3'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A new type of food packaging material",
+        "b": "A version of Polymer that is focused on using standard web platform APIs",
+        "c": "A type of clothing material",
+        "d": "A new type of building material"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'Polymer Project'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "An art exhibition",
+        "b": "An open-source project that promotes web component standards and tools",
+        "c": "A project for creating polymer-based materials",
+        "d": "A project for designing 3D models"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Starter Kit'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A kit for starting a science experiment",
+        "b": "A boilerplate for building web apps with Polymer",
+        "c": "A starter kit for creating polymer-based products",
+        "d": "A kit for starting a fashion brand"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer App Toolbox'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A toolbox for creating physical objects",
+        "b": "A set of tools and best practices for building web applications",
+        "c": "A toolbox for creating chemical compounds",
+        "d": "A set of tools for constructing buildings"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Elements'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Physical elements used in building architecture",
+        "b": "A collection of pre-designed web components",
+        "c": "Elements used in clothing manufacturing",
+        "d": "Chemical elements"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Summit'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A summit for mountain climbers",
+        "b": "An annual conference for the Polymer community",
+        "c": "A summit for artists and designers",
+        "d": "A summit for chemical engineers"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer App Layout'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A layout for organizing physical spaces",
+        "b": "A set of responsive layout elements for building Polymer apps",
+        "c": "A layout for organizing art exhibitions",
+        "d": "A layout for architectural design"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Project Style Guide'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A guide for creating artistic styles",
+        "b": "A style guide for structuring Polymer applications and components",
+        "c": "A guide for clothing designers",
+        "d": "A guide for interior decorators"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Starter Kit Elements'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Elements used in scientific experiments",
+        "b": "A set of web components included in the Polymer Starter Kit",
+        "c": "Elements used in construction projects",
+        "d": "Chemical elements used in manufacturing"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Express'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A fast train service",
+        "b": "A tool for quickly building Polymer applications",
+        "c": "A type of architectural expression",
+        "d": "An express delivery service"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer CDN'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A content delivery network for Polymer materials",
+        "b": "A network for content creators",
+        "c": "A network for chemical engineers",
+        "d": "A content delivery network for web assets"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'Polymer Dev Summit'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A summit for web developers",
+        "b": "A summit for outdoor enthusiasts",
+        "c": "A summit for chefs",
+        "d": "A summit for researchers"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'Polymer Slack'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of fabric",
+        "b": "A chat platform for the Polymer community",
+        "c": "A tool for slacklining",
+        "d": "A type of food packaging"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Twitter'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A bird-like polymer material",
+        "b": "A Twitter account for Polymer enthusiasts",
+        "c": "A type of social media platform",
+        "d": "A tool for creating polymer-based art"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Blog'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type of writing material",
+        "b": "A blog for Polymer updates and news",
+        "c": "A tool for creating blogs",
+        "d": "A type of art blog"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer Meetup'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A physical meeting",
+        "b": "A platform for organizing Polymer community meetups",
+        "c": "A type of sporting event",
+        "d": "A meeting for art enthusiasts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Polymer API Viewer'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A viewer for scientific experiments",
+        "b": "A tool for exploring Polymer's API documentation",
+        "c": "A viewer for chemical compounds",
+        "d": "A viewer for architectural designs"
+      },
+      "correct": "B"
+    }
+  ]
+  

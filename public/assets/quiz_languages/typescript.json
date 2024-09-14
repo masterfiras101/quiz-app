@@ -1,0 +1,231 @@
+[
+    {
+      "title": "What is TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript library",
+        "b": "A superset of JavaScript",
+        "c": "A Python framework",
+        "d": "A database management system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Who developed TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Google",
+        "b": "Facebook",
+        "c": "Microsoft",
+        "d": "Twitter"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the main purpose of TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "To add static typing to JavaScript and make it more robust",
+        "c": "A technique for managing component dependencies and lifecycle",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you declare a variable with a specific type in TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Using the 'let' keyword",
+        "b": "Using the 'var' keyword",
+        "c": "Using type annotations after the variable name",
+        "d": "TypeScript does not support variable types"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the 'any' type in TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A type that represents any object",
+        "b": "A type that should be avoided in favor of more specific types",
+        "c": "A type that enforces strict type checking",
+        "d": "A reserved keyword in TypeScript"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a 'TypeScript Interface'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "A contract that defines the structure and behavior of an object",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Type Inference' in TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "The ability of TypeScript to automatically determine the type of a variable",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Type Assertion' in TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "A way to tell the compiler the type of a variable when the type cannot be inferred",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Type Compatibility' in TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "The concept that some types can be assigned to variables of a more general type",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Enum' in TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "A data type that consists of a set of named values",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'Decorator' in TypeScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A special kind of declaration that can be attached to classes, methods, and properties",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'TypeScript Compiler'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "The tool that converts TypeScript code into JavaScript",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'tsconfig.json'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A configuration file used to specify compiler options in a TypeScript project",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'TypeScript Module'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "A way to organize and reuse code in separate files",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'TypeScript Namespace'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "An older way to organize code and prevent naming conflicts",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'TypeScript Declaration Files'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "Files that describe the shape of an external library's API",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'TypeScript Declaration Merging'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "The process of combining multiple declarations with the same name into a single definition",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'TypeScript Compiler API'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your TypeScript application",
+        "b": "A set of tools and libraries for building custom TypeScript development tools",
+        "c": "A PHP web framework",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'TypeScript and Babel'?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A JavaScript framework",
+        "b": "A combination used to transpile TypeScript code to ES5",
+        "c": "A package manager",
+        "d": "A web server"
+      },
+      "correct": "B"
+    }
+  ]
+  

@@ -1,0 +1,315 @@
+[
+    {
+      "title": "What does AJAX stand for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Advanced JavaScript and XML",
+        "b": "Asynchronous JavaScript and XML",
+        "c": "Automated JavaScript and XML",
+        "d": "Accessible JavaScript and XML"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Who developed AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Microsoft",
+        "b": "Google",
+        "c": "Netscape",
+        "d": "Mozilla"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the primary purpose of AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create animations in web pages",
+        "b": "To build web applications with a single page",
+        "c": "To enable asynchronous data exchange between the browser and server without full page reloads",
+        "d": "To manage databases"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "In AJAX, what method is used to send an HTTP request to the server?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "POST",
+        "b": "GET",
+        "c": "REQUEST",
+        "d": "SUBMIT"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which object is commonly used to create an instance of an XMLHttpRequest in JavaScript for AJAX requests?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "HttpRequestObject",
+        "b": "XMLHttpRequest",
+        "c": "AjaxRequest",
+        "d": "HttpObject"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the XMLHttpRequest's `open` method in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To close the connection to the server",
+        "b": "To open a new browser window",
+        "c": "To open a connection to the server and specify the HTTP method and URL",
+        "d": "To open a new tab in the browser"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "In AJAX, what event is triggered when an HTTP request is complete?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "onAbort",
+        "b": "onError",
+        "c": "onComplete",
+        "d": "onLoad"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of the XMLHttpRequest's `send` method in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To send an HTTP request to the server",
+        "b": "To send an email",
+        "c": "To close the browser window",
+        "d": "To delete data from a database"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In AJAX, what object is commonly used to parse JSON data received from the server?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "XMLDocument",
+        "b": "TextDocument",
+        "c": "JSONParser",
+        "d": "JSON"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of the `onreadystatechange` event in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To close the browser",
+        "b": "To handle changes in the readyState property of the XMLHttpRequest object",
+        "c": "To send data to the server",
+        "d": "To display a loading spinner"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the HTTP status code for a successful AJAX request?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "200",
+        "b": "404",
+        "c": "500",
+        "d": "302"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In AJAX, what does the readyState property of the XMLHttpRequest object indicate when it's equal to 4?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "The request is in progress",
+        "b": "The request is complete",
+        "c": "The request has failed",
+        "d": "The request is canceled"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the `onerror` event in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To handle successful responses",
+        "b": "To handle errors that occur during the HTTP request",
+        "c": "To cancel the request",
+        "d": "To display a loading spinner"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In AJAX, what is the difference between a synchronous and asynchronous request?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Synchronous requests block the user interface while waiting for a response, while asynchronous requests do not",
+        "b": "Synchronous requests are faster than asynchronous requests",
+        "c": "Asynchronous requests can only be used for specific data types",
+        "d": "Synchronous requests require a special HTTP header"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the same-origin policy in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To allow requests from any origin",
+        "b": "To prevent requests from other origins for security reasons",
+        "c": "To control the server's response",
+        "d": "To specify the content type of responses"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is a common use of AJAX in web applications?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create complex animations",
+        "b": "To build single-page applications",
+        "c": "To design website layouts",
+        "d": "To manage user accounts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In AJAX, what does the `abort` method of the XMLHttpRequest object do?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "It initiates a new request",
+        "b": "It closes the browser window",
+        "c": "It cancels the current HTTP request",
+        "d": "It sends data to the server"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the `onload` event in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To close the browser",
+        "b": "To handle changes in the readyState property of the XMLHttpRequest object",
+        "c": "To send data to the server",
+        "d": "To handle a successful response from the server"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "In AJAX, what is the responseText property of the XMLHttpRequest object used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To set the request method",
+        "b": "To store the server's response data as text",
+        "c": "To send data to the server",
+        "d": "To specify the content type of the response"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the `onprogress` event in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To display a progress bar",
+        "b": "To track the progress of a file upload",
+        "c": "To handle server errors",
+        "d": "To manage database records"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In AJAX, what is the difference between the `GET` and `POST` request methods?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "There is no difference between them",
+        "b": "GET is used to send data to the server, and POST is used to retrieve data from the server",
+        "c": "GET is used for read-only operations, and POST is used for data modification or submission",
+        "d": "GET is more secure than POST"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the `timeout` property of the XMLHttpRequest object in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To set the server's response time",
+        "b": "To specify the request's timeout in milliseconds",
+        "c": "To control the browser's rendering time",
+        "d": "To handle network errors"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In AJAX, what is the purpose of the `onloadstart` event?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To load external scripts",
+        "b": "To display a loading spinner",
+        "c": "To start an operation",
+        "d": "To handle errors"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the `withCredentials` property of the XMLHttpRequest object in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To set the credentials for accessing the server",
+        "b": "To enable or disable cookies in the request",
+        "c": "To send user credentials to the server",
+        "d": "To specify the request's headers"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In AJAX, what is the purpose of the `onloadend` event?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To display the final result of an operation",
+        "b": "To handle errors",
+        "c": "To close the browser window",
+        "d": "To start an operation"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the `onreadystatechange` event in AJAX?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To close the browser",
+        "b": "To handle changes in the readyState property of the XMLHttpRequest object",
+        "c": "To send data to the server",
+        "d": "To display a loading spinner"
+      },
+      "correct": "B"
+    }
+  ]
+  

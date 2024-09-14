@@ -1,0 +1,327 @@
+[
+    {
+      "title": "What is JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A programming language that allows you to implement complex features on web pages",
+        "b": "A web server",
+        "c": "A version control system",
+        "d": "A code editor"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Who developed JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Google",
+        "b": "Facebook",
+        "c": "Netscape Communications",
+        "d": "Twitter"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the primary use of JavaScript in web development?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Creating and enhancing the interactive features of a website",
+        "b": "Styling web pages with CSS",
+        "c": "Managing databases",
+        "d": "Server-side scripting"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "How do you declare a variable in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "var myVariable;",
+        "b": "variable myVariable;",
+        "c": "myVariable := 0;",
+        "d": "let myVariable = 0;"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the 'DOM' in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "Document Object Model, a programming interface for web documents",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you add a comment in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "// This is a comment",
+        "b": "<!-- This is a comment -->",
+        "c": "/* This is a comment */",
+        "d": "# This is a comment"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is an 'if' statement in JavaScript used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "To execute a block of code if a specified condition is true",
+        "c": "A package manager",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you create a function in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "function myFunction() {}",
+        "b": "def myFunction() {}",
+        "c": "func myFunction() {}",
+        "d": "sub myFunction() {}"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is 'NaN' in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "A value representing 'Not-a-Number'",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you define an array in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "array myArray = [];",
+        "b": "myArray := new Array();",
+        "c": "myArray = {};",
+        "d": "let myArray = [];"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of the 'for' loop in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "To execute a block of code multiple times, with different values",
+        "c": "A package manager",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you access the first element of an array 'myArray' in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "myArray.firstElement;",
+        "b": "myArray[0];",
+        "c": "myArray.first();",
+        "d": "myArray.element(1);"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'JSON' in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "JavaScript Object Notation, a lightweight data interchange format",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'AJAX' in JavaScript used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "To make asynchronous requests to a server to retrieve or send data without reloading the page",
+        "c": "A package manager",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you create an object in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "object myObject = {};",
+        "b": "myObject := new Object();",
+        "c": "myObject = [];",
+        "d": "let myObject = {};"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is 'localStorage' in JavaScript used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "To store key-value pairs in a web browser with no expiration time",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you define a constant in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "const myConstant = 10;",
+        "b": "myConstant := 10;",
+        "c": "myConstant = 10;",
+        "d": "let myConstant = 10;"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the 'switch' statement in JavaScript used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "To execute different code blocks based on different conditions",
+        "c": "A package manager",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you compare two values for equality in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "value1 == value2;",
+        "b": "value1 === value2;",
+        "c": "value1 = value2;",
+        "d": "value1.equals(value2);"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is a 'closure' in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "A function that has access to variables from its containing function, even after that function has finished executing",
+        "c": "A package manager",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you round a number 'x' to the nearest integer in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "round(x);",
+        "b": "Math.round(x);",
+        "c": "x.round();",
+        "d": "ceil(x);"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the 'typeof' operator in JavaScript used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "To determine the type of a value or variable",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you convert a string 'str' to an integer in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "parseInt(str);",
+        "b": "str.toInteger();",
+        "c": "int(str);",
+        "d": "str.parseInt();"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the 'try...catch' statement in JavaScript used for?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "To handle errors and exceptions in code",
+        "c": "A package manager",
+        "d": "A version control system"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you add an element to the end of an array 'myArray' in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "myArray.append(element);",
+        "b": "myArray.push(element);",
+        "c": "myArray.add(element);",
+        "d": "myArray.insert(element);"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is 'ECMAScript' in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A way to control access to your JavaScript application",
+        "b": "A scripting-language specification that is the basis for JavaScript",
+        "c": "A package manager",
+        "d": "A code editor"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "How do you get the current date and time in JavaScript?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "currentDateTime();",
+        "b": "new Date();",
+        "c": "getDateAndTime();",
+        "d": "DateTime.now();"
+      },
+      "correct": "B"
+    }
+  ]
+  

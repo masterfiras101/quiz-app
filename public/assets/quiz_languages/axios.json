@@ -1,0 +1,290 @@
+[
+    {
+        "title": "What is Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A Greek word for excellence",
+            "b": "A popular JavaScript library for making HTTP requests",
+            "c": "A term used in mathematics",
+            "d": "A way to improve coding skills"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is the main purpose of Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "To teach programming concepts",
+            "b": "To simplify and streamline HTTP requests in JavaScript",
+            "c": "A type of main purpose in various fields",
+            "d": "To enhance web page design"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "How do you install Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "By baking it into your code",
+            "b": "Using npm or yarn to install it as a package",
+            "c": "A type of installation process in different industries",
+            "d": "By copying and pasting it from the internet"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What are the key features of Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "It can make HTTP requests only in the browser",
+            "b": "It supports promises and async/await for better asynchronous code handling",
+            "c": "A type of key feature in different domains",
+            "d": "It can cook delicious meals for you"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is an Axios 'Promise'?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A promise to be a better programmer",
+            "b": "An object representing the eventual completion or failure of an asynchronous operation",
+            "c": "A type of promise in diverse areas",
+            "d": "A promise to improve your website's appearance"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'async/await' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A way to make your code look complicated",
+            "b": "A modern way to handle asynchronous operations in a more readable manner",
+            "c": "A type of async behavior in various contexts",
+            "d": "A way to await better web design"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'GET' request in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A way to get more programming knowledge",
+            "b": "A request method used to retrieve data from a server",
+            "c": "A type of request in different domains",
+            "d": "A way to get creative with your website"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'POST' request in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A request to post about programming on social media",
+            "b": "A request method used to send data to the server",
+            "c": "A type of request in different areas",
+            "d": "A way to post your artwork on the web"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'PUT' request in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A request to put your coding skills to the test",
+            "b": "A request method used to update existing data on the server",
+            "c": "A type of request in various fields",
+            "d": "A way to put your web page on top of search results"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'DELETE' request in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A request to delete unnecessary code",
+            "b": "A request method used to delete data on the server",
+            "c": "A type of request in different industries",
+            "d": "A way to delete old web pages"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Interceptors' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "People who intercept your coding mistakes",
+            "b": "Functions that can be used to intercept requests or responses before they are handled",
+            "c": "A type of interceptor in various domains",
+            "d": "A way to intercept web traffic"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Error Handling' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Handling errors in cooking",
+            "b": "Dealing with errors that may occur during HTTP requests",
+            "c": "A type of error handling in different areas",
+            "d": "Handling errors in web design"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Cancellation' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Cancelling plans to become a programmer",
+            "b": "A feature that allows you to cancel pending requests",
+            "c": "A type of cancellation in various contexts",
+            "d": "Cancelling web projects"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Global Config' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Configuring global coding standards",
+            "b": "Setting global defaults for Axios instances",
+            "c": "A type of global configuration in different areas",
+            "d": "Configuring global website design"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Response Schema' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A schema for coding responses",
+            "b": "A way to define a schema for validating and transforming responses",
+            "c": "A type of schema in various domains",
+            "d": "A schema for web responses"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Request Config' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Configuring requests for new programming languages",
+            "b": "Options that can be passed when making a request to customize its behavior",
+            "c": "A type of request configuration in different industries",
+            "d": "Configuring requests for web development"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Adapters' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "People who adapt to new programming languages",
+            "b": "A way to specify which HTTP library Axios should use for requests",
+            "c": "A type of adaptation in various contexts",
+            "d": "Adapting to different web technologies"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Concurrent Requests' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Requests made by programmers at the same time",
+            "b": "Handling multiple requests concurrently",
+            "c": "A type of concurrency in different areas",
+            "d": "Concurrently developing web applications"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'REST' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Taking a break from programming",
+            "b": "Representational State Transfer, an architectural style for designing networked applications",
+            "c": "A type of rest in various contexts",
+            "d": "Taking a rest from web development"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'JSON' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "A way to represent data in a human-readable format",
+            "b": "JavaScript Object Notation, a lightweight data-interchange format",
+            "c": "A type of JSON in different fields",
+            "d": "A way to design web pages"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Cross-Origin Requests' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Requests for items from different cultures",
+            "b": "Requests to a different domain than the one that served the current web page",
+            "c": "A type of cross-origin request in diverse areas",
+            "d": "Designing websites for cross-cultural experiences"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Authentication' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Authenticating the quality of code",
+            "b": "The process of verifying the identity of a user or application",
+            "c": "A type of authentication in various domains",
+            "d": "Authenticating web page design"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Security' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Securing a job as a programmer",
+            "b": "Ensuring the safety of data and communication in applications",
+            "c": "A type of security in different industries",
+            "d": "Securing web applications"
+        },
+        "correct": "B"
+    },
+    {
+        "title": "What is 'Error Messages' in Axios?",
+        "detail": "",
+        "output": "",
+        "options": {
+            "a": "Messages that programmers send to their computers when they make mistakes",
+            "b": "Messages that provide information about errors that occur during HTTP requests",
+            "c": "A type of error message in diverse contexts",
+            "d": "Error messages in web development"
+        },
+        "correct": "B"
+    }
+]

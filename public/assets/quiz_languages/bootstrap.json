@@ -1,0 +1,339 @@
+[
+    {
+      "title": "What is Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A popular front-end framework for building responsive web pages",
+        "b": "A programming language",
+        "c": "A content management system",
+        "d": "A back-end framework for web development"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Who developed Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Mark Zuckerberg",
+        "b": "Jeff Bezos",
+        "c": "Twitter, Inc.",
+        "d": "Google, Inc."
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What does 'responsive web design' mean in the context of Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Designing web pages that respond to user input",
+        "b": "Designing web pages that adapt to different screen sizes and devices",
+        "c": "Designing web pages with high-speed performance",
+        "d": "Designing web pages with colorful graphics"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which CSS preprocessor is used by Bootstrap for styling?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Sass",
+        "b": "Less",
+        "c": "CSS-in-JS",
+        "d": "Stylus"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the Bootstrap grid system?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a grid of images",
+        "b": "To organize and layout page content in a responsive way",
+        "c": "To display tabular data",
+        "d": "To generate QR codes"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Bootstrap, what is the maximum number of columns in a single row within the grid system?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "10",
+        "b": "12",
+        "c": "16",
+        "d": "24"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the Bootstrap class for creating a responsive navigation bar?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".navbar",
+        "b": ".nav",
+        "c": ".navigation",
+        "d": ".menu"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a button?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".btn",
+        "b": ".button",
+        "c": ".clickable",
+        "d": ".link"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'container' class in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To center-align text",
+        "b": "To create a rounded border around an element",
+        "c": "To provide a fixed-width container for page content",
+        "d": "To change the color of text"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which Bootstrap class is used to add spacing between elements?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".margin",
+        "b": ".spacing",
+        "c": ".space",
+        "d": ".m"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'jumbotron' class in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a large, prominent heading for a section of content",
+        "b": "To display images in a gallery",
+        "c": "To style code blocks",
+        "d": "To add a video background to a page"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a responsive image?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".img-responsive",
+        "b": ".image",
+        "c": ".responsive-img",
+        "d": ".picture"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the Bootstrap class for creating a collapsible panel or accordion?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".collapsible",
+        "b": ".panel",
+        "c": ".accordion",
+        "d": ".collapse"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a navigation pill?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".tab",
+        "b": ".nav-item",
+        "c": ".nav-pill",
+        "d": ".nav-link"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'carousel' component in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a menu",
+        "b": "To display testimonials",
+        "c": "To create a slideshow of images or content",
+        "d": "To style forms"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a progress bar?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".bar",
+        "b": ".progress",
+        "c": ".progress-bar",
+        "d": ".loading"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'modal' component in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add rounded corners to elements",
+        "b": "To display a popup or dialog box",
+        "c": "To create animated effects",
+        "d": "To add shadows to text"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a responsive table?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".table",
+        "b": ".responsive",
+        "c": ".table-responsive",
+        "d": ".responsive-table"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'tooltip' component in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To display helpful tips when users hover over an element",
+        "b": "To add a rotating animation to an element",
+        "c": "To create a sticky navigation bar",
+        "d": "To show the current date and time"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a navigation tab?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".tab",
+        "b": ".nav-tab",
+        "c": ".nav-item",
+        "d": ".nav-link"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of the 'scrollspy' component in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add a smooth scrolling effect to a page",
+        "b": "To enable synchronization between navigation and content as users scroll",
+        "c": "To create a fixed-position sidebar",
+        "d": "To add a parallax effect to the background"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a form control?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".form-control",
+        "b": ".input",
+        "c": ".input-control",
+        "d": ".form-input"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'breadcrumb' component in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To display the path or hierarchy of a page's location",
+        "b": "To create links to social media profiles",
+        "c": "To add breadcrumbs as a topping to web pages",
+        "d": "To display a gallery of images"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a badge?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".tag",
+        "b": ".badge",
+        "c": ".label",
+        "d": ".highlight"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'navbar-toggler' component in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a toggler button for navigation bars on small screens",
+        "b": "To display icons in the navigation menu",
+        "c": "To toggle between light and dark mode",
+        "d": "To hide the entire navigation bar"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a list group?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".group",
+        "b": ".list-group",
+        "c": ".list",
+        "d": ".group-list"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'popover' component in Bootstrap?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add a popover effect to images",
+        "b": "To create a unique paragraph style",
+        "c": "To display additional content or information on hover or click",
+        "d": "To add sound effects to buttons"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which Bootstrap class is used to create a 'close' button for dismissing alerts?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": ".dismiss",
+        "b": ".close",
+        "c": ".button-close",
+        "d": ".alert-close"
+      },
+      "correct": "B"
+    }
+  ]
+  

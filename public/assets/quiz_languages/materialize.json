@@ -1,0 +1,327 @@
+[
+    {
+      "title": "What is Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "A programming language",
+        "b": "A JavaScript library for web development",
+        "c": "A popular open-source CSS framework for building responsive web pages",
+        "d": "A content management system"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Who developed Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Facebook",
+        "b": "Google",
+        "c": "Twitter",
+        "d": "MaterializeCSS Team"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the primary goal of Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create complex animations",
+        "b": "To build single-page applications",
+        "c": "To provide a modern and responsive CSS framework for web development",
+        "d": "To manage databases"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which CSS preprocessor is used in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "Sass",
+        "b": "Less",
+        "c": "CSS-in-JS",
+        "d": "Stylus"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'grid' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a grid layout for web pages",
+        "b": "To add a shadow to an element",
+        "c": "To define the width of a column",
+        "d": "To change the font of text within a column"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Materialize CSS, what class is used to create a navigation bar?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "navbar",
+        "b": "nav",
+        "c": "navigation",
+        "d": "menu"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'card' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a greeting card",
+        "b": "To define a card layout",
+        "c": "To add a card to a database",
+        "d": "To style card games"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Materialize class is used to create a button?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "btn",
+        "b": "button",
+        "c": "clickable",
+        "d": "link"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'modal' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a modal dialog for user interactions",
+        "b": "To add modals to images",
+        "c": "To define a modal layout",
+        "d": "To manage modals in a database"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Materialize CSS, what class is used to create a card panel?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "panel",
+        "b": "box",
+        "c": "card-panel",
+        "d": "container"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'chip' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add chips to a bag of snacks",
+        "b": "To create chip-based user interfaces",
+        "c": "To style chip elements like tags or contact information",
+        "d": "To manage chip manufacturing"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "Which Materialize class is used to create a collapsible element?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "collapse",
+        "b": "collapsible",
+        "c": "expand",
+        "d": "accordion"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'form' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a web form",
+        "b": "To style form elements",
+        "c": "To define form control styles",
+        "d": "To manage database forms"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Materialize CSS, what class is used to create a dropdown menu?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "menu",
+        "b": "drop",
+        "c": "dropdown",
+        "d": "select"
+      },
+      "correct": "C"
+    },
+    {
+      "title": "What is the purpose of the 'tabs' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add tabs to web pages for music playback",
+        "b": "To create tabbed navigation menus",
+        "c": "To style tabs for text content",
+        "d": "To manage tabs in a document"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Materialize class is used to create a footer?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "footer",
+        "b": "bottom",
+        "c": "end",
+        "d": "section-footer"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'table' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To define table styles for data presentation",
+        "b": "To create a table of contents",
+        "c": "To manage database tables",
+        "d": "To add animations to tables"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "In Materialize CSS, what class is used to create a slider?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "slider",
+        "b": "slide",
+        "c": "carousel",
+        "d": "slideshow"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'pagination' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To paginate database records",
+        "b": "To create a pagination menu",
+        "c": "To style pagination elements",
+        "d": "To manage page layouts"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Materialize class is used to create a breadcrumb navigation?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "breadcrumb",
+        "b": "nav-crumb",
+        "c": "trail",
+        "d": "crumb-navigation"
+      },
+      "correct": "A"
+    },
+    {
+      "title": "What is the purpose of the 'collection' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To create a collection of stamps",
+        "b": "To define a collection layout for items",
+        "c": "To style collections of data",
+        "d": "To manage collections in a database"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Materialize CSS, what class is used to create a chip group?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "chip-group",
+        "b": "chips",
+        "c": "group",
+        "d": "chipset"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of the 'card-action' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To perform card-based actions in a game",
+        "b": "To style card actions in a card element",
+        "c": "To create card-based user interactions",
+        "d": "To manage card actions in a database"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "Which Materialize class is used to create a collection item?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "item",
+        "b": "collection-item",
+        "c": "list-item",
+        "d": "collectible"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "What is the purpose of the 'blockquote' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To block quotes from users",
+        "b": "To style blockquote elements",
+        "c": "To manage blockquotes in a document",
+        "d": "To create a block-based quote generator"
+      },
+      "correct": "B"
+    },
+    {
+      "title": "In Materialize CSS, what class is used to create a preloader?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "loader",
+        "b": "spinner",
+        "c": "preload",
+        "d": "preloader"
+      },
+      "correct": "D"
+    },
+    {
+      "title": "What is the purpose of the 'waves-effect' class in Materialize CSS?",
+      "detail": "",
+      "output": "",
+      "options": {
+        "a": "To add wave animations to elements",
+        "b": "To create wave patterns in images",
+        "c": "To style elements with a wave-like effect",
+        "d": "To manage waves in a document"
+      },
+      "correct": "A"
+    }
+  ]
+  

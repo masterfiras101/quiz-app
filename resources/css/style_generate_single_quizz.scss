@@ -2,8 +2,8 @@
 // @import "../node_modules/bootstrap/scss/bootstrap";
 
 
-$color-chip: linear-gradient(90deg, #D0A963, #FFE6BA);
-$color-card--white: linear-gradient(45deg, #FFF, #CDCDCD);
+$color-chip: linear-gradient(90deg, #63d0a6, #baffe8);
+$color-card--white: linear-gradient(45deg, #FFF, #2c7ffc);
 $color-card--blue: linear-gradient(45deg, #748DFB, #3859E8);
 $color-card--dark: linear-gradient(45deg, #616161, #484848);
 
@@ -19,7 +19,7 @@ $n-groups: 7;
 $group-base-angle: 360deg/$n-groups;
 $group-distr-r: (
     1 + $k*.25)*$bubble-r;
-$n-sparkles: 2;
+$n-sparkles: 4;
 $sparkle-base-angle: 360deg/$n-sparkles;
 $sparkle-off-angle: 60deg; // offset angle from radius
 $spread-r: -$k*$sparkle-r;
@@ -46,9 +46,9 @@ box-shadow: $shadow-list;
 
 @mixin bubble($ext) {
     transform: scale(1);
-    border-color: #545461;
+    border-color: rgb(43, 206, 157);
     border-width: $ext;
-    
+
 }
 
 
@@ -66,7 +66,7 @@ box-shadow: $shadow-list;
     position: absolute;
     opacity: 0;
 
-    &:checked~label {
+    &.selected~label {
         border-color:hsl(155, 100%, 65%);
         background-color: rgba(#619AEA, 0.16);
         color: #FFF;
@@ -86,9 +86,10 @@ box-shadow: $shadow-list;
             will-change: transform;
             border: 0;
             background-image: linear-gradient(to top right, #6E89FF, #4363EE);
-            animation: radio 400ms cubic-bezier(.17, .89, .32, 1.49);
-
-            &:after {
+            animation: radio 400ms cubic-bezier(.7, .89, .32, 1.49);
+            &:after 
+//             -webkit-animation: radio 400ms cubic-bezier(.7, .89, .32, 1.49);
+{
                 content: "";
                 position: absolute;
                 top: 50%;
@@ -117,6 +118,7 @@ box-shadow: $shadow-list;
 label {
     position: relative;
     display: grid;
+    justify-content: center;
     align-items: center;
     grid-template-columns: 20px auto 100px;
     grid-gap: 20px;
@@ -127,6 +129,8 @@ label {
     border: 2px solid transparent;
     background-color: transparent;
     transition: all 300ms ease-in;
+    border :1px solid white;
+      cursor: pointer;
 
     &:hover {
         border-color: hsl(155, 100%, 65%);
@@ -136,14 +140,14 @@ label {
     &:before,
     &:after {
         position: absolute;
-        left: 29px;
+        left: 39px;
         border-radius: 50%;
         content: '';
     }
 
     &:before {
         margin: -$bubble-r;
-        border: solid $bubble-r #545461;
+        border: solid $bubble-r #44f1da;
         width: $bubble-d;
         height: $bubble-d;
         transform: scale(0);
@@ -169,7 +173,7 @@ label {
 
 .card {
     position: relative;
-    width: 243px;
+    width: 223px;
     height: 152px;
     padding: 22px 24px;
     border-radius: 16px;
@@ -226,10 +230,10 @@ label {
             width: 30px;
             height: 30px;
             border-radius: 30px;
-            background-color: #FB4646;
+            background-color: #46fb73;
 
             &:last-child {
-                background-color: rgba(#FFA337, 0.75);
+                background-color: rgba(#37ffff, 0.75);
                 margin-left: -13px;
             }
         }
@@ -239,8 +243,8 @@ label {
 .text {
     &__row {
         display: grid;
-        grid-template-columns: 54px 64px;
-        grid-gap: 6px;
+        grid-template-columns: 14px 64px;
+        grid-gap: 1px;
 
         &:last-of-type {
             grid-template-columns: 45px 54px;

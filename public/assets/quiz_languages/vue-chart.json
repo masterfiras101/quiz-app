@@ -1,0 +1,292 @@
+[
+  {
+    "title": "What is Vue Chart.js?",
+    "options": {
+      "a": "A charting library for displaying pie charts",
+      "b": "A Vue wrapper for Chart.js, a popular JavaScript charting library",
+      "c": "A tool for creating cooking charts",
+      "d": "A library for designing web charts"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is the main purpose of Vue Chart.js?",
+    "options": {
+      "a": "To help chefs create visually appealing dishes",
+      "b": "To provide a way to integrate Chart.js into Vue applications",
+      "c": "A type of main purpose in different fields",
+      "d": "To enhance the appearance of web charts"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "How do you install Vue Chart.js?",
+    "options": {
+      "a": "By cooking it in your kitchen",
+      "b": "By installing it as a Vue plugin using npm or yarn",
+      "c": "A type of installation process in diverse areas",
+      "d": "By drawing it on your web page"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Chart' in Vue Chart.js?",
+    "options": {
+      "a": "A chart of popular recipes",
+      "b": "A Vue component for rendering charts using Chart.js",
+      "c": "A type of chart in different contexts",
+      "d": "A chart for web page layouts"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What types of charts can you create with Vue Chart.js?",
+    "options": {
+      "a": "Only pie charts",
+      "b": "Various types, including bar, line, pie, and more",
+      "c": "A type of chart in different industries",
+      "d": "Only bubble charts"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Data' in Vue Chart.js?",
+    "options": {
+      "a": "Information about cooking ingredients",
+      "b": "The dataset used to render a chart",
+      "c": "A type of data in various areas",
+      "d": "Information about web page visitors"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Options' in Vue Chart.js?",
+    "options": {
+      "a": "Choices for cooking methods",
+      "b": "An object for configuring the appearance and behavior of a chart",
+      "c": "A type of options in different domains",
+      "d": "Options for web page design"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Plugins' in Vue Chart.js?",
+    "options": {
+      "a": "Enhancements for your cooking recipes",
+      "b": "Extensions that provide additional features to the chart",
+      "c": "A type of plugin in various contexts",
+      "d": "Enhancing web applications with plugins"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Animations' in Vue Chart.js?",
+    "options": {
+      "a": "Animating cooking processes",
+      "b": "A feature for adding animations to the chart",
+      "c": "A type of animation in different industries",
+      "d": "Animating web page elements"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Events' in Vue Chart.js?",
+    "options": {
+      "a": "Special events for food lovers",
+      "b": "Custom events triggered by user interactions with the chart",
+      "c": "A type of event in various areas",
+      "d": "Events in web development"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Legend' in Vue Chart.js?",
+    "options": {
+      "a": "A legendary chef's signature dish",
+      "b": "A component for displaying information about chart elements",
+      "c": "A type of legend in different contexts",
+      "d": "Legends in web design"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Tooltips' in Vue Chart.js?",
+    "options": {
+      "a": "Tools for preparing culinary delights",
+      "b": "Interactive pop-up labels that provide additional information about chart data",
+      "c": "A type of tooltip in various industries",
+      "d": "Tooltips for web page elements"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Colors' in Vue Chart.js?",
+    "options": {
+      "a": "Colors used for plating dishes",
+      "b": "A way to customize the colors of chart elements",
+      "c": "A type of color in different areas",
+      "d": "Colors for web page backgrounds"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Axes' in Vue Chart.js?",
+    "options": {
+      "a": "Axes used for slicing and dicing ingredients",
+      "b": "Configurable axes for defining scale and labels in the chart",
+      "c": "A type of axis in diverse contexts",
+      "d": "Axes for positioning web page elements"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Layout' in Vue Chart.js?",
+    "options": {
+      "a": "The layout of a cookbook",
+      "b": "A way to configure the overall layout of the chart",
+      "c": "A type of layout in different industries",
+      "d": "Layout for web page content"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Title' in Vue Chart.js?",
+    "options": {
+      "a": "The title of a famous dish",
+      "b": "A component for adding a title to the chart",
+      "c": "A type of title in various areas",
+      "d": "Titles for web pages"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Labels' in Vue Chart.js?",
+    "options": {
+      "a": "Labels for recipe ingredients",
+      "b": "Text labels for chart data points",
+      "c": "A type of label in different domains",
+      "d": "Labels for web navigation"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Responsive' in Vue Chart.js?",
+    "options": {
+      "a": "A responsive chef who adapts to different cuisines",
+      "b": "A feature that makes the chart adjust to various screen sizes",
+      "c": "A type of responsiveness in diverse areas",
+      "d": "Responsive web design"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Custom Charts' in Vue Chart.js?",
+    "options": {
+      "a": "Custom recipes created by top chefs",
+      "b": "The ability to create custom chart types using Chart.js",
+      "c": "A type of custom chart in various contexts",
+      "d": "Customizing web charts"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Global Options' in Vue Chart.js?",
+    "options": {
+      "a": "Options for international cuisine",
+      "b": "Options that apply globally to all charts in an application",
+      "c": "A type of global option in different industries",
+      "d": "Global options for web layouts"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Custom Elements' in Vue Chart.js?",
+    "options": {
+      "a": "Elements customized for a specific dish",
+      "b": "Custom HTML elements for embedding charts in a Vue application",
+      "c": "A type of custom element in diverse contexts",
+      "d": "Customizing web page elements"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Chart Area' in Vue Chart.js?",
+    "options": {
+      "a": "The area where chefs prepare dishes",
+      "b": "The region within the chart where data is displayed",
+      "c": "A type of chart area in various areas",
+      "d": "Chart areas for web page content"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Title Configuration' in Vue Chart.js?",
+    "options": {
+      "a": "Configuring the titles of culinary creations",
+      "b": "Options for customizing the appearance of chart titles",
+      "c": "A type of title configuration in different contexts",
+      "d": "Configuring web page titles"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Gradient' in Vue Chart.js?",
+    "options": {
+      "a": "A cooking technique involving gradients of flavor",
+      "b": "A way to create gradient colors in charts",
+      "c": "A type of gradient in diverse industries",
+      "d": "Gradients for web background design"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Data Labels' in Vue Chart.js?",
+    "options": {
+      "a": "Labels for food ingredients in a recipe",
+      "b": "Labels displayed on the chart to show data values",
+      "c": "A type of data label in different domains",
+      "d": "Data labels for web page elements"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Accessibility' in Vue Chart.js?",
+    "options": {
+      "a": "Creating dishes that are accessible to all dietary preferences",
+      "b": "Features that make charts more accessible to users with disabilities",
+      "c": "A type of accessibility in various contexts",
+      "d": "Accessibility features for web applications"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Data Transformation' in Vue Chart.js?",
+    "options": {
+      "a": "Transforming ingredients into gourmet dishes",
+      "b": "A feature for transforming and manipulating chart data",
+      "c": "A type of data transformation in diverse areas",
+      "d": "Transforming data for web page use"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Custom Events' in Vue Chart.js?",
+    "options": {
+      "a": "Events created by top chefs for special occasions",
+      "b": "Custom events triggered by user interactions with the chart",
+      "c": "A type of custom event in different industries",
+      "d": "Custom events for web user engagement"
+    },
+    "correct": "B"
+  },
+  {
+    "title": "What is 'Data Loading' in Vue Chart.js?",
+    "options": {
+      "a": "Loading ingredients into a cooking pot",
+      "b": "The process of loading data into the chart",
+      "c": "A type of data loading in various contexts",
+      "d": "Loading data for web page content"
+    },
+    "correct": "B"
+  }
+]

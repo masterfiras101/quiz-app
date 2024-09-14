@@ -1,0 +1,139 @@
+/* Base styles for the grid container */
+.grid-container {
+    display: grid;
+    column-gap: 12px;
+    /* Gap between columns */
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    /* Responsive grid */
+    /* padding: 10px; */
+    overflow-x: auto;
+        /* Enable horizontal scrolling if needed */
+        overflow-y: auto;
+        /* Hide vertical scrolling */
+        white-space: nowrap;
+}
+
+.grid-item{
+    margin: 2px;
+
+}
+/* Styles for each grid item */
+
+/* Media query for phones (max-width: 600px) */
+@media (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+        /* Two columns layout for small screens */
+    }
+}
+
+/* Media query for tablets (min-width: 601px) and up to 899px */
+@media (min-width: 601px) and (max-width: 899px) {
+    .grid-container {
+        grid-template-columns: repeat(5, 1fr);
+        /* Five columns layout for tablets */
+        column-gap: 30px;
+        /* Adjust column gap for tablets */
+    }
+}
+
+/* Media query for small laptops and desktops (min-width: 900px) and up to 1199px */
+@media (min-width: 900px) and (max-width: 1199px) {
+    .grid-container {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        /* Responsive grid for small laptops */
+        column-gap: 30px;
+        /* Adjust column gap for small laptops */
+    }
+}
+
+/* Media query for large laptops and desktops (min-width: 1200px) */
+@media (min-width: 1200px) {
+    .grid-container {
+        grid-template-columns: repeat(5, 1fr);
+        /* Five columns layout for large screens */
+        column-gap: 40px;
+        /* Adjust column gap for large screens */
+    }
+}
+
+/* Media query for extra large screens (min-width: 1500px) */
+@media (min-width: 1500px) {
+    .grid-container {
+        grid-template-columns: repeat(6, 1fr);
+        /* Six columns layout for extra large screens */
+        column-gap: 50px;
+        /* Adjust column gap for extra large screens */
+    }
+}
+
+
+
+/* From Uiverse.io by nikk7007 */
+.button-lang {
+    --color: #00A97F;
+    padding: 0.3em 1.9em;
+    background-color: transparent;
+    border-radius: .3em;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    transition: .5s;
+    font-weight: 400;
+    font-size: 17px;
+    border: 1px solid;
+    font-family: inherit;
+    text-transform: uppercase;
+    color: var(--color);
+    z-index: 1;
+    display: flex;
+    /* Center content horizontally and vertically */
+    align-items: center;
+    /* Center content vertically */
+    justify-content: center;
+    /* Center content horizontally */
+    width: 170px;
+    /* Fixed width */
+    height: 40px;
+    /* Fixed height */
+    text-align: center;
+    /* Center text inside the button */
+}
+
+.button-lang::before,
+.button-lang::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 50px;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border-radius: 50%;
+    z-index: -1;
+    background-color: var(--color);
+    transition: 1s ease;
+}
+
+.button-lang::before {
+    top: -1em;
+    left: -1em;
+}
+
+.button-lang::after {
+    left: calc(100% + 1em);
+    top: calc(100% + 1em);
+}
+
+.button-lang:hover::before,
+.button-lang:hover::after {
+    height: 410px;
+    width: 410px;
+}
+
+.button-lang:hover {
+    color: rgb(10, 25, 30);
+}
+
+.button-lang:active {
+    filter: brightness(.8);
+}
