@@ -19,16 +19,6 @@ class QuestionController extends Controller
         ]);
     }
 
-
-   
-    /**
-     * Show the form for creating a new resource.
-     */
-    public function create()
-    {
-       //
-    }
-
     /**
      * Store a newly created resource in storage.
      */
@@ -60,7 +50,7 @@ class QuestionController extends Controller
      */
     public function update(Request $request, Question $question)
     {
-        //
+        
         $q_id=$request['id'];
         $q_question = $request['question'];
         $update_q = Question::findOrFail($q_id);
