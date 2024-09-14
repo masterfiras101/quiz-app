@@ -34,10 +34,9 @@ class QuestionController extends Controller
      */
     public function store(Request $request)
     {
-        // return $request->all();
+   
         $request_data = $request->all();
         $question = $request_data['question'];
-         //save question in database
         $new_question = new   Question;
         $new_question->question=$question;
         $new_question->save();
@@ -54,21 +53,7 @@ class QuestionController extends Controller
         return redirect('questions-main-page')->with('success','تم انشاء السؤال مع الإجابة بنجاح');
     }
 
-    /**
-     * Display the specified resource.
-     */
-    public function show(Question $question)
-    {
-        //
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(Question $question)
-    {
-        //
-    }
+    
 
     /**
      * Update the specified resource in storage.
