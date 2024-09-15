@@ -1,5 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-# Laravel-Quizz-Application
+#Laravel-Quizz-Application
+
 
 
 ### Screenshots
@@ -7,9 +7,9 @@
 <table width="100%">
   <tbody>
     <tr>
-       <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/2536de26-707c-42fd-ae83-5937baad60d7"/></td>
-      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/fe6bf26d-2553-46f2-9c1d-e89432d4e9d3"/></td>
-      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/fe6bf26d-2553-46f2-9c1d-e89432d4e9d3"/></td>
+      <td width="1%"><img src="https://github.com/masterfiras101/quiz-app/blob/13f5b75dbcce3d7cd3384f1b3977bfc3eae72f70/public/assets/screenshot/phone-splash.png"/></td>
+       <td width="1%"><img src="https://github.com/masterfiras101/quiz-app/blob/13f5b75dbcce3d7cd3384f1b3977bfc3eae72f70/public/assets/screenshot/phone-generate-exam.png"/></td>
+      <td width="1%"><img src="https://github.com/masterfiras101/quiz-app/blob/13f5b75dbcce3d7cd3384f1b3977bfc3eae72f70/public/assets/screenshot/phone-generate-single-question.png"/></td>
     </tr>
 
   </tbody>
