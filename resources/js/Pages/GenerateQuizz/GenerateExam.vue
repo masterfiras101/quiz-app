@@ -16,6 +16,7 @@ const startQuiz = (language) => {
 </script>
 
 <template>
+    <Head title="توليد اختبار" />
 
     <div class="main_splash">
 <n class="mt-3 flex   items-center justify-center">

@@ -54,10 +54,11 @@ function nextQuestion(){
 </script>
 
 <template>
+    <Head title="توليد أسئلة" />
 
     <div class="main_splash">
 <n class="mt-3 flex   items-center justify-center">
-    <p class="items-center sitename"> الرئيسية</p>
+    <p class="items-center sitename"> توليد أسئلة</p>
 
 </n>
 

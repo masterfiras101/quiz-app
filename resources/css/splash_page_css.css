@@ -108,7 +108,7 @@
 
 .title>p:nth-child(2) {
     color: hsl(155, 100%, 65%);
-    align-self: flex-start;
+    align-self: flex-end;
 }
 
 .title>p:nth-child(3) {
@@ -452,13 +452,6 @@ span {
 
 
 /* contact us */
-.dev>p:nth-child(1) {
-    align-self: flex-start  ;
-}
-.dev>p{
-    display: flex;
-    font-size: 5rem;
 
-}
 
 /* end contact us */

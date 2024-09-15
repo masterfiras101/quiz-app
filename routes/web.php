@@ -9,10 +9,14 @@ Route::get('/', function () {
     return Inertia('Splashscreen');
 });
 
-// Route for the main splash screen page
+// Route for the main contact screen page
 Route::get('/contact-us', function () {
     return Inertia('ContactUs/ContactUsPage');
 });
+
+Route::get('/help', function () {
+    return Inertia('Help/HelpPage');
+}); 
 // Fallback route to handle any undefined routes (404 error page)
 Route::fallback(function () {
     return Inertia('404_page');
