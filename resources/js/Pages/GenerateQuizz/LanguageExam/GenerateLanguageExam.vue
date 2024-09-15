@@ -61,11 +61,11 @@ const calculateScore = (answers) => {
 
 
 <template>
-    <Head title="النتائج" />
+    <Head title="الأسئلة" />
 
     <div class="main_splash">
 <n class="mt-3 flex   items-center justify-center">
-    <p class="items-center sitename"> النتائج</p>
+    <p class="items-center sitename"> الأسئلة</p>
 
 </n>
 
@@ -92,7 +92,7 @@ const calculateScore = (answers) => {
 
     <div class="">
         <question_text class="d-flex justify-content-end">
-                <Link href="/generate-single-quizz" target="_blank" class="button-lang btn ">
+                <Link href="/generate-exam-choose-language" target="_blank" class="button-lang btn ">
         <d  class=""> رجوع
         </d>
     </Link>
