@@ -5,7 +5,7 @@ import {Link} from '@inertiajs/vue3'
 
 <template>
 
-    <Head title="الصفحة الرئيسية" />
+    <Head title=" تواصل بنا" />
 
     <div class="main_splash">
         <n class="mt-3 flex   items-center justify-center">
@@ -27,7 +27,12 @@ import {Link} from '@inertiajs/vue3'
 
 <div class="title">
     <p> أ/ محمد مقنم </p>
-    <p>في </p>
+    <p>:طور بواسطة </p>
+</div>
+<div class="d-flex mb-0 justify-between">
+    <p class=""> فراس محمد </p>
+    <p> غسان شكيب</p>
+ 
 </div>
 
 <Link href="/" target="_blank" class="button first">

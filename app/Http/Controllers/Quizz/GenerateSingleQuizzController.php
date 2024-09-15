@@ -27,7 +27,7 @@ class GenerateSingleQuizzController extends Controller
     }
 
     public function results(Request $request){
-        // return $request->all();
+        
         $score = $request[0]['results']['score'];
         $totalQuestions = $request[0]['results']['totalQuestions'];
         $percntag= ceil($score/$totalQuestions*100);
@@ -45,7 +45,7 @@ class GenerateSingleQuizzController extends Controller
          );
     }
     public function choose_language(){
-        // return Inertia('GenerateQuizz/GenerateExam');
+      
         // Path to the JSON file in the public directory
         $filePath = public_path('assets/quiz_language_main/LanguagesHeader.json');
 
@@ -78,51 +78,7 @@ class GenerateSingleQuizzController extends Controller
         ]);
     }
 
-    /**
-     * Show the form for creating a new resource.
-     */
-    public function create()
-    {
-        //
-    }
 
-    /**
-     * Store a newly created resource in storage.
-     */
-    public function store(Request $request)
-    {
-        //
-    }
 
-    /**
-     * Display the specified resource.
-     */
-    public function show(string $id)
-    {
-        //
-    }
 
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(string $id)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, string $id)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     */
-    public function destroy(string $id)
-    {
-        //
-    }
 }
