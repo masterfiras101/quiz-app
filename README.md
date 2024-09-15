@@ -7,7 +7,6 @@
     <tr>
        <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/2536de26-707c-42fd-ae83-5937baad60d7"/></td>
       <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/fe6bf26d-2553-46f2-9c1d-e89432d4e9d3"/></td>
-      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/9a007bd2-6cf7-47b9-b7dc-9526265ca07e"/></td>
     </tr>
     <tr>
       <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/c77d0668-6767-4a76-8e7d-d68e78f93e8d"/></td>
