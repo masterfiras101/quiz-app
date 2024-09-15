@@ -16,9 +16,9 @@
 </table>
 
 ## Laptop Screenshots 
-![flutter-task-manager](https://user-images.githubusercontent.com/62181222/111222593-3f02b580-8606-11eb-89e1-c5c518f5ad96.jpg)
+![laravel-quizz-app](https://github.com/masterfiras101/quiz-app/blob/e7ea268448cf94324db73a1b5c25283898d9b312/public/assets/screenshot/splash-page.png)
 
-
+![laravel-quizz-app](https://user-images.githubusercontent.com/62181222/111222593-3f02b580-8606-11eb-89e1-c5c518f5ad96.jpg)
 
 ## Required Tools
 - Xampp
