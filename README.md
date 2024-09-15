@@ -1,50 +1,32 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### Screenshots
 
+<table width="100%">
+  <tbody>
+    <tr>
+       <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/2536de26-707c-42fd-ae83-5937baad60d7"/></td>
+      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/fe6bf26d-2553-46f2-9c1d-e89432d4e9d3"/></td>
+      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/9a007bd2-6cf7-47b9-b7dc-9526265ca07e"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/c77d0668-6767-4a76-8e7d-d68e78f93e8d"/></td>
+      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/672ab2b1-bed6-4378-8fde-920935ba7d45"/></td>
+     <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/24cc7225-117a-45f2-9555-ba67215ff839"/></td>
+    </tr>
+    <tr>
+      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/c482a6ee-83ce-47da-a7ff-c0b58d4ddd2b"/></td>
+      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/0910d748-a936-4412-8031-5b79ada02087"/></td>
+      <td width="1%"><img src="https://github.com/FirasMD-Dev/Work-Road-Office-Sami-Metaher/assets/126325197/649ec041-755f-4ebb-b806-16c34759d928"/></td>
+    </tr>
+  </tbody>
+</table>
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
+
 - **[Active Logic](https://activelogic.com)**
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
