@@ -29,10 +29,6 @@
 ![laravel-quizz-app](https://github.com/masterfiras101/quiz-app/blob/4ef9f9318bf18e8b80dfb4cd60c525f6276e9953/public/assets/screenshot/question-exam.png)
 ![laravel-quizz-app](https://github.com/masterfiras101/quiz-app/blob/4ef9f9318bf18e8b80dfb4cd60c525f6276e9953/public/assets/screenshot/question-exam-2.png)
 
-## Required Tools
-- Xampp
-- Laravel
-- Inertiajs
-- Visual Studio Code (Optional)
-- Vuejs
+---
+### 📫 🙄
 
