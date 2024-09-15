@@ -449,3 +449,16 @@ span {
 
 
 }
+
+
+/* contact us */
+.dev>p:nth-child(1) {
+    align-self: flex-start  ;
+}
+.dev>p{
+    display: flex;
+    font-size: 5rem;
+
+}
+
+/* end contact us */

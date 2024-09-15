@@ -37,7 +37,7 @@ import { appName } from './Questions/QuestionsFunctions/QuestionsManager';
 
 <Link href="#" target="_blank" class="button sec"><button>مساعدة</button><span></span></Link>
 
-<Link href="/contact-us" target="_blank" class="button third"><button>تواصل  بنا</button><span></span></Link>
+<Link href="/contact-us" target="_blank" class="button third"><button>من  نحن</button><span></span></Link>
 
 <svg class="top-right" width="219" height="147" viewBox="0 0 219 147" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect opacity="0.18" x="10.4252" y="75.8326" width="7.50168" height="7.50168" transform="rotate(110.283 10.4252 75.8326)" fill="#686868" stroke="white" stroke-width="1.22683" />
