@@ -27,7 +27,7 @@ class GenerateSingleQuizzController extends Controller
     }
 
     public function results(Request $request){
-        
+
         $score = $request[0]['results']['score'];
         $totalQuestions = $request[0]['results']['totalQuestions'];
         $percntag= ceil($score/$totalQuestions*100);
@@ -45,7 +45,7 @@ class GenerateSingleQuizzController extends Controller
          );
     }
     public function choose_language(){
-      
+
         // Path to the JSON file in the public directory
         $filePath = public_path('assets/quiz_language_main/LanguagesHeader.json');
 
