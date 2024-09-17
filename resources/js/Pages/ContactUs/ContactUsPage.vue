@@ -28,7 +28,7 @@ import {Link} from '@inertiajs/vue3'
 
 <div class="title">
     <p style="letter-spacing: -0.2rem; align-self: flex-end ;font-size: 40px;">إشراف : أ/ محمد مقنم    </p>
-    <p class="">:طور بواسطة </p> 
+    <p class="">:طور بواسطة </p>
 
     <div class="developer-text-grid">
         <div class="developer-item">غسان شكيب</div>
@@ -36,7 +36,7 @@ import {Link} from '@inertiajs/vue3'
         <div class="developer-item">صالح السلمي</div>
         <div class="developer-item">سليم عايض</div>
         <div class="developer-item">محمد صلاح المنيفي</div>
-        <div class="developer-item">عبدالوهاب مشرح</div>
+        <div class="developer-item">اكرم اليفاعي</div>
     </div>
 </div>
 
