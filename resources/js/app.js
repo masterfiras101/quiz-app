@@ -1,7 +1,7 @@
 import '../css/app.css';
 import './bootstrap';
 
-import { createInertiaApp } from '@inertiajs/vue3';
+import { createInertiaApp,Head } from '@inertiajs/vue3';
 import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';
 import { createApp, h } from 'vue';
 import { ZiggyVue } from '../../vendor/tightenco/ziggy';
@@ -19,9 +19,13 @@ createInertiaApp({
         return createApp({ render: () => h(App, props) })
             .use(plugin)
             .use(ZiggyVue)
+            .component("Head", Head)
             .mount(el);
     },
     progress: {
-        color: '#4B5563',
-    },
+        // delay:100,
+        color: 'hsl(155, 100%, 65%)',
+        includeCSS: true,
+        showSpinner: true,
+    }
 });

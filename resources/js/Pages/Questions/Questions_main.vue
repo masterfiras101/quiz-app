@@ -178,7 +178,7 @@ const props=defineProps({
     <button>رجوع</button><span></span>
 </Link>
 
-<Link href="/generate-single-quizz" target="_blank" class="button sec"><button>توليد أسئلة</button><span></span></Link>
+<Link href="/report" target="_blank" class="button sec"><button>توليد أسئلة</button><span></span></Link>
 
 <Link href="/generate-exam-choose-language" target="_blank" class="button third"><button> توليد اختبار</button><span></span></Link>
 
