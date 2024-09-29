@@ -78,7 +78,4 @@ class GenerateSingleQuizzController extends Controller
         ]);
     }
 
-
-
-
 }
