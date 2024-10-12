@@ -6,6 +6,7 @@
     <section class="wrapper">
         <div class="errortext">
             <div class=""></div>
+            <error-404>الصفحة غير موجودة</error-404>
             <div class="opps"></div>
         </div>
     </section>

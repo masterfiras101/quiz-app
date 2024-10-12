@@ -36,65 +36,71 @@ const submit = () => {
         <div v-if="status" class="mb-4 text-sm font-medium text-green-600">
             {{ status }}
         </div>
-
+        
         <form @submit.prevent="submit">
             <div>
-                <InputLabel for="email" value="Email" />
-
+                <InputLabel class="text-right" for="email" value="البريد الإلكتروني" />
                 <TextInput
                     id="email"
                     type="email"
-                    class="mt-1 block w-full"
+                    class="mt-1 block w-full text-right text-black"
                     v-model="form.email"
                     required
                     autofocus
                     autocomplete="username"
                 />
-
-                <InputError class="mt-2" :message="form.errors.email" />
+                <InputError class="mt-2 text-right" :message="form.errors.email" />
             </div>
-
             <div class="mt-4">
-                <InputLabel for="password" value="Password" />
-
+                <InputLabel class="text-right" for="password" value="كلمة المرور" />
                 <TextInput
                     id="password"
                     type="password"
-                    class="mt-1 block w-full"
+                    class="mt-1 block w-full text-black text-right"
                     v-model="form.password"
                     required
                     autocomplete="current-password"
                 />
-
                 <InputError class="mt-2" :message="form.errors.password" />
             </div>
-
-            <div class="mt-4 block">
-                <label class="flex items-center">
-                    <Checkbox name="remember" v-model:checked="form.remember" />
-                    <span class="ms-2 text-sm text-gray-600"
-                        >Remember me</span
+            <div class="mt-4 ">
+                <label class="flex items-center justify-end ">
+                    <span class="ms-2 text-sm text-gray-600 px-2"
+                        >تذكرني</span
                     >
+                    <Checkbox name="remember" v-model:checked="form.remember" />
+                    
                 </label>
             </div>
 
-            <div class="mt-4 flex items-center justify-end">
-                <Link
-                    v-if="canResetPassword"
-                    :href="route('password.request')"
-                    class="rounded-md text-sm text-gray-600 underline hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
-                >
-                    Forgot your password?
-                </Link>
-
-                <PrimaryButton
-                    class="ms-4"
+            <div class="mt-4 flex  justify-center">
+                <div class="">
+                    <PrimaryButton
+                    class="ms-4 block"
                     :class="{ 'opacity-25': form.processing }"
                     :disabled="form.processing"
                 >
-                    Log in
+                    دخول
                 </PrimaryButton>
+                <div class=" justify-center">
+
+                        <Link
+                        v-if="canResetPassword"
+                        :href="route('password.request')"
+                        class="rounded-md block ml-3  text-sm text-gray-600 underline hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                    >
+                    نسيت كلمة المرور
+                    </Link>
+                    <Link
+                        :href="route('register')"
+                        class="rounded-md  px-5 ml-2  pt-3 text-sm text-gray-600 underline hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                    >
+                    أنشأ حساب
+                </Link>
+                </div>
+              </div>
             </div>
+         
         </form>
     </GuestLayout>
 </template>

@@ -23,20 +23,20 @@ const form = useForm({
 </script>
 
 <template>
-    <section>
-        <header>
-            <h2 class="text-lg font-medium text-gray-900">
-                Profile Information
+    <section >
+        <header class="text-center">
+            <h2 class="text-lg text-right font-medium text-gray-900">
+                 معلومات الملف الشخصي
             </h2>
 
-            <p class="mt-1 text-sm text-gray-600">
-                Update your account's profile information and email address.
+            <p class="mt-1 text-sm text-right text-gray-600">
+                قم بتحديث  بيانات الملف الشخصي
             </p>
         </header>
 
         <form
             @submit.prevent="form.patch(route('profile.update'))"
-            class="mt-6 space-y-6"
+            class="mt-6 space-y-6 text-center"
         >
             <div>
                 <InputLabel for="name" value="Name" />
@@ -44,7 +44,7 @@ const form = useForm({
                 <TextInput
                     id="name"
                     type="text"
-                    class="mt-1 block w-full"
+                    class="mt-1 block w-full text-center text-black"
                     v-model="form.name"
                     required
                     autofocus
@@ -60,7 +60,7 @@ const form = useForm({
                 <TextInput
                     id="email"
                     type="email"
-                    class="mt-1 block w-full"
+                    class="mt-1 block w-full  text-center text-black"
                     v-model="form.email"
                     required
                     autocomplete="username"
@@ -76,9 +76,9 @@ const form = useForm({
                         :href="route('verification.send')"
                         method="post"
                         as="button"
-                        class="rounded-md text-sm text-gray-600 underline hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                        class="rounded-md text-sm text-white underline hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                     >
-                        Click here to re-send the verification email.
+                        انقر هنا لإعادة ارسال  رمز التحقق الى البريد الإلكتروني
                     </Link>
                 </p>
 
@@ -103,7 +103,7 @@ const form = useForm({
                         v-if="form.recentlySuccessful"
                         class="text-sm text-gray-600"
                     >
-                        Saved.
+                        حفظ
                     </p>
                 </Transition>
             </div>

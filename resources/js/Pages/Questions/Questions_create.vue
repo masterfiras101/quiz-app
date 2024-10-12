@@ -5,25 +5,25 @@
 </script>
 
 <template>
-    <Transition name="create_question_model">
-        <div v-if="visible" class="modal-background">
+    <Transition name="create_question_model" class="font-cairo">
+        <div v-if="visible" class="modal-background font-cairo">
             <div class="modal-wrapper">
                 <div class="modal-container">
                     <slot name="success"></slot>
-                    <div class="close_btn">
+                    <div class="flex justify-between">
                         <f></f>
                         <f></f>
-                        <button type="button" @click="$emit('close')" class="close btn btn-danger btn-sm px-3" >&times;</button>
+                        <button type="button" @click="$emit('close')" class="close btn bg-red-400  btn-sm px-5 py-1" >&times;</button>
                     </div>
-                    <div class="modal-header">
+                    <div class="mt-0 flex justify-center font-cairo">
                      <slot name="header"> </slot>
                     </div>
 
-                    <div class="modal-body">
+                    <div class="modal-body font-cairo">
                     <slot name="body"> </slot>
                     </div>
 
-                    <div class="modal-footer">
+                    <div class="modal-footer font-cairo">
                         <slot name="footer"></slot>
                     </div>
 
@@ -46,11 +46,7 @@
         display: table;
         transition: opacity 0.3s ease;
     }
-    .close_btn{
-        display: flex;
-        justify-content: space-between;
-
-    }
+    
     .modal-background.modal-wrapper {
         display: table-cell;
         vertical-align: middle;
@@ -111,11 +107,7 @@
         display: table;
         transition: opacity 0.3s ease;
     }
-    .close_btn{
-        display: flex;
-        justify-content: space-between;
-
-    }
+  
     .modal-background.modal-wrapper {
         display: table-cell;
         vertical-align: middle;
@@ -183,11 +175,7 @@
         display: table;
         transition: opacity 0.3s ease;
     }
-    .close_btn{
-        display: flex;
-        justify-content: space-between;
-
-    }
+    
     .modal-background.modal-wrapper {
         display: table-cell;
         vertical-align: middle;
@@ -235,6 +223,4 @@
     }
 
 }
-
-
 </style>

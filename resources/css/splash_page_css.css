@@ -3,8 +3,8 @@
 /* Color of the links BEFORE scroll */
 
 .main_splash {
-    font-weight: 400;
-    background-color:hsl(0, 0%, 7%);
+    /* font-weight: 400; */
+    background-color:rgb(2 6 23 / #020617);
     color:hsl(0, 0%, 99%);
     padding: 0 10%;
     display: flex;
@@ -12,6 +12,7 @@
     align-items: center;
     height: 100vh;
     overflow: hidden;
+    font-family: "Cairo", sans-serif;
 }
 
 /* nav {
@@ -49,12 +50,12 @@
     z-index: -1;
 }
 
-.grid-svg {
+/* .grid-svg {
     height: 80%;
     width: 80%;
     position: relative;
     z-index: 1;
-}
+} */
 
 .blur {
     height: 12rem;

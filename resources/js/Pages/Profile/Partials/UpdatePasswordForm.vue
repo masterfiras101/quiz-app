@@ -55,7 +55,7 @@ const updatePassword = () => {
                     ref="currentPasswordInput"
                     v-model="form.current_password"
                     type="password"
-                    class="mt-1 block w-full"
+                    class="mt-1 block w-full text-center text-black"
                     autocomplete="current-password"
                 />
 

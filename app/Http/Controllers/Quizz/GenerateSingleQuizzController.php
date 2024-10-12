@@ -32,13 +32,18 @@ class GenerateSingleQuizzController extends Controller
         $totalQuestions = $request[0]['results']['totalQuestions'];
         $percntag= ceil($score/$totalQuestions*100);
         $comment= match(true){
-            $percntag>= 80 &&  $percntag<=100 => 'مستواك ممتاز',
-            $percntag>= 60 &&  $percntag<=79 => 'مستواك جيد',
-            $percntag>= 40 &&  $percntag<=59 => 'مستواك ضعيف',
-            $percntag>= 39 => 'راسب',
+            $percntag>= 80 &&  $percntag<=100 => ' ممتاز',
+            $percntag>= 60 &&  $percntag<=79 => 'جيد جداً',
+            $percntag>= 40 &&  $percntag<=59 => ' جيد',
+            $percntag>= 39 => 'ضعيف',
             default =>'فاشل'
         };
-        return Inertia::render('GenerateQuizz/GenerateSingleQuizzResult',[
+        // return Inertia::render('GenerateQuizz/GenerateSingleQuizzResult',[
+        //     'percentag'=>$percntag,
+        //     'comment'=>$comment
+        // ]
+        //  );
+         return Inertia::render('Questions/QuestionsReports/QuestionsReportPage',[
             'percentag'=>$percntag,
             'comment'=>$comment
         ]

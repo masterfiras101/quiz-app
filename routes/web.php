@@ -46,9 +46,7 @@ Route::get('/contact-us', function () {
 Route::get('/help', function () {
     return Inertia('Help/HelpPage');
 });
-Route::get('/report', function () {
-    return Inertia('Questions/QuestionsReports/QuestionsReportPage');
-});
+
 
 // Grouped routes for managing questions using QuestionController
 Route::controller(App\Http\Controllers\QuestionController::class)->group(function () {
@@ -72,6 +70,12 @@ Route::controller(App\Http\Controllers\Quizz\GenerateSingleQuizzController::clas
     Route::get('/generate-exam-choose-language','choose_language');
     // Start the exam in the chosen language
     Route::get('/generate-exam-choose-language/{language}','start_language_exam');
+
+
+    // report
+    Route::get('/report', function () {
+    return Inertia('Questions/QuestionsReports/QuestionsReportPage');   
+        });
 });
 
 Route::controller(App\Http\Controllers\AnswerController::class)->group(function () {
