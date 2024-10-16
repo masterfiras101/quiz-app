@@ -125,7 +125,7 @@ function nextQuestion(){
 </div>
 
 <Link href="/questions-main-page" target="_blank" class="button first mb-100%">
-    <button>رجوع</button><span></span>
+    <button>عودة</button><span></span>
 </Link>
 
 <Link href="/generate-single-quizz" target="_blank" class="button sec"><button>توليد اسئلة</button><span></span></Link>

@@ -6,7 +6,6 @@ import {Link} from '@inertiajs/vue3'
 <template>
 
     <Head title="الصفحة الرئيسية" />
-
     <div class="main_splash">
         <n class="mt-3 flex   items-center justify-center">
          <p class="items-center sitename"> أسئلة البرمجة الشاملة </p>
@@ -29,7 +28,7 @@ import {Link} from '@inertiajs/vue3'
     <p>مرحباً بك  </p>
     <p>في أسئلة البرمجة الشاملة  </p>
 </div>
-
+    
 <Link href="/questions-main-page" target="_blank" class="button first">
     <button>ابدأ</button><span></span>
 </Link>

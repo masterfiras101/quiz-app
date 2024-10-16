@@ -51,7 +51,7 @@ Route::get('/help', function () {
 // Grouped routes for managing questions using QuestionController
 Route::controller(App\Http\Controllers\QuestionController::class)->group(function () {
     // Display the main questions page
-    Route::get('/questions-main-page','index');
+    Route::get('/questions-main-page','index')->name('q-main-page');
     // Handle creating new questions
     Route::post('/questions-main-page','store');
     // Handle updating existing questions
@@ -74,7 +74,7 @@ Route::controller(App\Http\Controllers\Quizz\GenerateSingleQuizzController::clas
 
     // report
     Route::get('/report', function () {
-    return Inertia('Questions/QuestionsReports/QuestionsReportPage');   
+    return Inertia('Questions/QuestionsReports/QuestionsReportPage');
         });
 });
 
