@@ -17,5 +17,6 @@ export default defineConfig({
             },
         }),
     ],
+    outDir: 'public/build',
     base: '/quiz-app/',
 });
