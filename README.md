@@ -1,4 +1,4 @@
-# Laravel-Quizz-Application
+# Quizz-Website
 
 
 
